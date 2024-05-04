@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-01-29 07:58+0330\n"
+"POT-Creation-Date: 2024-05-02 12:43+0330\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -8,17 +8,17 @@ msgstr ""
 "Language: ar\n"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:34
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:158
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:159
 msgid "10 min"
 msgstr "10 دقيقة"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:35
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:162
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:163
 msgid "15 min"
 msgstr "15 دقيقة"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:36
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:166
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:167
 msgid "30 min"
 msgstr "30 دقيقة"
 
@@ -27,17 +27,17 @@ msgid "30 minutes is added to Isha time during Ramadan in this method"
 msgstr "يتم إضافة 30 دقيقة إلى وقت صلاة العشاء خلال شهر رمضان"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:33
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:154
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:155
 msgid "5 min"
 msgstr "5 دقيقة"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:37
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:170
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:171
 msgid "60 min"
 msgstr "60 دقيقة"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:38
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:174
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:175
 msgid "90 min"
 msgstr "90 دقيقة"
 
@@ -77,7 +77,7 @@ msgstr "إضافة أذان مخصص"
 msgid "Add Custom Audio"
 msgstr "إضافة صوت مخصص"
 
-#: src/screens/settings_reminders/index.tsx:82
+#: src/screens/settings_reminders/index.tsx:80
 msgid "Add Reminder"
 msgstr "إضافة تذكير"
 
@@ -174,7 +174,7 @@ msgstr "هل أنت متأكد أنك تريد حذف هذا؟"
 msgid "Asr Calculation"
 msgstr "طريقة حساب أذان العصر"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:22
+#: src/screens/settings_display/hide_prayer_settings.tsx:31
 msgid "At least one prayer time must be shown"
 msgstr "يجب إظهار وقت صلاة واحد على الأقل"
 
@@ -217,8 +217,8 @@ msgstr "التقويم"
 #: src/screens/qada_counter/edit_counter_modal.tsx:120
 #: src/screens/qada_counter/edit_counter_modal.tsx:167
 #: src/screens/settings_adhan/index.tsx:241
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:126
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:304
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:127
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:305
 msgid "Cancel"
 msgstr "إلغاء"
 
@@ -319,7 +319,7 @@ msgstr "مستشعر البوصلة غير متوفر"
 
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:144
 #: src/screens/qada_counter/edit_counter_modal.tsx:166
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:303
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:304
 msgid "Confirm"
 msgstr "تأكيد"
 
@@ -331,7 +331,7 @@ msgstr "مستمر"
 msgid "Coordinates updated"
 msgstr "تم تحديث الإحداثيات"
 
-#: src/screens/settings_reminders/index.tsx:46
+#: src/screens/settings_reminders/index.tsx:44
 msgid "Copy"
 msgstr "نسخ"
 
@@ -345,7 +345,7 @@ msgid "Country"
 msgstr "دولة"
 
 #: src/adhan/calculation_methods.ts:14
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:177
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:178
 msgid "Custom"
 msgstr "مخصص"
 
@@ -470,7 +470,7 @@ msgstr "تحرير العداد"
 msgid "Edit Location"
 msgstr "تعديل الموقع"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:121
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:122
 msgid "Edit Reminder"
 msgstr "تحرير تذكير"
 
@@ -569,13 +569,13 @@ msgstr "منطقة الخليج"
 msgid "Hanafi"
 msgstr "حنفي"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:41
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:63
+#: src/screens/settings_display/hide_prayer_settings.tsx:52
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:85
 msgid "Hidden?"
 msgstr "إخفاء؟"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:37
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:59
+#: src/screens/settings_display/hide_prayer_settings.tsx:48
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:81
 msgid "Hide Prayer Times"
 msgstr "إخفاء أوقات الصلاة"
 
@@ -737,7 +737,7 @@ msgstr "الكويت"
 
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:113
 #: src/screens/qada_counter/edit_counter_modal.tsx:127
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:132
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:133
 msgid "Label"
 msgstr "تسمية"
 
@@ -883,7 +883,7 @@ msgstr "عداد جديد"
 msgid "New Location"
 msgstr "إضافة موقع جديد"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:121
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:122
 msgid "New Reminder"
 msgstr "تذكير جديد"
 
@@ -979,11 +979,11 @@ msgid "One-Seventh of the Night"
 msgstr "سبع الليل"
 
 #. shown in add/edit reminder dialog
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:259
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:260
 msgid "Only once?"
 msgstr "مرة واحدة فقط؟"
 
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:44
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:64
 msgid "Only six items can be shown at the same time"
 msgstr "يمكن عرض ستة عناصر فقط في نفس الوقت"
 
@@ -1005,7 +1005,7 @@ msgstr "مستودع مفتوح المصدر"
 msgid "Open-source"
 msgstr "مفتوح المصدر"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:256
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:257
 msgid "Options"
 msgstr "خيارات"
 
@@ -1078,7 +1078,7 @@ msgstr "مدير الطاقة"
 msgid "Prayer Times"
 msgstr "أوقات الصلاة"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:219
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:220
 msgid "Prayer list"
 msgstr "قائمة الصلاة"
 
@@ -1160,8 +1160,8 @@ msgid "Remind me next year"
 msgstr "ذكرني العام المقبل"
 
 #: src/screens/fullscreen_alarm/index.tsx:68
-#: src/tasks/set_reminder.ts:97
-#: src/tasks/set_reminder.ts:130
+#: src/tasks/set_reminder.ts:109
+#: src/tasks/set_reminder.ts:142
 #: src/utils/dialogs.ts:62
 msgid "Reminder"
 msgstr "تذكير"
@@ -1355,8 +1355,8 @@ msgstr "بعض الأجهزة تحتاج إلى إعدادات إضافية دا
 
 #: src/screens/settings_notifications/notification_setting.tsx:242
 #: src/screens/settings_notifications/notification_setting.tsx:282
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:243
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:245
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:244
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:246
 msgid "Sound"
 msgstr "صوت"
 
@@ -1430,13 +1430,13 @@ msgstr "لون السمة"
 msgid "Thursday"
 msgstr "الخميس"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:40
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:142
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:62
+#: src/screens/settings_display/hide_prayer_settings.tsx:51
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:143
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:84
 msgid "Time"
 msgstr "وقت"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:199
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:200
 msgid "Time condition"
 msgstr "شرط الوقت"
 
@@ -1444,7 +1444,7 @@ msgstr "شرط الوقت"
 msgid "Time format"
 msgstr "تنسيق الوقت"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:147
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:148
 msgid "Time list"
 msgstr "قائمة الوقت"
 
@@ -1647,11 +1647,11 @@ msgstr "يمكنك تغيير وقت إرسال إشعار التنبيه الق
 msgid "You can choose to replace one of calendars with your current location"
 msgstr "يمكنك استبدال أحد التقاويم بموقعك الحالي"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:38
+#: src/screens/settings_display/hide_prayer_settings.tsx:49
 msgid "You can hide prayer times you don't want to see in the main screen here:"
 msgstr "يمكنك إخفاء أوقات الصلاة التي لا تريد رؤيتها في الشاشة الرئيسية هنا:"
 
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:60
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:82
 msgid "You can hide prayer times you don't want to see in the widget here:"
 msgstr "يمكنك إخفاء أوقات الصلاة التي لا تريد رؤيتها في المصغر هنا:"
 
@@ -1693,7 +1693,7 @@ msgstr "عن التطبيق"
 msgid "adjustment.hint"
 msgstr "عدد الدقائق التي ستضاف إلى الأوقات المحسوبة"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:215
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:216
 msgid "after"
 msgstr "بعد"
 
@@ -1710,7 +1710,7 @@ msgstr "عصر"
 msgid "backup_settings"
 msgstr "النسخ الاحتياطي"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:214
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:215
 msgid "before"
 msgstr "قبل"
 
@@ -1807,8 +1807,8 @@ msgstr "في حالة التمكين، سيتم عرض إشعار قبل حوا�
 msgid "intro"
 msgstr "مقدمة"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:46
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:68
+#: src/screens/settings_display/hide_prayer_settings.tsx:56
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:89
 msgid "is prayer time hidden?"
 msgstr "هل وقت الصلاة مخفي؟"
 
@@ -1833,7 +1833,7 @@ msgstr "مغرب"
 msgid "masjid_an_nabawi"
 msgstr "المسجد النبوي"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:195
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:196
 msgid "minutes"
 msgstr "دقيقة"
 
@@ -1896,8 +1896,8 @@ msgstr "إعدادات"
 msgid "should notification widget be shown?"
 msgstr "هل يجب عرض المصغر في الإشعارات؟"
 
-#: src/screens/settings_display/hide_prayer_setting.tsx:16
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:29
+#: src/screens/settings_display/hide_prayer_setting.tsx:34
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:39
 msgid "should {prayerName} be hidden?"
 msgstr "هل يجب إخفاء ال{prayerName}؟"
 

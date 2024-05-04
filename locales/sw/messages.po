@@ -5,118 +5,118 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: @lingui/cli\n"
-"Language: tr\n"
+"Language: sw\n"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:34
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:159
 msgid "10 min"
-msgstr "10 dk."
+msgstr "Dakika 10"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:35
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:163
 msgid "15 min"
-msgstr "15 dk."
+msgstr "Dakika 15"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:36
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:167
 msgid "30 min"
-msgstr "30 dk."
+msgstr "Dakika 30"
 
 #: src/screens/settings_calculation/index.tsx:111
 msgid "30 minutes is added to Isha time during Ramadan in this method"
-msgstr "Bu yöntemde ramazan boyunca yatsı vaktine 30 dakika eklenir"
+msgstr "Dakika 30 huongezwa kwa wakati wa Isha wakati wa Ramadhani kwa njia hii"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:33
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:155
 msgid "5 min"
-msgstr "15 dk."
+msgstr "5 dakika"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:37
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:171
 msgid "60 min"
-msgstr "60 dk."
+msgstr "Dakika 60"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:38
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:175
 msgid "90 min"
-msgstr "90 dk."
+msgstr "Dakika 90"
 
 #: src/constants/notification.ts:25
 msgid "ADHAN_CHANNEL_NAME"
-msgstr "Ezan"
+msgstr "Adhana"
 
 #: src/screens/settings_calculation_advanced/index.tsx:139
 msgid "Abyad"
-msgstr "Abyad (Beyazlık)"
+msgstr "Abyad"
 
 #: src/screens/qibla_finder_compass/accuracy_indicator.tsx:37
 msgid "Accuracy"
-msgstr "Doğruluk"
+msgstr "Usahihi"
 
 #: fastlane/update/update.ts:41
 #: website/src/_includes/home.tsx:79
 msgid "Ad-Free"
-msgstr "Reklamsız"
+msgstr "Bila Matangazo"
 
 #: src/screens/settings_fix_common_problems/adaptive_charging_toggle.tsx:15
 msgid "Adaptive Charging"
-msgstr "Uyarlanabilir Şarj"
+msgstr "Kuchaji Adaptive"
 
 #: src/components/audio_picker.tsx:408
 #: src/components/new_audio_dialog.tsx:60
 #: src/screens/settings_adhan/index.tsx:244
 msgid "Add"
-msgstr "Ekle"
+msgstr "Ongeza"
 
 #: src/screens/settings_adhan/index.tsx:214
 #: src/screens/settings_adhan/index.tsx:222
 msgid "Add Custom Adhan"
-msgstr "Ezan sesini kişiselleştir"
+msgstr "Ongeza Adhana Maalum"
 
 #: src/components/new_audio_dialog.tsx:40
 msgid "Add Custom Audio"
-msgstr "Özel Ses Ekleme"
+msgstr "Ongeza Sauti Maalum"
 
 #: src/screens/settings_reminders/index.tsx:80
 msgid "Add Reminder"
-msgstr "Hatırlatıcı ekle"
+msgstr "Ongeza Kikumbusho"
 
 #: src/screens/qada_counter/index.tsx:87
 msgid "Add new counter"
-msgstr "Yeni sayaç ekle"
+msgstr "Ongeza kihesabu kipya"
 
 #: src/screens/favorite_locations/index.tsx:118
 msgid "Add new location"
-msgstr "Yeni konum ekle"
+msgstr "Ongeza eneo jipya"
 
 #: src/screens/fullscreen_alarm/index.tsx:64
 msgid "Adhan"
-msgstr "Ezan"
+msgstr "Adhana"
 
 #: src/screens/settings_adhan/index.tsx:140
 msgid "Adhan audio file is not downloaded yet"
-msgstr "Ezan sesleri henüz indirilmedi"
+msgstr "Faili ya sauti ya Adhan bado haijapakuliwa"
 
 #: src/screens/settings_calculation/index.tsx:120
 msgid "Adjustments"
-msgstr "Ayarlamalar"
+msgstr "Marekebisho"
 
 #: src/components/advanced_custom_adhan_toggle.tsx:16
 #: src/screens/settings_fix_common_problems/index.tsx:119
 msgid "Advanced"
-msgstr "Gelişmiş"
+msgstr "Advanced"
 
 #: src/screens/settings_calculation/index.tsx:126
 msgid "Advanced Calculation Settings"
-msgstr "Gelişmiş hesaplama ayarları"
+msgstr "Mipangilio ya Kina ya Kukokotoa"
 
 #: src/screens/settings_notifications/index.tsx:80
 msgid "Advanced Settings"
-msgstr "Gelişmiş Ayarlar"
+msgstr "Mipangilio ya Kina"
 
 #: src/screens/settings_calculation_advanced/index.tsx:138
 msgid "Ahmer"
-msgstr "Ahmer (Kızıllık)"
+msgstr "Ahmer"
 
 #. Don't translate Al-Azan name
 #: website/src/_includes/home.tsx:36
@@ -127,56 +127,56 @@ msgstr "Al-Azan"
 #. Max. 30 characters
 #: fastlane/update/update.ts:27
 msgid "Al-Azan - Prayer Times"
-msgstr "Al-Azan - Namaz Vakitleri"
+msgstr "Al-Azan - Nyakati za Maombi"
 
 #: website/src/_includes/privacy-policy.tsx:61
 msgid "Al-Azan is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details."
-msgstr "Al-Azan, yararlı olacağı umuduyla, ancak HERHANGİ BİR GARANTİ OLMAKSIZIN; hatta ZIMNİ TİCARİ ELVERİŞLİLİK veya BELİRLİ BİR AMACA UYGUNLUK garantisi olmaksızın dağıtılmaktadır. Daha fazla ayrıntı için GNU Affero Genel Kamu Lisansına bakınız."
+msgstr "Al-Azan inasambazwa kwa matumaini kwamba itakuwa na manufaa, lakini BILA UDHAMINI WOWOTE; bila hata dhamana iliyodokezwa ya UUZAJI au KUFAA KWA KUSUDI FULANI. Tazama Leseni ya Umma ya GNU Affero kwa maelezo zaidi."
 
 #: website/src/_includes/privacy-policy.tsx:56
 msgid "Al-Azan is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License (v3.0) as published by the Free Software Foundation."
-msgstr "Al-Azan özgür bir yazılımdır: Özgür Yazılım Vakfı tarafından yayınlanan GNU Affero Genel Kamu Lisansı (v3.0) koşulları altında yeniden dağıtabilir ve/veya değiştirebilirsiniz."
+msgstr "Al-Azan ni programu isiyolipishwa: unaweza kuisambaza tena na/au kuirekebisha chini ya masharti ya GNU Affero General Public License (v3.0) kama ilivyochapishwa na Free Software Foundation."
 
 #: src/utils/permission.ts:177
 msgid "Alarms Permission"
-msgstr "Alarm izni"
+msgstr "Ruhusa ya Kengele"
 
 #: website/src/_includes/privacy-policy.tsx:39
 msgid "All data provided to Al-Azan is only stored locally in your device. Your data is not uploaded anywhere. The developers of Al-Azan do not have access to it. Your data is not shared with any third parties. Al-Azan does not include any advertisement libraries or any 3rd party tracking (analytics) code, such as Google Analytics or Facebook SDK."
-msgstr "Al-Azan'a sağlanan tüm veriler yalnızca cihazınızda yerel olarak saklanır. Verileriniz hiçbir yere yüklenmez. Al-Azan'ın geliştiricilerinin bu verilere erişimi yoktur. Verileriniz herhangi bir üçüncü tarafla paylaşılmaz. Al-Azan, herhangi bir reklam kütüphanesi veya Google Analytics veya Facebook SDK gibi herhangi bir 3. taraf izleme (analitik) kodu içermez."
+msgstr "Data yote iliyotolewa kwa Al-Azan inahifadhiwa ndani ya kifaa chako pekee. Data yako haijapakiwa popote. Watengenezaji wa Al-Azan hawana ufikiaji wake. Data yako haijashirikiwa na wahusika wengine. Al-Azan haijumuishi maktaba zozote za matangazo au msimbo wowote wa ufuatiliaji (analytics) wa watu wengine, kama vile Google Analytics au Facebook SDK."
 
 #: src/screens/settings_adhan/index.tsx:77
 msgid "An error occured while playing the current track"
-msgstr "Geçerli ses çalınırken bir hata oluştu"
+msgstr "Hitilafu ilitokea wakati wa kucheza wimbo wa sasa"
 
 #: fastlane/update/update.ts:39
 #: website/src/_includes/home.tsx:77
 msgid "App features"
-msgstr "Uygulama özellikleri"
+msgstr "Vipengele vya programu"
 
 #: src/screens/settings_display/calendar_lunar_settings.tsx:31
 msgid "Arabic"
-msgstr "Arapça"
+msgstr "Kiarabu"
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:103
 msgid "Are you sure you want to delete \"{0}\" ?"
-msgstr "\"{0}\" dosyasını silmek istediğinizden emin misiniz?"
+msgstr "Je, una uhakika unataka kufuta \"{0}\" ?"
 
 #: src/utils/dialogs.ts:11
 msgid "Are you sure you want to delete \"{itemName}\" ?"
-msgstr "\"{itemName}\" silmek istediğinizden emin misiniz?"
+msgstr "Je, una uhakika unataka kufuta \"{itemName}\" ?"
 
 #: src/utils/dialogs.ts:12
 msgid "Are you sure you want to delete this?"
-msgstr "Silmek istediğinizden emin misiniz?"
+msgstr "Je, una uhakika unataka kufuta hii?"
 
 #: src/screens/settings_calculation_advanced/index.tsx:88
 msgid "Asr Calculation"
-msgstr "İkindi hesaplama"
+msgstr "Hesabu ya Asr"
 
 #: src/screens/settings_display/hide_prayer_settings.tsx:31
 msgid "At least one prayer time must be shown"
-msgstr "En az bir namaz vakti gösterilmelidir"
+msgstr "Angalau wakati mmoja wa maombi lazima uonyeshwe"
 
 #: src/screens/intro/intro.tsx:118
 #: src/screens/settings_calculation/calendar_settings.tsx:44
@@ -184,32 +184,32 @@ msgstr "En az bir namaz vakti gösterilmelidir"
 #: src/utils/ramadan.ts:95
 #: website/src/_includes/privacy-policy.tsx:48
 msgid "Attention"
-msgstr "Dikkat"
+msgstr "Tahadhari"
 
 #: src/screens/settings_calculation_advanced/index.tsx:42
 msgid "Auto (Default)"
-msgstr "Otomatik (Varsayılan)"
+msgstr "Otomatiki (Chaguomsingi)"
 
 #: src/screens/settings_notifications/bypass_dnd_setting.tsx:26
 msgid "Bypass \"Do Not Disturb\"?"
-msgstr "\"Rahatsız Etmeyin \"i atlamak mı?"
+msgstr "Bypass \"Usisumbue\"?"
 
 #: src/screens/settings_calculation/index.tsx:96
 msgid "Calculating Adhan has many different methods. Each method provides different results. It is your responsibility to search and use the right method."
-msgstr "Ezan hesaplamanın birçok farklı yöntemi vardır. Her yöntem farklı sonuçlar verir. Doğru yöntemi bulmak ve kullanmak sizin sorumluluğunuzdadır."
+msgstr "Kukokotoa Adhana kuna njia nyingi tofauti. Kila njia hutoa matokeo tofauti. Ni jukumu lako kutafuta na kutumia njia sahihi."
 
 #: src/screens/intro/intro.tsx:32
 msgid "Calculation"
-msgstr "Hesaplama"
+msgstr "Hesabu"
 
 #: src/screens/settings_calculation/index.tsx:98
 #: src/screens/settings_calculation/index.tsx:100
 msgid "Calculation Method"
-msgstr "Hesaplama yöntemi"
+msgstr "Njia ya Kuhesabu"
 
 #: src/screens/settings_calculation/calendar_settings.tsx:21
 msgid "Calendar"
-msgstr "Takvim"
+msgstr "Kalenda"
 
 #: src/components/new_audio_dialog.tsx:57
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:106
@@ -220,154 +220,154 @@ msgstr "Takvim"
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:127
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:305
 msgid "Cancel"
-msgstr "İptal"
+msgstr "Ghairi"
 
 #: src/tasks/set_pre_alarm.ts:60
 msgid "Cancel Alarm"
-msgstr "Alarmı İptal Et"
+msgstr "Ghairi Kengele"
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:183
 msgid "Cancel download"
-msgstr "İndirmeyi iptal et"
+msgstr "Ghairi upakuaji"
 
 #: src/screens/settings_calculation_advanced/index.tsx:90
 msgid "Choose Asr Calculation Madhab"
-msgstr "İkindi hesaplama mezhebini seçin"
+msgstr "Chagua Madhab ya Kuhesabu Asr"
 
 #: src/screens/settings_calculation/index.tsx:101
 #: src/screens/settings_notifications/vibration_setting.tsx:25
 msgid "Choose Calculation Method"
-msgstr "Hesaplama yöntemini seçin"
+msgstr "Chagua Njia ya Kuhesabu"
 
 #: src/screens/settings_calculation_advanced/index.tsx:68
 msgid "Choose High Latitude Setting"
-msgstr "Yüksek enlem ayarını seçin"
+msgstr "Chagua Mpangilio wa Latitudo ya Juu"
 
 #: src/screens/settings_display/language_settings.tsx:106
 msgid "Choose Language"
-msgstr "Dil seçiniz"
+msgstr "Chagua Lugha"
 
 #: src/screens/settings_calculation_advanced/index.tsx:104
 msgid "Choose Polar Resolution"
-msgstr "Kutuplar için çözüm"
+msgstr "Chagua Azimio la Polar"
 
 #: src/screens/settings_calculation_advanced/index.tsx:133
 msgid "Choose Shafaq method"
-msgstr "Şafak hesaplama methodu"
+msgstr "Chagua njia ya Shafaq"
 
 #: src/screens/settings_calculation_advanced/index.tsx:38
 msgid "Choose calculation rounding method"
-msgstr "Hesaplama yuvarlama yöntemini seçin"
+msgstr "Chagua njia ya kuhesabu kuzunguka"
 
 #: src/screens/settings_calculation/calendar_settings.tsx:26
 #: src/screens/settings_display/calendar_secondary_settings.tsx:26
 msgid "Choose calendar type"
-msgstr "Takvim türünü seçin"
+msgstr "Chagua aina ya kalenda"
 
 #: src/screens/settings_display/calendar_lunar_settings.tsx:26
 msgid "Choose lunar calendar language"
-msgstr "Ay takvimi dilini seçin"
+msgstr "Chagua lugha ya kalenda ya mwezi"
 
 #: src/screens/settings_calculation_advanced/index.tsx:51
 msgid "Choose midnight calculation method"
-msgstr "Gece yarısı hesaplama yöntemini seçin"
+msgstr "Chagua njia ya kuhesabu usiku wa manane"
 
 #: src/screens/settings_display/number_format_settings.tsx:24
 msgid "Choose numbering system"
-msgstr "Sayı sistemini seçin"
+msgstr "Chagua mfumo wa nambari"
 
 #: src/screens/settings_widget/city_name_pos_settings.tsx:22
 msgid "Choose which calendar to replace"
-msgstr "Hangi takvimin değiştirileceğini seçin"
+msgstr "Chagua kalenda ya kubadilisha"
 
 #: src/screens/settings_location/location_search.tsx:97
 #: src/screens/settings_location/location_search.tsx:100
 msgid "City/Area"
-msgstr "Şehir/Bölge"
+msgstr "Jiji/Eneo"
 
 #: src/screens/settings_location/location_coordinates.tsx:122
 msgid "Clear the coordinates"
-msgstr "Koordinatları temizleyin"
+msgstr "Futa kuratibu"
 
 #: src/screens/settings_location/location_search.tsx:119
 msgid "Clear the location"
-msgstr "Konumu temizleyin"
+msgstr "Futa eneo"
 
 #: src/screens/settings_location/location_coordinates.tsx:69
 msgid "Clipboard data does not contain coordinates"
-msgstr "Kopyalanan veriler koordinat içermiyor"
+msgstr "Data ya Ubao wa kunakili haina viwianishi"
 
 #: src/screens/settings_calculation/calc_params_box.tsx:145
 msgid "Close"
-msgstr "Kapat"
+msgstr "Funga"
 
 #: src/screens/settings_calculation_advanced/index.tsx:115
 msgid "Closest City"
-msgstr "En yakın şehir"
+msgstr "Jiji la karibu zaidi"
 
 #: src/screens/settings_calculation_advanced/index.tsx:119
 msgid "Closest Date"
-msgstr "En yakın tarih"
+msgstr "Tarehe ya Karibu zaidi"
 
 #: src/screens/qibla_finder_map/index.tsx:242
 msgid "Compass Lock"
-msgstr "Pusula kilidi"
+msgstr "Kufuli ya Dira"
 
 #: src/screens/qibla_finder_compass/accuracy_indicator.tsx:14
 msgid "Compass sensor unavailable"
-msgstr "Pusula sensörü kullanılamıyor"
+msgstr "Kihisi cha dira hakipatikani"
 
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:144
 #: src/screens/qada_counter/edit_counter_modal.tsx:166
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:304
 msgid "Confirm"
-msgstr "Onayla"
+msgstr "Thibitisha"
 
 #: src/screens/settings_notifications/vibration_setting.tsx:30
 msgid "Continuous"
-msgstr "Sürekli"
+msgstr "Kuendelea"
 
 #: src/screens/settings_location/gps_button.tsx:30
 msgid "Coordinates updated"
-msgstr "Koordinatlar güncellendi"
+msgstr "Viratibu vimesasishwa"
 
 #: src/screens/settings_reminders/index.tsx:44
 msgid "Copy"
-msgstr "Anlaşıldı"
+msgstr "Nakili"
 
 #: src/screens/qada_counter/edit_counter_modal.tsx:145
 msgid "Count"
-msgstr "Say"
+msgstr "Hesabu"
 
 #: src/screens/settings_location/location_search.tsx:78
 #: src/screens/settings_location/location_search.tsx:81
 msgid "Country"
-msgstr "Ülke"
+msgstr "Nchi"
 
 #: src/adhan/calculation_methods.ts:14
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:178
 msgid "Custom"
-msgstr "Özel"
+msgstr "Desturi"
 
 #: src/screens/settings_backup/export_settings.tsx:27
 msgid "Custom sounds and muezzins will not be exported"
-msgstr "Özel sesler ve müezzinler dışa aktarılmayacaktır"
+msgstr "Sauti maalum na muezzini hazitasafirishwa"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:26
 msgid "Custom upcoming alarm time"
-msgstr "Özel yaklaşan alarm zamanı"
+msgstr "Saa maalum ya kengele inayokuja"
 
 #: src/screens/settings_display/theme_settings.tsx:40
 msgid "Dark"
-msgstr "Koyu"
+msgstr "Giza"
 
 #: src/screens/monthly_view/index.tsx:226
 msgid "Date"
-msgstr "Tarih"
+msgstr "Tarehe"
 
 #: src/screens/qada_counter/counter_view.tsx:57
 msgid "Decrement"
-msgstr "Azalma"
+msgstr "Kupungua"
 
 #: src/components/audio_picker.tsx:73
 #: src/components/audio_picker.tsx:108
@@ -376,7 +376,7 @@ msgstr "Azalma"
 #: src/screens/settings_display/calendar_lunar_settings.tsx:30
 #: src/screens/settings_display/number_format_settings.tsx:28
 msgid "Default"
-msgstr "Varsayılan"
+msgstr "Chaguomsingi"
 
 #: src/components/audio_picker_item.tsx:63
 #: src/screens/favorite_locations/favorite_location_list_item_view.tsx:77
@@ -385,301 +385,301 @@ msgstr "Varsayılan"
 #: src/screens/settings_reminders/reminder_item.tsx:125
 #: src/utils/dialogs.ts:9
 msgid "Delete"
-msgstr "Sil"
+msgstr "Futa"
 
 #: src/screens/settings_fix_common_problems/index.tsx:57
 msgid "Depending on your device and android version, Sometimes your device may kill the app in the background to save battery. This can prevent alarms/notifications from being delivered."
-msgstr "Cihazınıza ve Android sürümünüze bağlı olarak, bazen cihazınız pilden tasarruf etmek için uygulamayı arka planda kapatabilir. Bu durum, alarmların/bildirimlerin iletilmesini engel olabilir."
+msgstr "Kulingana na kifaa chako na toleo la android, Wakati mwingine kifaa chako kinaweza kuua programu chinichini ili kuokoa betri. Hii inaweza kuzuia kengele/arifa ziwasilishwe."
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:204
 msgid "Deselect as Fajr Adhan"
-msgstr "Fecr ezanı seçimini kaldır"
+msgstr "Acha kuchagua kama Fajr Adhan"
 
 #: src/components/audio_picker.tsx:98
 msgid "Device sounds"
-msgstr "Cihaz sesleri"
+msgstr "Sauti za kifaa"
 
 #: src/screens/settings_fix_common_problems/index.tsx:65
 msgid "Disabled"
-msgstr "Devre dışı bırakıldı"
+msgstr "Imezimwa"
 
 #: src/screens/qibla_finder/index.tsx:89
 msgid "Disclaimer"
-msgstr "Sorumluluk reddi"
+msgstr "Kanusho"
 
 #: src/screens/fullscreen_alarm/index.tsx:153
 #: src/tasks/set_alarm.ts:106
 #: src/utils/dialogs.ts:73
 msgid "Dismiss"
-msgstr "Reddet"
+msgstr "Ondoa"
 
 #: src/screens/settings_calculation/index.tsx:114
 msgid "Diyanet method provided in Al-Azan is an approximation of the official times. Since there's not enough documentation available on how the times are exactly calculated, times may not align with the official website, especially out of Turkey."
-msgstr "Al-Azan'da verilen Diyanet yöntemi resmi saatlerin yaklaşık bir değeridir. Zamanların tam olarak nasıl hesaplandığına dair yeterli belge bulunmadığından, özellikle Türkiye dışında zamanlar resmi web sitesiyle uyumlu olmayabilir."
+msgstr "Mbinu ya Diyanet iliyotolewa katika Al-Azan ni makadirio ya nyakati rasmi. Kwa kuwa hakuna hati za kutosha kuhusu jinsi nyakati zinavyokokotolewa, nyakati huenda zisilandane na tovuti rasmi, hasa nje ya Uturuki."
 
 #: src/adhan/calculation_methods.ts:104
 msgid "Diyanet İşleri Başkanlığı, Turkey"
-msgstr "Diyanet İşleri Başkanlığı, Türkiye"
+msgstr "Diyanet İşleri Başkanlığı, Uturuki"
 
 #: fastlane/update/update.ts:43
 #: website/src/_includes/home.tsx:80
 msgid "Doesn't use any kind of trackers"
-msgstr "Herhangi bir izleyici kullanmaz"
+msgstr "Haitumii aina yoyote ya vifuatiliaji"
 
 #: src/utils/permission.ts:45
 #: src/utils/permission.ts:181
 #: src/utils/permission.ts:220
 msgid "Don't ask again"
-msgstr "Bir daha sorma"
+msgstr "Usiulize tena"
 
 #: src/utils/ramadan.ts:83
 #: src/utils/ramadan.ts:110
 msgid "Don't show again"
-msgstr "Bir daha gösterme"
+msgstr "Usionyeshe tena"
 
 #: src/screens/settings_notifications_advanced/dont_turn_on_screen.tsx:12
 msgid "Don't show alarm screen?"
-msgstr "Alarm ekranını göstermiyor mu?"
+msgstr "Huonyeshi skrini ya kengele?"
 
 #: src/screens/intro/intro.tsx:101
 msgid "Done"
-msgstr "Tamamlandı"
+msgstr "Imekamilika"
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:186
 msgid "Download"
-msgstr "İndir"
+msgstr "Pakua"
 
 #: src/screens/settings_display/number_format_settings.tsx:30
 msgid "Eastern Arabic"
-msgstr "Doğu Arapçası"
+msgstr "Kiarabu cha Mashariki"
 
 #: src/screens/favorite_locations/favorite_location_list_item_view.tsx:63
 #: src/screens/settings_reminders/reminder_item.tsx:111
 msgid "Edit"
-msgstr "Düzenle"
+msgstr "Hariri"
 
 #: src/screens/settings_calculation/calc_params_box.tsx:140
 msgid "Edit Calculation Parameters"
-msgstr "Hesaplama Parametrelerini Düzenle"
+msgstr "Hariri Vigezo vya Kuhesabu"
 
 #: src/screens/qada_counter/edit_counter_modal.tsx:109
 msgid "Edit Counter"
-msgstr "Sayacı düzenle"
+msgstr "Hariri Kaunta"
 
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:101
 msgid "Edit Location"
-msgstr "Konumu Düzenle"
+msgstr "Badilisha Mahali"
 
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:122
 msgid "Edit Reminder"
-msgstr "Hatırlatıcıyı düzenle"
+msgstr "Badilisha Kikumbusho"
 
 #: src/adhan/calculation_methods.ts:32
 msgid "Egyptian General Survey Authority"
-msgstr "Mısır Genel Araştırma Kurumu"
+msgstr "Mamlaka ya Utafiti Mkuu wa Misri"
 
 #: src/screens/settings_fix_common_problems/index.tsx:65
 msgid "Enabled"
-msgstr "Etkinleştir"
+msgstr "Imewashwa"
 
 #: src/screens/settings_location/location_coordinates.tsx:75
 msgid "Error getting clipboard data"
-msgstr "Kopyalanan veriler alınırken hata oluştu"
+msgstr "Hitilafu katika kupata data ya ubao wa kunakili"
 
 #: src/screens/settings_calculation/index.tsx:108
 #: src/screens/settings_location/location_search.tsx:92
 msgid "Error in loading countries"
-msgstr "Ülkeler yüklenirken hata oluştu"
+msgstr "Hitilafu katika kupakia nchi"
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:85
 msgid "Error while downloading audio"
-msgstr "Sesler indirilirken hata oluştu"
+msgstr "Hitilafu wakati wa kupakua sauti"
 
 #: src/screens/qibla_finder_compass/index.tsx:83
 #: src/screens/settings_location/gps_button.tsx:34
 msgid "Error while getting coordinates"
-msgstr "Koordinatlar alınırken hata oluştu"
+msgstr "Hitilafu wakati wa kupata viwianishi"
 
 #: src/screens/settings_backup/import_settings.tsx:78
 msgid "Error: failed to open file"
-msgstr "Hata: dosya açılamadı"
+msgstr "Hitilafu: imeshindwa kufungua faili"
 
 #: src/screens/settings_display/calendar_secondary_settings.tsx:32
 msgid "Ethiopic"
-msgstr "Etiyopya"
+msgstr "Kiethiopia"
 
 #: src/screens/settings_backup/export_settings.tsx:25
 msgid "Export app data"
-msgstr "Uygulama verilerini dışa aktar"
+msgstr "Hamisha data ya programu"
 
 #: src/screens/settings_backup/export_settings.tsx:26
 msgid "Export data"
-msgstr "Verileri dışa aktar"
+msgstr "Hamisha data"
 
 #: src/screens/settings_calculation/calc_params_box.tsx:59
 #: src/screens/settings_calculation/calc_params_box.tsx:154
 msgid "Fajr Angle"
-msgstr "Fecr Açısı"
+msgstr "Pembe ya Fajr"
 
 #: src/screens/settings_location/gps_button.tsx:48
 msgid "Find My Location"
-msgstr "Konumumu bul"
+msgstr "Tafuta Mahali Pangu"
 
 #. screen title
 #: src/navigation/types.ts:100
 #: src/screens/intro/intro.tsx:40
 msgid "Fix Common Problems"
-msgstr "Yaygın Sorunları Giderin"
+msgstr "Rekebisha Matatizo ya Kawaida"
 
 #: src/adhan/calculation_methods.ts:92
 msgid "France angle 15"
-msgstr "Fransa açı 15"
+msgstr "Pembe ya Ufaransa 15"
 
 #: src/adhan/calculation_methods.ts:98
 msgid "France angle 18"
-msgstr "Fransa açısı 18"
+msgstr "Pembe ya Ufaransa 18"
 
 #: src/components/week_day_selector.tsx:26
 msgid "Friday"
-msgstr "Cuma"
+msgstr "Ijumaa"
 
 #: src/screens/settings_calculation_advanced/index.tsx:137
 msgid "General (default)"
-msgstr "Genel (varsayılan)"
+msgstr "Jumla (chaguo-msingi)"
 
 #: src/screens/qibla_finder_compass/index.tsx:108
 #: src/screens/qibla_finder_compass/index.tsx:170
 #: src/screens/settings_location/gps_button.tsx:52
 msgid "Getting coordinates"
-msgstr "Koordinatları al"
+msgstr "Kupata kuratibu"
 
 #: src/screens/intro/intro.tsx:124
 msgid "Got it"
-msgstr "Anlaşıldı"
+msgstr "Nimeelewa"
 
 #: src/screens/settings_display/calendar_secondary_settings.tsx:30
 msgid "Gregorian"
-msgstr "Gregoryen"
+msgstr "Gregorian"
 
 #: src/adhan/calculation_methods.ts:56
 msgid "Gulf region"
-msgstr "Körfez bölgesi"
+msgstr "Eneo la Ghuba"
 
 #: src/screens/settings_calculation_advanced/index.tsx:98
 msgid "Hanafi"
-msgstr "Hanefi"
+msgstr "Hanafi"
 
 #: src/screens/settings_display/hide_prayer_settings.tsx:52
 #: src/screens/settings_widget/hide_widget_prayer_settings.tsx:85
 msgid "Hidden?"
-msgstr "Gizlensin mi?"
+msgstr "Imefichwa?"
 
 #: src/screens/settings_display/hide_prayer_settings.tsx:48
 #: src/screens/settings_widget/hide_widget_prayer_settings.tsx:81
 msgid "Hide Prayer Times"
-msgstr "Namaz vakitlerini gizle"
+msgstr "Ficha Nyakati za Maombi"
 
 #: fastlane/update/update.ts:59
 #: website/src/_includes/home.tsx:94
 msgid "Hide times you don't need"
-msgstr "İhtiyacınız olmayan zamanları gizleme"
+msgstr "Ficha nyakati ambazo hauitaji"
 
 #: src/screens/qibla_finder_compass/accuracy_indicator.tsx:26
 msgid "High"
-msgstr "Yüksek"
+msgstr "Juu"
 
 #: src/screens/settings_calculation_advanced/index.tsx:66
 msgid "High Latitude"
-msgstr "Yüksek enlem"
+msgstr "Latitudo ya Juu"
 
 #: src/screens/settings_display/highlight_current_setting.tsx:23
 msgid "Highlight current prayer"
-msgstr "Mevcut duayı vurgulayın"
+msgstr "Angazia sala ya sasa"
 
 #: src/screens/settings_about/index.tsx:36
 #: website/src/_data/navigation.ts:2
 msgid "Home"
-msgstr "Anasayfa"
+msgstr "Nyumbani"
 
 #: fastlane/update/update.ts:63
 #: website/src/_includes/home.tsx:96
 msgid "Homescreen and notification Widgets"
-msgstr "Ana ekran ve bildirim Widget'lerı"
+msgstr "Skrini ya nyumbani na Wijeti za arifa"
 
 #: website/src/_includes/privacy-policy.tsx:43
 msgid "However, When using online services, such as Qibla map, app may transmit minimum necessary data that may or may not uniquely identify you. Please keep this in mind while using the app."
-msgstr "Ancak, Kıble haritası gibi çevrimiçi hizmetleri kullanırken, uygulama sizi benzersiz bir şekilde tanımlayabilecek veya tanımlamayabilecek minimum gerekli verileri iletebilir. Lütfen uygulamayı kullanırken bunu aklınızda bulundurun."
+msgstr "Hata hivyo, Unapotumia huduma za mtandaoni, kama vile ramani ya Qibla, programu inaweza kusambaza data inayohitajika ambayo inaweza kukutambulisha au isikutambue kwa njia ya kipekee. Tafadhali kumbuka hili unapotumia programu."
 
 #: src/screens/qibla_finder/index.tsx:106
 msgid "I Understand"
-msgstr "Anlıyorum"
+msgstr "Naelewa"
 
 #: src/constants/notification.ts:49
 msgid "IMPORTANT_CHANNEL_ID"
-msgstr "Önemli"
+msgstr "Muhimu"
 
 #: src/screens/settings_notifications_advanced/notify_next_adhan_setting.tsx:22
 msgid "If enabled, when a notification is shown, it will contain info for the next prayer time"
-msgstr "Etkinleştirilirse, bir sonraki namaz vakti bilgisini bildirim ekranından gösterir"
+msgstr "Ikiwashwa, arifa inapoonyeshwa, itakuwa na maelezo ya wakati unaofuata wa maombi"
 
 #: website/src/_includes/privacy-policy.tsx:49
 msgid "If you have activated “Backup & Reset” in your phone settings (Settings / Backup & Reset / Back up my data), you should be aware that Android itself (not Al-Azan) will periodically save a copy of your phone’s data in Google’s servers. This allows Android to recover your data in case your device gets damaged, or you purchase a new device. The developers of Al-Azan do not have access to this data."
-msgstr "Telefon ayarlarınızda \"Yedekle ve Sıfırla\" seçeneğini etkinleştirdiyseniz (Ayarlar / Yedekle ve Sıfırla / Verilerimi yedekle), Android'in kendisinin (Al-Azan'ın değil) telefonunuzun verilerinin bir kopyasını periyodik olarak Google sunucularına kaydedeceğini bilmelisiniz. Bu, cihazınızın hasar görmesi ya da yeni bir cihaz satın almanız durumunda Android'in verilerinizi kurtarmasını sağlar. Al-Azan geliştiricilerinin bu verilere erişimi yoktur."
+msgstr "Ikiwa umewasha \"Hifadhi na Urejeshe\" katika mipangilio ya simu yako (Mipangilio / Hifadhi nakala na Rudisha / Hifadhi nakala ya data yangu), unapaswa kufahamu kuwa Android yenyewe (si Al-Azan) itahifadhi nakala ya data ya simu yako mara kwa mara kwenye Google. seva. Hii huruhusu Android kurejesha data yako endapo kifaa chako kitaharibika, au ukinunua kifaa kipya. Wasanidi programu wa Al-Azan hawana ufikiaji wa data hii."
 
 #: src/screens/settings_fix_common_problems/index.tsx:114
 msgid "If you still had problem with app stopping after some time, please visit dontkillmyapp.com for more solutions."
-msgstr "Bir süre sonra uygulamanın durmasıyla ilgili hala sorun yaşıyorsanız, daha fazla çözüm için lütfen dontkillmyapp.com adresini ziyaret edin."
+msgstr "Ikiwa bado ulikuwa na tatizo la kusimamisha programu baada ya muda fulani, tafadhali tembelea dontkillmyapp.com kwa masuluhisho zaidi."
 
 #: src/screens/settings_fix_common_problems/index.tsx:60
 msgid "If you want to make sure the app can work reliably, You have to disable power optimization for this app. You can open related settings using the button below."
-msgstr "Uygulamanın sağlıklı bir şekilde çalışabilmesi için pil optimizasyonunu devre dışı bırakmanız gerekir. Aşağıdaki düğmeyi kullanarak ilgili ayarları açabilirsiniz."
+msgstr "Iwapo ungependa kuhakikisha kuwa programu inaweza kufanya kazi kwa uhakika, unapaswa kuzima uboreshaji wa nishati kwa programu hii. Unaweza kufungua mipangilio inayohusiana kwa kutumia kitufe kilicho hapa chini."
 
 #: src/screens/settings_fix_common_problems/adaptive_charging_toggle.tsx:19
 msgid "If your device has adaptive charging, like Google Pixel, and you don't want adhan or reminders to be recognized as an alarm, you can enable this option."
-msgstr "Cihazınız Google Pixel gibi uyarlanabilir şarj özelliğine sahipse ve ezan veya hatırlatıcıların alarm olarak algılanmasını istemiyorsanız bu seçeneği etkinleştirebilirsiniz."
+msgstr "Ikiwa kifaa chako kina chaji inayoweza kubadilika, kama vile Google Pixel, na hutaki adhana au vikumbusho vitambuliwe kama kengele, unaweza kuwasha chaguo hili."
 
 #: src/screens/settings_backup/import_settings.tsx:87
 msgid "Import"
-msgstr "İçe aktarma"
+msgstr "Ingiza"
 
 #: src/screens/settings_backup/index.tsx:12
 msgid "Import app data"
-msgstr "Uygulama verilerini içe aktar"
+msgstr "Ingiza data ya programu"
 
 #: src/screens/settings_backup/import_settings.tsx:73
 msgid "Import successful"
-msgstr "İçe aktarma başarılı"
+msgstr "Imefaulu kuleta"
 
 #: fastlane/update/update.ts:53
 #: website/src/_includes/home.tsx:88
 msgid "In addition to five daily prayers, it has settings for Sunrise, Sunset, Midnight and Night Prayer (Tahajjud)"
-msgstr "Beş vakit namaza ek olarak Gün Doğumu, Gün Batımı, Gece Yarısı ve Gece Namazı (Teheccüd) ayarları vardır"
+msgstr "Mbali na Sala tano za kila siku, ina mipangilio ya Kuchomoza Jua, Kuzama kwa Jua, Usiku wa manane na Sala ya Usiku (Tahajjud)"
 
 #: src/screens/qada_counter/counter_view.tsx:111
 msgid "Increment"
-msgstr "Artış"
+msgstr "Ongezeko"
 
 #: src/screens/qibla_finder/index.tsx:32
 msgid "Info"
-msgstr "Bilgi"
+msgstr "Habari"
 
 #: src/screens/qibla_finder/index.tsx:49
 msgid "Internet connection"
-msgstr "İnternet bağlantısı"
+msgstr "Muunganisho wa mtandao"
 
 #: src/screens/qibla_finder/index.tsx:50
 msgid "Internet connection is necessary for qibla map to work. Please enable your wifi or mobile data and try again."
-msgstr "Kıble haritasının çalışması için internet bağlantısı gereklidir. Lütfen kablosuz ağı veya mobil verinizi etkinleştirin ve tekrar deneyin."
+msgstr "Muunganisho wa mtandao ni muhimu ili ramani ya qibla ifanye kazi. Tafadhali washa wifi yako au data ya simu na ujaribu tena."
 
 #: src/adhan/calculation_methods.ts:116
 #: src/adhan/calculation_methods.ts:123
 msgid "Iran"
-msgstr "İran"
+msgstr "Iran"
 
 #: fastlane/update/update.ts:69
 #: website/src/_includes/home.tsx:100
 msgid "Is localized in English, Persian, Arabic, Turkish, Indonesian, French, Urdu, Hindi, German, Bosnian, Vietnamese, Bangla"
-msgstr "İngilizce, Farsça, Arapça, Türkçe, Endonezce, Fransızca, Urduca, Hintçe, Almanca, Boşnakça, Vietnamca, Bangla dillerinde yerelleştirilmiştir"
+msgstr "Imejanibishwa katika Kiingereza, Kiajemi, Kiarabu, Kituruki, Kiindonesia, Kifaransa, Kiurdu, Kihindi, Kijerumani, Kibosnia, Kivietinamu, Bangla"
 
 #: src/screens/settings_calculation/calc_params_box.tsx:72
 #: src/screens/settings_calculation/calc_params_box.tsx:161
@@ -689,43 +689,43 @@ msgstr "Isha Angle"
 #: src/screens/settings_calculation/calc_params_box.tsx:85
 #: src/screens/settings_calculation/calc_params_box.tsx:168
 msgid "Isha Interval"
-msgstr "Isha Interval"
+msgstr "Muda wa Isha"
 
 #: src/screens/settings_calculation/calendar_settings.tsx:31
 msgid "Islamic"
-msgstr "İslami"
+msgstr "Kiislamu"
 
 #: src/screens/settings_calculation/calendar_settings.tsx:39
 msgid "Islamic (Saudi Arabia sighting)"
-msgstr "İslami (Suudi Arabistan'a göre görünüm)"
+msgstr "Kiislamu (Saudi Arabia kuona)"
 
 #: src/screens/settings_calculation/calendar_settings.tsx:33
 msgid "Islamic (Umm al-Qura)"
-msgstr "İslami (Umm al-Qura)"
+msgstr "Kiislamu (Umm al-Qura)"
 
 #: src/screens/settings_calculation/calendar_settings.tsx:37
 msgid "Islamic (civil)"
-msgstr "İslami (Sivil)"
+msgstr "Kiislamu (kiraia)"
 
 #: src/screens/settings_calculation/calendar_settings.tsx:36
 msgid "Islamic (tabular)"
-msgstr "İslami (Cetvele göre hesaplanmış)"
+msgstr "Kiislamu (tabular)"
 
 #: src/adhan/calculation_methods.ts:50
 msgid "Islamic Society of North America (ISNA)"
-msgstr "Kuzey Amerika İslam Toplumu (ISNA)"
+msgstr "Jumuiya ya Kiislamu ya Amerika Kaskazini (ISNA)"
 
 #: src/utils/dialogs.ts:63
 msgid "It seems that you have imported a backup, don't forget to disable battery optimizations for this app"
-msgstr "Görünüşe göre bir yedeği içe aktardınız, bu uygulama için pil optimizasyonlarını devre dışı bırakmayı unutmayın"
+msgstr "Inaonekana umeleta nakala rudufu, usisahau kuzima uboreshaji wa betri kwa programu hii"
 
 #: src/utils/date.ts:511
 msgid "Just now"
-msgstr "Hemen şimdi"
+msgstr "Sasa hivi"
 
 #: src/adhan/calculation_methods.ts:129
 msgid "Kementrian Agama Republik Indonesia (KEMENAG)"
-msgstr "Endonezya Diyanet İşleri Bakanlığı (KEMENAG)"
+msgstr "Kementrian Agama Republik Indonesia (KEMENAG)"
 
 #: src/adhan/calculation_methods.ts:149
 msgid "Kementrian Hal Ehwal Ugama (Brunei Darussalam)"
@@ -733,205 +733,205 @@ msgstr "Kementrian Hal Ehwal Ugama (Brunei Darussalam)"
 
 #: src/adhan/calculation_methods.ts:68
 msgid "Kuwait"
-msgstr "Kuveyt"
+msgstr "Kuwait"
 
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:113
 #: src/screens/qada_counter/edit_counter_modal.tsx:127
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:133
 msgid "Label"
-msgstr "Etiket"
+msgstr "Lebo"
 
 #: src/screens/settings_display/language_settings.tsx:103
 msgid "Language"
-msgstr "Dil"
+msgstr "Lugha"
 
 #: src/screens/settings_location/location_coordinates.tsx:83
 #: src/screens/settings_location/location_coordinates.tsx:89
 msgid "Latitude"
-msgstr "Enlem"
+msgstr "Latitudo"
 
 #: src/screens/settings_location/location_coordinates.tsx:96
 msgid "Latitude is invalid"
-msgstr "Enlem geçersiz"
+msgstr "Latitudo ni batili"
 
 #: src/screens/settings_about/index.tsx:42
 msgid "License"
-msgstr "Lisans"
+msgstr "Leseni"
 
 #: src/screens/settings_display/theme_settings.tsx:37
 msgid "Light"
-msgstr "Aydınlık"
+msgstr "Mwanga"
 
 #: fastlane/update/update.ts:57
 msgid "Light and Dark theme"
-msgstr "Açık/Koyu tema"
+msgstr "Mandhari nyepesi na giza"
 
 #: website/src/_includes/home.tsx:93
 msgid "Light/Dark theme"
-msgstr "Açık/Koyu tema"
+msgstr "Mandhari nyepesi/giza"
 
 #: src/screens/favorite_locations/index.tsx:113
 msgid "List is empty"
-msgstr "Liste boş"
+msgstr "Orodha ni tupu"
 
 #: src/components/AutocompleteInput.tsx:204
 msgid "Loading"
-msgstr "Yükleniyor"
+msgstr "Inapakia"
 
 #: src/screens/intro/intro.tsx:28
 #: src/screens/qibla_finder_compass/index.tsx:155
 #: src/screens/settings_widget/city_name_pos_settings.tsx:17
 #: src/utils/dialogs.ts:36
 msgid "Location"
-msgstr "Konum"
+msgstr "Mahali"
 
 #: src/utils/dialogs.ts:45
 msgid "Location settings"
-msgstr "Konum ayarları"
+msgstr "Mipangilio ya eneo"
 
 #: src/screens/settings_location/location_coordinates.tsx:100
 #: src/screens/settings_location/location_coordinates.tsx:106
 msgid "Longitude"
-msgstr "Boylam"
+msgstr "Longitude"
 
 #: src/screens/settings_location/location_coordinates.tsx:113
 msgid "Longitude is invalid"
-msgstr "Boylam geçersiz"
+msgstr "Longitude ni batili"
 
 #: src/screens/qibla_finder_compass/accuracy_indicator.tsx:18
 msgid "Low"
-msgstr "Düşük"
+msgstr "Chini"
 
 #: src/screens/settings_widget/city_name_pos_settings.tsx:27
 msgid "Lunar Calendar"
-msgstr "Ay Takvimi"
+msgstr "Kalenda ya Mwezi"
 
 #: src/screens/settings_display/calendar_lunar_settings.tsx:21
 msgid "Lunar Calendar Language"
-msgstr "Ay Takvimi Dili"
+msgstr "Lugha ya Kalenda ya Mwezi"
 
 #: src/screens/settings_calculation/calc_params_box.tsx:98
 #: src/screens/settings_calculation/calc_params_box.tsx:175
 msgid "Maghrib Angle"
-msgstr "Maghrib Açısı"
+msgstr "Pembe ya Maghrib"
 
 #: src/screens/settings_reminders/reminder_item.tsx:131
 msgid "Make a Copy"
-msgstr "Bir Kopya Oluşturun"
+msgstr "Tengeneza Nakala"
 
 #: fastlane/update/update.ts:55
 #: website/src/_includes/home.tsx:92
 msgid "Many options for Adhan (اذان) calculation"
-msgstr "Ezan hesaplaması için birçok seçenek"
+msgstr "Chaguo nyingi za hesabu ya Adhan (اذان)."
 
 #: src/screens/qibla_finder_compass/accuracy_indicator.tsx:22
 msgid "Medium"
-msgstr "Orta"
+msgstr "Kati"
 
 #: src/screens/settings_calculation_advanced/index.tsx:74
 msgid "Middle of the Night"
-msgstr "Gece yarısı"
+msgstr "Katikati ya Usiku"
 
 #: src/screens/settings_calculation_advanced/index.tsx:49
 msgid "Midnight Method"
-msgstr "Gece Yarısı Yöntemi"
+msgstr "Njia ya Usiku wa manane"
 
 #: src/adhan/calculation_methods.ts:135
 msgid "Ministry of Religious Affairs and Wakfs, Algeria"
-msgstr "Diyanet İşleri ve Vakıflar Bakanlığı, Cezayir"
+msgstr "Wizara ya Masuala ya Kidini na Wakf, Algeria"
 
 #: src/adhan/calculation_methods.ts:155
 msgid "Ministry of Religious Affairs of Tunisia"
-msgstr "Tunus Din İşleri Bakanlığı"
+msgstr "Wizara ya Masuala ya Kidini ya Tunisia"
 
 #: src/screens/qibla_finder/index.tsx:58
 msgid "Mobile Data"
-msgstr "Mobil veri"
+msgstr "Data ya Simu"
 
 #: src/screens/settings_calculation/index.tsx:35
 msgid "Modified"
-msgstr "Değiştirilmiş"
+msgstr "Imebadilishwa"
 
 #: src/components/week_day_selector.tsx:14
 msgid "Monday"
-msgstr "Pazartesi"
+msgstr "Jumatatu"
 
 #: src/adhan/calculation_methods.ts:20
 msgid "Moonsighting Committee"
-msgstr "Ay Gözlem Komitesi"
+msgstr "Kamati ya Uangalizi wa Mwezi"
 
 #: src/adhan/calculation_methods.ts:26
 msgid "Muslim World League"
-msgstr "Dünya Müslüman Birliği"
+msgstr "Umoja wa Kiislamu Duniani"
 
 #: src/components/new_audio_dialog.tsx:43
 #: src/components/new_audio_dialog.tsx:46
 #: src/screens/settings_adhan/index.tsx:225
 #: src/screens/settings_adhan/index.tsx:228
 msgid "Name"
-msgstr "Ad"
+msgstr "Jina"
 
 #: src/screens/settings_calculation_advanced/index.tsx:43
 msgid "Nearest"
-msgstr "En yakın"
+msgstr "Karibu zaidi"
 
 #: src/screens/qada_counter/edit_counter_modal.tsx:109
 msgid "New Counter"
-msgstr "Yeni sayaç"
+msgstr "Kaunta Mpya"
 
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:101
 msgid "New Location"
-msgstr "Yeni Konum"
+msgstr "Mahali Mpya"
 
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:122
 msgid "New Reminder"
-msgstr "Yeni hatırlatıcı"
+msgstr "Kikumbusho Kipya"
 
 #: src/screens/intro/intro.tsx:100
 #: src/screens/settings_dev/index.tsx:39
 #: src/tasks/set_next_adhan.ts:85
 #: src/tasks/set_next_adhan.ts:127
 msgid "Next"
-msgstr "Sonraki"
+msgstr "Inayofuata"
 
 #: src/screens/home/index.tsx:217
 msgid "Next Day"
-msgstr "Ertesi gün"
+msgstr "Kesho yake"
 
 #: src/screens/monthly_view/index.tsx:205
 msgid "Next Month"
-msgstr "Gelecek Ay"
+msgstr "Mwezi ujao"
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:108
 #: src/utils/dialogs.ts:15
 msgid "No"
-msgstr "Hayır"
+msgstr "Hapana"
 
 #: src/components/AutocompleteInput.tsx:208
 msgid "No Data"
-msgstr "Veri yok"
+msgstr "Hakuna Data"
 
 #: src/components/audio_picker.tsx:424
 #: src/components/AutocompleteInput.tsx:212
 msgid "No Results"
-msgstr "Sonuç yok"
+msgstr "Hakuna Matokeo"
 
 #: src/screens/settings_calculation_advanced/index.tsx:44
 #: src/screens/settings_widget/city_name_pos_settings.tsx:26
 msgid "None"
-msgstr "Hiçbiri"
+msgstr "Hakuna"
 
 #: src/screens/settings_calculation_advanced/index.tsx:72
 msgid "None (Automatic)"
-msgstr "Yok (Otomatik)"
+msgstr "Hakuna (Otomatiki)"
 
 #: src/utils/permission.ts:189
 msgid "Not now"
-msgstr "Şimdi olmaz"
+msgstr "Sio kwa sasa"
 
 #: src/screens/qibla_finder/index.tsx:92
 msgid "Note that due to software and hardware errors, Qibla direction shown by this app, particularly in compass mode, can be wrong."
-msgstr "Yazılım ve donanım hataları nedeniyle, bu uygulama tarafından özellikle pusula modunda gösterilen kıble yönünün yanlış olabileceğini unutmayın."
+msgstr "Kumbuka kwamba kutokana na hitilafu za programu na maunzi, mwelekeo wa Qibla unaoonyeshwa na programu hii, hasa katika hali ya dira, unaweza kuwa mbaya."
 
 #: src/components/audio_picker.tsx:73
 #: src/components/audio_picker.tsx:108
@@ -939,23 +939,23 @@ msgstr "Yazılım ve donanım hataları nedeniyle, bu uygulama tarafından özel
 #: src/screens/settings_notifications/notification_setting.tsx:178
 #: src/screens/settings_notifications/notification_setting.tsx:278
 msgid "Notification"
-msgstr "Bildirim"
+msgstr "Taarifa"
 
 #: src/screens/intro/intro.tsx:36
 msgid "Notification & Sound"
-msgstr "Bildirim & Ses"
+msgstr "Arifa na Sauti"
 
 #: src/utils/permission.ts:41
 msgid "Notifications Permission"
-msgstr "Bildirim izni"
+msgstr "Ruhusa ya Arifa"
 
 #: src/screens/settings_display/number_format_settings.tsx:19
 msgid "Numbering system"
-msgstr "Sayı sistemi"
+msgstr "Mfumo wa nambari"
 
 #: src/screens/settings_notifications/vibration_setting.tsx:27
 msgid "Off"
-msgstr "Kapalı"
+msgstr "Imezimwa"
 
 #: src/screens/qibla_finder/index.tsx:36
 #: src/screens/qibla_finder/index.tsx:53
@@ -963,221 +963,221 @@ msgstr "Kapalı"
 #: src/utils/permission.ts:53
 #: src/utils/permission.ts:228
 msgid "Okay"
-msgstr "Tamam"
+msgstr "Sawa"
 
 #: src/utils/permission.ts:178
 msgid "On Android 12 and newer, the app also needs alarms permission to work properly, so you must allow this as well."
-msgstr "Android 12 ve daha yeni sürümlerde, uygulamanın düzgün çalışması için alarm iznine de ihtiyacı vardır, bu nedenle buna da izin vermelisiniz."
+msgstr "Kwenye Android 12 na mpya zaidi, programu pia inahitaji ruhusa ya kengele ili kufanya kazi vizuri, kwa hivyo ni lazima uiruhusu pia."
 
 #: src/screens/settings_notifications/vibration_setting.tsx:28
 #: src/screens/settings_reminders/reminder_item.tsx:38
 msgid "Once"
-msgstr "Bir kez"
+msgstr "Mara moja"
 
 #: src/screens/settings_calculation_advanced/index.tsx:78
 msgid "One-Seventh of the Night"
-msgstr "Gecenin yedide biri"
+msgstr "Moja ya Saba ya Usiku"
 
 #. shown in add/edit reminder dialog
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:260
 msgid "Only once?"
-msgstr "Sadece bir kez mi?"
+msgstr "Mara moja tu?"
 
 #: src/screens/settings_widget/hide_widget_prayer_settings.tsx:64
 msgid "Only six items can be shown at the same time"
-msgstr "Aynı anda yalnızca altı öğe gösterilebilir"
+msgstr "Vipengee sita pekee vinaweza kuonyeshwa kwa wakati mmoja"
 
 #: src/screens/settings_fix_common_problems/index.tsx:73
 msgid "Open Battery Optimization Settings"
-msgstr "Pil optimizasyon ayarlarını aç"
+msgstr "Fungua Mipangilio ya Uboreshaji wa Betri"
 
 #: src/screens/settings_fix_common_problems/index.tsx:104
 msgid "Open Power Manager Settings"
-msgstr "Güç yönetimi ayarlarını aç"
+msgstr "Fungua Mipangilio ya Kidhibiti cha Nguvu"
 
 #: fastlane/update/update.ts:71
 #: website/src/_includes/home.tsx:105
 msgid "Open source repository"
-msgstr "Açık kaynak deposu"
+msgstr "Hifadhi ya chanzo wazi"
 
 #: fastlane/update/update.ts:45
 #: website/src/_includes/home.tsx:81
 msgid "Open-source"
-msgstr "Açık kaynak"
+msgstr "Chanzo-wazi"
 
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:257
 msgid "Options"
-msgstr "Seçenekler"
+msgstr "Chaguo"
 
 #: src/screens/intro/slides/welcome.tsx:16
 msgid "Or if you have a backup, you can import it"
-msgstr "Veya bir yedeğiniz varsa, onu içe aktarabilirsiniz"
+msgstr "Au ikiwa una nakala rudufu, unaweza kuiingiza"
 
 #: src/components/orientation_lock.tsx:55
 msgid "Orientation Lock: Landscape"
-msgstr "Yönlendirme Kilidi: Yatay"
+msgstr "Kufuli ya Mwelekeo: Mandhari"
 
 #: src/components/orientation_lock.tsx:50
 msgid "Orientation Lock: Portrait"
-msgstr "Yön Kilidi: Portre"
+msgstr "Kufuli la Mwelekeo: Picha"
 
 #: src/components/orientation_lock.tsx:61
 msgid "Orientation: Unlocked"
-msgstr "Yönlendirme: Kilitli değil"
+msgstr "Mwelekeo: Imefunguliwa"
 
 #: src/screens/qibla_finder/index.tsx:93
 msgid "Other magnetic devices may interfere with your phone's compass and your compass may need calibration."
-msgstr "Diğer manyetik cihazlar telefonunuzun pusulasını etkileyebilir ve pusulanızın kalibre edilmesi gerekebilir."
+msgstr "Huenda vifaa vingine vya sumaku vikaingilia dira ya simu yako na dira yako inaweza kuhitaji kurekebishwa."
 
 #: src/constants/notification.ts:29
 msgid "PRE_ADHAN_CHANNEL_NAME"
-msgstr "Yaklaşan ezan"
+msgstr "Adhana inayokuja"
 
 #: src/constants/notification.ts:45
 msgid "PRE_REMINDER_CHANNEL_NAME"
-msgstr "Yaklaşan hatırlatma"
+msgstr "Kikumbusho kinachokuja"
 
 #: src/adhan/calculation_methods.ts:38
 msgid "Pakistan"
-msgstr "Pakistan"
+msgstr "Pakistani"
 
 #: src/screens/settings_location/location_coordinates.tsx:143
 msgid "Paste"
-msgstr "Yapıştır"
+msgstr "Bandika"
 
 #: src/screens/settings_display/number_format_settings.tsx:31
 msgid "Persian"
-msgstr "Farsça"
+msgstr "Kiajemi"
 
 #: src/utils/permission.ts:216
 msgid "Phone State Permission"
-msgstr "Telefon durumu izni"
+msgstr "Ruhusa ya Jimbo la Simu"
 
 #: src/components/audio_picker.tsx:380
 #: src/screens/settings_adhan/adhan_list_item.tsx:223
 msgid "Play"
-msgstr "Oyun"
+msgstr "Cheza"
 
 #: src/utils/dialogs.ts:37
 msgid "Please enable location service"
-msgstr "Lütfen konum hizmetini etkinleştirin"
+msgstr "Tafadhali wezesha huduma ya eneo"
 
 #: src/screens/settings_fix_common_problems/adaptive_charging_toggle.tsx:22
 msgid "Please note that enabling this option may cause adhan and reminders to fire with a delay or not at all in some cases. Enable this with caution."
-msgstr "Bu seçeneğin etkinleştirilmesinin ezan ve hatırlatıcıların gecikmeli olarak devreye girmesine veya bazı durumlarda hiç devreye girmemesine neden olabileceğini lütfen unutmayın. Bunu dikkatli bir şekilde etkinleştirin."
+msgstr "Tafadhali kumbuka kuwa kuwezesha chaguo hili kunaweza kusababisha adhana na vikumbusho kufyatua kwa kuchelewa au kutofanya kazi kabisa katika baadhi ya matukio. Wezesha hii kwa tahadhari."
 
 #: src/screens/settings_calculation_advanced/index.tsx:102
 msgid "Polar Resolution"
-msgstr "Kutuplar için hesaplama yöntemi"
+msgstr "Azimio la Polar"
 
 #: src/screens/settings_fix_common_problems/index.tsx:78
 msgid "Power Manager"
-msgstr "Güç yöneticisi"
+msgstr "Meneja wa Nguvu"
 
 #: website/src/_includes/home.tsx:38
 msgid "Prayer Times"
-msgstr "Namaz Vakitleri"
+msgstr "Nyakati za Maombi"
 
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:220
 msgid "Prayer list"
-msgstr "Dua listesi"
+msgstr "Orodha ya maombi"
 
 #: src/components/audio_picker.tsx:366
 #: src/screens/settings_location/location_search.tsx:89
 #: src/screens/settings_location/location_search.tsx:108
 msgid "Press to search"
-msgstr "Aramak için basın"
+msgstr "Bonyeza ili kutafuta"
 
 #: src/screens/settings_calculation/index.tsx:107
 msgid "Press to select a method"
-msgstr "Bir yöntem seçmek için basın"
+msgstr "Bonyeza ili kuchagua mbinu"
 
 #: src/screens/home/index.tsx:185
 msgid "Prev Day"
-msgstr "Önceki gün"
+msgstr "Siku Iliyotangulia"
 
 #: src/screens/monthly_view/index.tsx:173
 msgid "Prev Month"
-msgstr "Önceki Ay"
+msgstr "Mwezi Uliopita"
 
 #: website/src/_data/navigation.ts:5
 #: website/src/_includes/privacy-policy.tsx:19
 #: website/src/_includes/privacy-policy.tsx:37
 msgid "Privacy Policy"
-msgstr "Gizlilik Politikası"
+msgstr "Sera ya Faragha"
 
 #. Max. 80 characters
 #: fastlane/update/update.ts:16
 msgid "Privacy focused open-source muslim Adhan (islamic prayer times) and qibla app"
-msgstr "Mahremiyete saygılı açık kaynak Ezan (İslami namaz vakitleri) ve kıble uygulaması"
+msgstr "Faragha iliyolenga chanzo huria ya Adhan ya Kiislamu (nyakati za maombi ya Kiislamu) na programu ya qibla"
 
 #: fastlane/update/update.ts:67
 #: website/src/_includes/home.tsx:98
 msgid "Qada counter"
-msgstr "Kaza namazı sayacı"
+msgstr "Kaunta ya Qada"
 
 #: src/adhan/calculation_methods.ts:74
 msgid "Qatar"
-msgstr "Katar"
+msgstr "Qatar"
 
 #: src/screens/qibla_finder_compass/index.tsx:146
 #: website/src/_includes/home.tsx:38
 msgid "Qibla"
-msgstr "Kıble"
+msgstr "Kibla"
 
 #: fastlane/update/update.ts:65
 #: website/src/_includes/home.tsx:97
 msgid "Qibla finder"
-msgstr "Kıble bulucu"
+msgstr "Kitafuta cha Qibla"
 
 #: src/screens/qibla_finder/index.tsx:25
 msgid "Qibla finder needs location service. If not enabled, location from app settings will be used."
-msgstr "Kıble bulucu konum servisine ihtiyaç duyar. Etkinleştirilmezse, uygulama ayarlarındaki konum kullanılacaktır."
+msgstr "Kitafutaji cha Qibla kinahitaji huduma ya eneo. Ikiwa haijawashwa, eneo kutoka kwa mipangilio ya programu litatumika."
 
 #: src/screens/qibla_finder/index.tsx:33
 msgid "Qibla map is currently unavailable in F-Droid builds. It may become available in future updates."
-msgstr "Kıble haritası şu anda F-Droid sürümlerinde kullanılamamaktadır. Gelecekteki güncellemelerde kullanılabilir hale gelebilir."
+msgstr "Ramani ya Qibla haipatikani kwa sasa katika miundo ya F-Droid. Inaweza kupatikana katika masasisho yajayo."
 
 #: src/constants/notification.ts:41
 msgid "REMINDER_CHANNEL_NAME"
-msgstr "Hatırlatıcı"
+msgstr "Kikumbusho"
 
 #: src/utils/ramadan.ts:61
 msgid "Ramadan is ending,"
-msgstr "Ramazan bitiyor,"
+msgstr "Ramadhani inaisha,"
 
 #: src/utils/ramadan.ts:57
 msgid "Ramadan is near,"
-msgstr "Ramazan yaklaşıyor,"
+msgstr "Ramadhani iko karibu,"
 
 #: src/tasks/update_widgets.ts:23
 msgid "Remaining till"
-msgstr "Kalan süre"
+msgstr "Imebaki mpaka"
 
 #: src/utils/ramadan.ts:78
 #: src/utils/ramadan.ts:104
 msgid "Remind me next year"
-msgstr "Gelecek yıl hatırlat bana"
+msgstr "Nikumbushe mwaka ujao"
 
 #: src/screens/fullscreen_alarm/index.tsx:68
 #: src/tasks/set_reminder.ts:109
 #: src/tasks/set_reminder.ts:142
 #: src/utils/dialogs.ts:62
 msgid "Reminder"
-msgstr "Hatırlatıcı"
+msgstr "Kikumbusho"
 
 #: src/components/audio_picker.tsx:113
 msgid "Repeat"
-msgstr "Tekrarla"
+msgstr "Rudia"
 
 #: src/screens/intro/intro.tsx:120
 #: src/screens/monthly_view/index.tsx:242
 msgid "Required settings are incomplete. For app to show prayer times, You have to configure it from settings later."
-msgstr "Gerekli ayarlar tamamlanmadı. Uygulamanın namaz vakitlerini göstermesi için daha sonra ayarlardan yapılandırmanız gerekmektedir."
+msgstr "Mipangilio inayohitajika haijakamilika. Ili programu ionyeshe nyakati za maombi, inabidi uisanidi kutoka kwa mipangilio baadaye."
 
 #: src/screens/settings_calculation_advanced/index.tsx:36
 msgid "Rounding Method"
-msgstr "Yuvarlama Yöntemi"
+msgstr "Njia ya Kuzunguka"
 
 #: src/screens/settings_fix_common_problems/index.tsx:94
 msgid ""
@@ -1185,562 +1185,559 @@ msgid ""
 "After pressing the button below, You will be navigated to the Battery menu of Device Care.\n"
 "In the Battery menu tap \"App power management\", and then tap \"Apps that won't be put to sleep\",\n"
 "and add this app to the list."
-msgstr "Samsung cihazlarının \"Cihaz Bakımı\" adı verilen kendi özel Güç Yöneticisi vardır. Aşağıdaki düğmeye bastıktan sonra, Cihaz Bakımının Pil menüsüne yönlendirileceksiniz. Pil menüsünde \"Uygulama güç yönetimi\"ne ve ardından \"Uykuya alınmayacak uygulamalar\"a dokunun ve bu uygulamayı listeye ekleyin."
+msgstr "Vifaa vya Samsung vina Kidhibiti cha Nishati maalum kinachoitwa \"Utunzaji wa Kifaa\". Baada ya kubofya kitufe kilicho hapa chini, Utaelekezwa kwenye menyu ya Betri ya Utunzaji wa Kifaa. Katika menyu ya Betri gusa \"Udhibiti wa nguvu ya programu\", kisha uguse \"Programu ambazo hazitalala\", na uongeze programu hii kwenye orodha."
 
 #: src/components/week_day_selector.tsx:29
 msgid "Saturday"
-msgstr "Cumartesi"
+msgstr "Jumamosi"
 
 #: src/adhan/calculation_methods.ts:44
 msgid "Saudi Arabia"
-msgstr "Suudi Arabistan"
+msgstr "Saudi Arabia"
 
 #: src/components/audio_picker.tsx:402
 #: src/components/AutocompleteInput.tsx:178
 msgid "Search"
-msgstr "Ara"
+msgstr "Tafuta"
 
 #: src/screens/settings_display/calendar_secondary_settings.tsx:21
 #: src/screens/settings_widget/city_name_pos_settings.tsx:28
 msgid "Secondary Calendar"
-msgstr "İkincil takvim"
+msgstr "Kalenda ya Sekondari"
 
 #: src/screens/home/index.tsx:239
 msgid "See favorite locations"
-msgstr "Favori konumları görün"
+msgstr "Angalia maeneo unayopenda"
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:205
 msgid "Select as Fajr Adhan"
-msgstr "Fecr ezanı olarak seç"
+msgstr "Chagua kama Fajr Adhan"
 
 #: fastlane/update/update.ts:51
 #: website/src/_includes/home.tsx:86
 msgid "Select different Adhan audio for Fajr namaz"
-msgstr "Sabah namazı için farklı Ezan sesi seçme"
+msgstr "Chagua sauti tofauti za Adhan kwa Fajr namaz"
 
 #: src/screens/favorite_locations/favorite_location_list_item_view.tsx:55
 msgid "Selected"
-msgstr "Seçilmiş"
+msgstr "Imechaguliwa"
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:154
 msgid "Selected as adhan"
-msgstr "Ezan olarak seçildi"
+msgstr "Imechaguliwa kama adhana"
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:163
 msgid "Selected as fajr adhan"
-msgstr "Fecr ezanı olarak seçildi"
+msgstr "Imechaguliwa kama fajr adhan"
 
 #: src/components/new_audio_dialog.tsx:51
 #: src/screens/settings_adhan/index.tsx:234
 msgid "Selecting a name is required"
-msgstr "Bir isim gerekli"
+msgstr "Inahitajika kuchagua jina"
 
 #: fastlane/update/update.ts:49
 #: website/src/_includes/home.tsx:85
 msgid "Set custom Adhan audio"
-msgstr "Özel Ezan sesi ayarlama"
+msgstr "Weka sauti maalum ya Adhana"
 
 #: fastlane/update/update.ts:61
 #: website/src/_includes/home.tsx:95
 msgid "Set reminders before or after a prayer time"
-msgstr "Dua zamanından önce veya sonra hatırlatıcı ayarlama"
+msgstr "Weka vikumbusho kabla au baada ya muda wa maombi"
 
 #: src/screens/settings_calculation_advanced/index.tsx:125
 msgid "Shafaq"
-msgstr "Şafak"
+msgstr "Shafaq"
 
 #: src/screens/settings_calculation_advanced/index.tsx:127
 msgid ""
 "Shafaq is used by the MoonsightingCommittee method to \n"
 "determine what type of twilight to use in order to\n"
 "determine the time for Isha"
-msgstr "Şafak tipi seçimi, sabah namazının zamanını belirlemek için MoonsightingCommittee'nin hesap yönteminde kullanılır."
+msgstr "Shafaq hutumiwa na njia ya Kamati ya Kutazama Mwezi ili kubainisha ni aina gani ya machweo ya kutumia ili kubainisha wakati wa Isha."
 
 #: src/screens/settings_calculation_advanced/index.tsx:95
 msgid "Shafi, Maliki, Hanbali (Default)"
-msgstr "Şafi, Maliki, Hanbeli (Varsayılan)"
+msgstr "Shafi, Maliki, Hanbali (Chaguo-msingi)"
 
 #: src/adhan/calculation_methods.ts:116
 msgid "Shia Ithna Ashari, Leva Institute, Qum"
-msgstr "Şii Ithna Ashari, Leva Enstitüsü, Kum"
+msgstr "Shia Ithna Ashari, Taasisi ya Leva, Qum"
 
 #: src/adhan/calculation_methods.ts:123
 msgid "Shia, Institute of Geophysics, University of Tehran"
-msgstr "Şii, Jeofizik Enstitüsü, Tahran Üniversitesi"
+msgstr "Shia, Taasisi ya Jiofizikia, Chuo Kikuu cha Tehran"
 
 #: src/screens/settings_display/highlight_current_setting.tsx:27
 msgid "Should app highlight current prayer instead of next prayer?"
-msgstr "Uygulama bir sonraki dua yerine mevcut duayı vurgulamalı mı?"
+msgstr "Je, programu inapaswa kuangazia maombi ya sasa badala ya sala inayofuata?"
 
 #: src/screens/settings_notifications/bypass_dnd_setting.tsx:30
 msgid "Should app still play adhan when \"Do Not Disturb\" is active?"
-msgstr "\"Rahatsız Etmeyin\" aktifken uygulama hala ezan çalmalı mı?"
+msgstr "Je, programu inapaswa kucheza adhana wakati \"Usisumbue\" inatumika?"
 
 #: src/screens/settings_notifications_advanced/volume_button_setting.tsx:30
 msgid "Should app stop playing adhan when the volume button is pressed?"
-msgstr "Ses düğmesine basıldığında uygulama ezan çalmayı durdursun mu?"
+msgstr "Je, programu inapaswa kuacha kucheza adhana wakati kitufe cha sauti kimebonyezwa?"
 
 #: src/screens/settings_notifications/vibration_setting.tsx:21
 msgid "Should phone vibrate when adhan or reminder starts playing?"
-msgstr "Ezan veya hatırlatma çalmaya başladığında telefon titremeli mi?"
+msgstr "Je, simu inapaswa kutetema adhana au kikumbusho kinapoanza kucheza?"
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:195
 msgid "Show Adhan Options"
-msgstr "Ezan seçeneklerini göster"
+msgstr "Onyesha Chaguzi za Adhana"
 
 #: src/screens/home/index.tsx:209
 msgid "Show Today"
-msgstr "Bugünü göster"
+msgstr "Onyesha Leo"
 
 #: src/screens/settings_widget/index.tsx:65
 #: src/screens/settings_widget/index.tsx:80
 msgid "Show countdown?"
-msgstr "Geri sayım gösterilsin mi?"
+msgstr "Onyesha hesabu?"
 
 #: src/screens/monthly_view/index.tsx:197
 msgid "Show current"
-msgstr "Geçerli göster"
+msgstr "Onyesha sasa"
 
 #: src/utils/dialogs.ts:66
 msgid "Show me"
-msgstr "Göster bana"
+msgstr "Nionyeshe"
 
 #: src/screens/settings_notifications_advanced/notify_next_adhan_setting.tsx:14
 msgid "Show next in notification?"
-msgstr "Sonraki bildirim gösterilsin mi?"
+msgstr "Ungependa kuonyesha kinachofuata katika arifa?"
 
 #: src/screens/settings_widget/index.tsx:43
 msgid "Show notification widget?"
-msgstr "Bildirim gereci gösterilsin mi?"
+msgstr "Ungependa kuonyesha wijeti ya arifa?"
 
 #: src/utils/permission.ts:194
 msgid "Show settings"
-msgstr "Ayarları göster"
+msgstr "Onyesha mipangilio"
 
 #: src/screens/settings_notifications/dont_notify_upcoming_setting.tsx:21
 msgid "Show upcoming alarm notification?"
-msgstr "Yaklaşan alarm bildirimi gösterilsin mi?"
+msgstr "Ungependa kuonyesha arifa ya kengele inayokuja?"
 
 #: src/components/audio_picker.tsx:119
 msgid "Silent"
-msgstr "Sessiz"
+msgstr "Kimya"
 
 #: fastlane/update/update.ts:74
 #: website/src/_includes/home.tsx:110
 msgid "Since we don't use any kind of tracker or crash analytics, please report any problem or suggestion you have on our github repo"
-msgstr "Herhangi bir izleyici veya çökme analizi kullanmadığımız için, lütfen yaşadığınız herhangi bir sorunu veya önerilerinizi github repomuza bildirin"
+msgstr "Kwa kuwa hatutumii aina yoyote ya kifuatiliaji au uchanganuzi wa ajali, tafadhali ripoti tatizo au pendekezo lolote ulilonalo kwenye github repo yetu."
 
 #: src/adhan/calculation_methods.ts:80
 msgid "Singapore"
-msgstr "Singapur"
+msgstr "Singapore"
 
 #: src/screens/intro/intro.tsx:102
 msgid "Skip"
-msgstr "Atla"
+msgstr "Ruka"
 
 #: website/src/_includes/privacy-policy.tsx:54
 msgid "Software License"
-msgstr "Yazılım Lisansı"
+msgstr "Leseni ya Programu"
 
 #: src/screens/settings_display/calendar_secondary_settings.tsx:31
 msgid "Solar Hijri"
-msgstr "Güneş Hicri"
+msgstr "Hijri ya jua"
 
 #: src/screens/settings_fix_common_problems/index.tsx:82
 msgid ""
 "Some devices need extra settings inside their Power Manager \n"
 "to prevent the app from getting killed in the background.\n"
 "In that case disable any power saving option for the app."
-msgstr "Bazı cihazlarda, uygulamanın arka planda çalışmaya devam edebilmesi için Güç Yöneticilerinde ek ayarlara ihtiyacı vardır. Uygulamanın arkaplanda çalışabilmesi için güç tasarrufu seçeneğini devre dışı bırakın."
+msgstr "Baadhi ya vifaa vinahitaji mipangilio ya ziada ndani ya Kidhibiti cha Nishati ili kuzuia programu isiuawe chinichini. Katika hali hiyo afya chaguo lolote la kuokoa nishati kwa programu."
 
 #: src/screens/settings_notifications/notification_setting.tsx:242
 #: src/screens/settings_notifications/notification_setting.tsx:282
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:244
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:246
 msgid "Sound"
-msgstr "Ses"
+msgstr "Sauti"
 
 #: src/adhan/calculation_methods.ts:110
 msgid "Spiritual Administration of Muslims of Russia"
-msgstr "Rusya Müslümanlarının Ruhani Yönetimi"
+msgstr "Utawala wa Kiroho wa Waislamu wa Urusi"
 
 #: src/screens/settings_fix_common_problems/index.tsx:63
 msgid "Status"
-msgstr "Durum"
+msgstr "Hali"
 
 #: src/components/audio_picker.tsx:378
 #: src/screens/settings_adhan/adhan_list_item.tsx:221
 msgid "Stop"
-msgstr "Dur"
+msgstr "Acha"
 
 #: src/components/week_day_selector.tsx:11
 msgid "Sunday"
-msgstr "Pazar"
+msgstr "Jumapili"
 
 #: src/screens/settings_calculation_advanced/index.tsx:56
 msgid "Sunset to Fajr (Default)"
-msgstr "Günbatımından Fecr'e (Varsayılan)"
+msgstr "Machweo hadi Fajr (Chaguomsingi)"
 
 #: src/screens/settings_calculation_advanced/index.tsx:60
 msgid "Sunset to Sunrise"
-msgstr "Günbatımından Gündoğumuna"
+msgstr "Machweo hadi Macheo"
 
 #: src/screens/settings_display/theme_settings.tsx:44
 msgid "System Default"
-msgstr "Sistem varsayılanı"
+msgstr "Chaguomsingi ya Mfumo"
 
 #: src/screens/settings_notifications/index.tsx:70
 msgid "Tahajjud time mentioned in the app is the last third of the night"
-msgstr "Uygulamada belirtilen teheccüd vakti gecenin son üçte biridir"
+msgstr "Wakati wa Tahajjud uliotajwa katika programu ni theluthi ya mwisho ya usiku"
 
 #: src/screens/settings_display/calendar_secondary_settings.tsx:33
 msgid "Thai Solar"
-msgstr "Thai Solar"
+msgstr "Sola ya Thai"
 
 #: src/screens/intro/slides/welcome.tsx:10
 msgid "Thanks for choosing this app! There are things you need to do before you can start using this app."
-msgstr "Uygulamamızı seçtiğiniz için teşekkürler! Uygulamamızı kullanmaya başlamadan önce yapmanız gereken bazı şeyler var."
+msgstr "Asante kwa kuchagua programu hii! Kuna mambo unayohitaji kufanya kabla ya kuanza kutumia programu hii."
 
 #: src/adhan/calculation_methods.ts:62
 msgid "The Gulf Region (Dubai)"
-msgstr "Körfez Bölgesi (Dubai)"
+msgstr "Mkoa wa Ghuba (Dubai)"
 
 #: src/screens/settings_calculation/calendar_settings.tsx:45
 msgid "The app's lunar calendar is pre-calculated and may not be accurate because it isn't based on moon sightings. This is especially important to note for the start and end of Ramadan."
-msgstr "Uygulamanın ay takvimi önceden hesaplanmıştır ve ay gözlemlerine dayanmadığı için doğru olmayabilir. Bu özellikle Ramazan'ın başlangıcı ve bitişi için önemlidir."
+msgstr "Kalenda ya mwandamo ya programu huhesabiwa mapema na huenda isiwe sahihi kwa sababu haitegemei mwonekano wa mwezi. Hili ni muhimu sana kuzingatiwa kwa mwanzo na mwisho wa Ramadhani."
 
 #: website/src/_includes/privacy-policy.tsx:71
 msgid "The text found in this website and in the app may not be accurate in other languages, so in any case, only English version should be considered."
-msgstr "Bu web sitesinde ve uygulamada bulunan metin diğer dillerde doğru olmayabilir, bu nedenle her durumda yalnızca İngilizce sürüm dikkate alınmalıdır."
+msgstr "Maandishi yanayopatikana katika tovuti hii na katika programu yanaweza yasiwe sahihi katika lugha nyingine, kwa hiyo kwa hali yoyote, toleo la Kiingereza pekee linapaswa kuzingatiwa."
 
 #: src/screens/settings_display/calendar_secondary_settings.tsx:23
 msgid "The type of calendar that is shown on top of home screen and beside lunar calendar in widgets"
-msgstr "Ana ekranın üstünde ve widget'larda ay takviminin yanında gösterilen takvim türü"
+msgstr "Aina ya kalenda inayoonyeshwa juu ya skrini ya kwanza na kando ya kalenda ya mwezi katika wijeti"
 
 #: src/screens/settings_calculation/calendar_settings.tsx:23
 msgid "The type of lunar calendar shown in main screen and widgets"
-msgstr "Ana ekranda ve widget'larda gösterilen ay takvimi türü"
+msgstr "Aina ya kalenda ya mwezi inayoonyeshwa kwenye skrini kuu na wijeti"
 
 #: src/screens/settings_display/theme_settings.tsx:28
 #: src/screens/settings_display/theme_settings.tsx:33
 msgid "Theme Color"
-msgstr "Tema rengi"
+msgstr "Rangi ya Mandhari"
 
 #: src/components/week_day_selector.tsx:23
 msgid "Thursday"
-msgstr "Perşembe"
+msgstr "Alhamisi"
 
 #: src/screens/settings_display/hide_prayer_settings.tsx:51
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:143
 #: src/screens/settings_widget/hide_widget_prayer_settings.tsx:84
 msgid "Time"
-msgstr "Vakit"
+msgstr "Wakati"
 
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:200
 msgid "Time condition"
-msgstr "Zaman koşulu"
+msgstr "Hali ya wakati"
 
 #: src/screens/settings_display/time_format_settings.tsx:11
 msgid "Time format"
-msgstr "Zaman formatı"
+msgstr "Umbizo la wakati"
 
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:148
 msgid "Time list"
-msgstr "Zaman listesi"
+msgstr "Orodha ya wakati"
 
 #: src/screens/settings_location/index.tsx:19
 msgid "To calculate Adhan, We need your location. You can use the \"Find My Location\" button, or use the country and city/area search, or enter your coordinates manually."
-msgstr "Ezan vaktini hesaplamak için konumunuza ihtiyacımız var. \"Konumumu Bul\" düğmesini kullanabilir, ülke ve şehir/bölge aramasını kullanabilir veya koordinatlarınızı manuel olarak girebilirsiniz."
+msgstr "Ili kukokotoa Adhana, Tunahitaji eneo lako. Unaweza kutumia kitufe cha \"Pata Mahali Pangu\", au utumie utafutaji wa nchi na jiji/eneo, au uweke viwianishi vyako wewe mwenyewe."
 
 #: src/utils/permission.ts:42
 msgid "To see notifications about adhan, we need your permission."
-msgstr "Ezanla ilgili bildirimleri görmek için izninize ihtiyacımız var."
+msgstr "Ili kuona arifa kuhusu adhana, tunahitaji ruhusa yako."
 
 #: src/utils/permission.ts:217
 msgid "To stop playing adhan when you receive a call, we need to read your phone state. not allowing this permission simply disables the feature."
-msgstr "Bir çağrı aldığınızda ezan çalmayı durdurmak için telefon durumuna erişmemiz gerekir. Bu erişime izin vermemek bu özelliği devre dışı bırakır."
+msgstr "Ili kuacha kucheza adhana unapopokea simu, tunahitaji kusoma hali ya simu yako. kutoruhusu ruhusa hii huzima kipengele hiki."
 
 #: src/utils/upcoming.ts:15
 msgid "Tomorrow"
-msgstr "Yarın"
+msgstr "Kesho"
 
 #: src/components/week_day_selector.tsx:17
 msgid "Tuesday"
-msgstr "Salı"
+msgstr "Jumanne"
 
 #: src/screens/qibla_finder_map/index.tsx:116
 msgid "Turn Left"
-msgstr "Sola Dön"
+msgstr "Pinduka Kushoto"
 
 #: src/screens/qibla_finder_map/index.tsx:117
 msgid "Turn Right"
-msgstr "Sağa Dön"
+msgstr "Geuka Kulia"
 
 #: src/components/qada_history_toggle.tsx:27
 msgid "Turn history off"
-msgstr "Geçmişi kapatın"
+msgstr "Zima historia"
 
 #: src/components/qada_history_toggle.tsx:27
 msgid "Turn history on"
-msgstr "Geçmişi açın"
+msgstr "Washa historia"
 
 #: src/screens/settings_calculation_advanced/index.tsx:82
 msgid "Twilight Angle"
-msgstr "Güneş ufuk açısı"
+msgstr "Pembe ya Twilight"
 
 #: src/adhan/calculation_methods.ts:44
 msgid "Umm al-Qura University, Makkah"
-msgstr "Umm al-Qura Üniversitesi, Mekke "
+msgstr "Chuo Kikuu cha Umm al-Qura, Makka"
 
 #: src/adhan/calculation_methods.ts:86
 msgid "Union Organization Islamic de France"
-msgstr "Fransa İslam organizasyon birliği"
+msgstr "Muungano wa Jumuiya ya Kiislamu ya Ufaransa"
 
 #: src/adhan/calculation_methods.ts:38
 msgid "University of Islamic Sciences, Karachi"
-msgstr "İslami İlimler Üniversitesi, Karaçi"
+msgstr "Chuo Kikuu cha Sayansi ya Kiislamu, Karachi"
 
 #: src/components/AutocompleteInput.tsx:199
 msgid "Unknown Error"
-msgstr "Bilinmeyen hata"
+msgstr "Hitilafu Isiyojulikana"
 
 #: src/screens/qibla_finder_compass/accuracy_indicator.tsx:30
 msgid "Unreliable"
-msgstr "Güvenilmez"
+msgstr "Isiyotegemewa"
 
 #: src/screens/settings_calculation_advanced/index.tsx:111
 msgid "Unresolved (default)"
-msgstr "Çözümlenmemiş (varsayılan)"
+msgstr "Haijatatuliwa (chaguo-msingi)"
 
 #: src/screens/settings_display/language_settings.tsx:83
 msgid "Unsupported"
-msgstr "Desteklenmiyor"
+msgstr "Haitumiki"
 
 #: src/screens/settings_calculation_advanced/index.tsx:45
 msgid "Up"
-msgstr "Yukarı"
+msgstr "Juu"
 
 #. notification title
 #: src/tasks/set_pre_alarm.ts:46
 msgid "Upcoming alarm"
-msgstr "Yaklaşan alarm"
+msgstr "Kengele inayokuja"
 
 #: src/tasks/set_update_widgets_alarms.ts:40
 msgid "Updating widgets"
-msgstr "Widget'ları güncelle"
+msgstr "Inasasisha wijeti"
 
 #: src/screens/settings_display/time_format_settings.tsx:13
 msgid "Use 24-Hour format"
-msgstr "24 Saat biçimini kullan"
+msgstr "Tumia umbizo la Saa 24"
 
 #: src/screens/qibla_finder/index.tsx:103
 msgid "Use Compass"
-msgstr "Pusulayı kullan"
+msgstr "Tumia Compass"
 
 #: src/screens/qibla_finder/index.tsx:100
 msgid "Use Map"
-msgstr "Kullanım haritası"
+msgstr "Tumia Ramani"
 
 #: src/screens/settings_fix_common_problems/adaptive_charging_toggle.tsx:26
 msgid "Use a different alarm type?"
-msgstr "Farklı bir alarm türü mü kullanıyorsunuz?"
+msgstr "Je, ungependa kutumia aina tofauti ya kengele?"
 
 #: src/screens/settings_widget/index.tsx:88
 #: src/screens/settings_widget/index.tsx:103
 msgid "Use adaptive theme?"
-msgstr "Uyarlanabilir bir tema mı kullanıyorsunuz?"
+msgstr "Je, ungependa kutumia mandhari yanayobadilika?"
 
 #: src/screens/settings_notifications_advanced/prefer_headphone_setting.tsx:22
 msgid "Use headphones when available?"
-msgstr "Uygun olduğunda kulaklık kullanılsın mı?"
+msgstr "Je, ungependa kutumia vipokea sauti vinavyobanwa kichwani vinapopatikana?"
 
 #: src/screens/settings_location/location_stack.tsx:32
 msgid "Using Coordinates"
-msgstr "Koordinatları kullan"
+msgstr "Kutumia Viratibu"
 
 #: src/screens/settings_location/location_stack.tsx:20
 msgid "Using GPS"
-msgstr "GPS kullan"
+msgstr "Kwa kutumia GPS"
 
 #: src/screens/settings_location/location_stack.tsx:24
 msgid "Using Search"
-msgstr "Aramayı kullan"
+msgstr "Kwa kutumia Utafutaji"
 
 #: src/screens/settings_about/index.tsx:31
 msgid "Version"
-msgstr "Sürüm"
+msgstr "Toleo"
 
 #: src/screens/settings_notifications/vibration_setting.tsx:19
 msgid "Vibration Mode"
-msgstr "Titreşim Modu"
+msgstr "Hali ya Mtetemo"
 
 #: src/screens/settings_notifications_advanced/volume_button_setting.tsx:22
 msgid "Volume button stops adhan"
-msgstr "Ses düğmesi ezanı durdursun"
+msgstr "Kitufe cha sauti kinasimamisha adhana"
 
 #: src/constants/notification.ts:33
 msgid "WIDGET_CHANNEL_NAME"
-msgstr "Widget"
+msgstr "Wijeti"
 
 #: src/constants/notification.ts:37
 msgid "WIDGET_UPDATE_CHANNEL_NAME"
-msgstr "Widgeti güncelle"
+msgstr "Sasisho la Wijeti"
 
 #: src/screens/intro/slides/welcome.tsx:12
 msgid "We'll help you do them quickly."
-msgstr "Hızlı bir şekilde yapmanıza yardımcı olacağız."
+msgstr "Tutakusaidia kuyafanya haraka."
 
 #: src/components/week_day_selector.tsx:20
 msgid "Wednesday"
-msgstr "Çarşamba"
+msgstr "Jumatano"
 
 #: src/screens/intro/intro.tsx:24
 msgid "Welcome"
-msgstr "Hoş geldiniz"
+msgstr "Karibu"
 
 #: src/screens/settings_display/number_format_settings.tsx:29
 msgid "Western Arabic"
-msgstr "Batı Arapçası"
+msgstr "Kiarabu cha Magharibi"
 
 #: src/screens/settings_notifications_advanced/dont_turn_on_screen.tsx:16
 msgid "When enabled, the screen will remain off when adhan or reminder starts playing, and alarm screen won't be shown"
-msgstr "Etkinleştirildiğinde, ezan veya hatırlatma çalmaya başladığında ekran kapalı kalır ve alarm ekranı gösterilmez"
+msgstr "Ikiwashwa, skrini itasalia imezimwa adhana au kikumbusho kitakapoanza kucheza, na skrini ya kengele haitaonyeshwa."
 
 #: src/screens/settings_notifications_advanced/prefer_headphone_setting.tsx:26
 msgid "When enabled, when using headphones, all audio will play only on headphones."
-msgstr "Etkinleştirildiğinde, kulaklık takılıyken tüm ses yalnızca kulaklıkta çalınır."
+msgstr "Inapowashwa, unapotumia vipokea sauti vinavyobanwa kichwani, sauti zote zitacheza kwenye vipokea sauti vinavyobanwa kichwani pekee."
 
 #: src/screens/qibla_finder/index.tsx:65
 msgid "Wifi"
-msgstr "Kablosuz ağ"
+msgstr "Wifi"
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:112
 #: src/utils/dialogs.ts:20
 msgid "Yes"
-msgstr "Evet"
+msgstr "Ndiyo"
 
 #: src/screens/qibla_finder_map/index.tsx:276
 msgid "You are facing Kaaba"
-msgstr "Kabe'ye bakıyorsunuz"
+msgstr "Unaikabili Kaaba"
 
 #: src/screens/qibla_finder_map/index.tsx:277
 msgid "You are not facing Kaaba"
-msgstr "Kâbe'ye dönük değilsin"
+msgstr "Wewe hukukabili Kaaba"
 
 #: src/screens/settings_fix_common_problems/index.tsx:87
 msgid "You can access your device Power Manager using the button below."
-msgstr "Aşağıdaki düğmeyi kullanarak cihazınızın Güç Yöneticisine erişebilirsiniz."
+msgstr "Unaweza kufikia Kidhibiti Nishati cha kifaa chako kwa kutumia kitufe kilicho hapa chini."
 
 #: src/screens/settings_location/location_coordinates.tsx:137
 msgid "You can also paste coords from clipboard"
-msgstr "Ayrıca panodan kordinatları yapıştırabilirsiniz"
+msgstr "Unaweza pia kubandika misimbo kutoka kwenye ubao wa kunakili"
 
 #: src/screens/settings_display/calendar_lunar_settings.tsx:23
 msgid "You can change the language used for lunar calendar"
-msgstr "Ay takvimi için kullanılan dili değiştirebilirsiniz"
+msgstr "Unaweza kubadilisha lugha inayotumiwa kwa kalenda ya mwezi"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:41
 msgid "You can change when the upcoming alarm notification is sent before adhan or reminder"
-msgstr "Yaklaşan alarm bildiriminin ezan veya hatırlatmadan önce ne zaman gönderileceğini değiştirebilirsiniz"
+msgstr "Unaweza kubadilisha arifa ya kengele inayokuja inapotumwa kabla ya adhana au kikumbusho"
 
 #: src/screens/settings_widget/city_name_pos_settings.tsx:19
 msgid "You can choose to replace one of calendars with your current location"
-msgstr "Takvimlerden birini geçerli konumunuzla değiştirmeyi seçebilirsiniz"
+msgstr "Unaweza kuchagua kubadilisha moja ya kalenda na eneo lako la sasa"
 
 #: src/screens/settings_display/hide_prayer_settings.tsx:49
 msgid "You can hide prayer times you don't want to see in the main screen here:"
-msgstr "Ana ekranda görünmesini istemediğiniz vakitleri buradan gizleyebilirsiniz:"
+msgstr "Unaweza kuficha nyakati za maombi ambazo hutaki kuona kwenye skrini kuu hapa:"
 
 #: src/screens/settings_widget/hide_widget_prayer_settings.tsx:82
 msgid "You can hide prayer times you don't want to see in the widget here:"
-msgstr "Widget'ta görünmesini istemediğiniz vakitleri buradan gizleyebilirsiniz:"
+msgstr "Unaweza kuficha nyakati za maombi ambazo hutaki kuona kwenye wijeti hapa:"
 
 #: fastlane/update/update.ts:47
 #: website/src/_includes/home.tsx:83
 msgid "You can search for your location offline Or use GPS"
-msgstr "Konumunuzu çevrimdışı arayabilir veya GPS kullanabilirsiniz"
+msgstr "Unaweza kutafuta eneo lako nje ya mtandao Au kutumia GPS"
 
 #: website/src/_includes/privacy-policy.tsx:66
 msgid "You should have received a copy of the GNU Affero General Public License along with this program. If not, see https://www.gnu.org/licenses/."
-msgstr "Bu programla birlikte GNU Affero Genel Kamu Lisansının bir kopyasını almış olmalısınız. Değilse, https://www.gnu.org/licenses/ adresine bakın."
+msgstr "Unapaswa kuwa umepokea nakala ya Leseni ya Jumla ya Umma ya GNU Affero pamoja na mpango huu. Ikiwa sivyo, angalia https://www.gnu.org/licenses/."
 
 #: src/components/audio_picker.tsx:84
 msgid "Your sounds"
-msgstr "Sesleriniz"
+msgstr "Sauti zako"
 
 #: src/assets/adhan_entries.ts:22
 msgid "abdul_basit_abdus_samad"
-msgstr "Abdul-Basit Abdus-Samed"
+msgstr "Abdul-Basit Abdus-Samad"
 
 #: src/screens/settings_about/index.tsx:48
 msgid "about.credits"
-msgstr ""
-"Ezan seslerinin telif hakları sahiplerine aittir.\n"
-"Harika hizmetleri için translation.io'ya (lingui.js) özel teşekkürler.\n"
-"Bu uygulamayı mümkün kılan harika kütüphaneler için tüm açık kaynak topluluğuna teşekkürler."
+msgstr "Hakimiliki zote za sauti za adhana ni za wamiliki wao. Shukrani za pekee kwa translation.io (lingui.js) kwa huduma zao nzuri. Shukrani kwa wanajamii wote wa programu huria ambao walifanya maktaba hizi zote nzuri ambazo zilifanya programu hii iwezekane."
 
 #: src/screens/settings_about/index.tsx:56
 msgid "about.credits.google"
-msgstr "Bu uygulamada kullanılan simgelerin çoğu Google Material simgelerinden alınmıştır."
+msgstr "Aikoni nyingi zinazotumiwa katika programu hii zimetoka kwenye aikoni za nyenzo za google."
 
 #. screen title
 #: src/navigation/types.ts:114
 msgid "about_settings"
-msgstr "Hakkında"
+msgstr "Kuhusu"
 
 #. shown under adjustment accordion in calculation settings
 #: src/screens/settings_calculation/adjustment_settings.tsx:17
 msgid "adjustment.hint"
-msgstr "Hesaplanan sürelere eklenecek dakika sayısı"
+msgstr "Idadi ya dakika ambazo zitaongezwa kwa nyakati zilizohesabiwa"
 
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:216
 msgid "after"
-msgstr "sonra"
+msgstr "baada ya"
 
 #: src/utils/date.ts:516
 msgid "ago"
-msgstr "önce"
+msgstr "iliyopita"
 
 #: src/adhan/prayer.ts:52
 msgid "asr.prayer"
-msgstr "İkindi"
+msgstr "Asr"
 
 #. screen title
 #: src/navigation/types.ts:55
 msgid "backup_settings"
-msgstr "Yedekleme"
+msgstr "Hifadhi nakala"
 
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:215
 msgid "before"
-msgstr "önce"
+msgstr "kabla"
 
 #. screen title
 #: src/navigation/types.ts:90
 msgid "calculation_adjustments_settings"
-msgstr "Ayarlamalar"
+msgstr "Marekebisho"
 
 #. screen title
 #: src/navigation/types.ts:95
 msgid "calculation_advanced_settings"
-msgstr "Gelişmiş hesaplama ayarları"
+msgstr "Mipangilio ya Kina ya Kukokotoa"
 
 #. screen title
 #: src/navigation/types.ts:85
 msgid "calculation_settings"
-msgstr "Hesaplama"
+msgstr "Hesabu"
 
 #. in religious context
 #: src/screens/qada_counter/counter_view.tsx:15
 msgid "counter.fast"
-msgstr "Oruç"
+msgstr "Haraka"
 
 #: src/utils/date.ts:8
 msgid "date.day"
-msgstr "gün"
+msgstr "siku"
 
 #: src/utils/date.ts:12
 msgid "date.hour"
-msgstr "saat"
+msgstr "saa"
 
 #: src/utils/date.ts:16
 msgid "date.minute"
@@ -1748,90 +1745,90 @@ msgstr "dakika"
 
 #: src/utils/date.ts:20
 msgid "date.second"
-msgstr "saniye"
+msgstr "pili"
 
 #. screen title
 #: src/navigation/types.ts:119
 msgid "dev_settings"
-msgstr "Geliştirici"
+msgstr "Msanidi"
 
 #: src/adhan/prayer.ts:48
 msgid "dhuhr.prayer"
-msgstr "Öğle"
+msgstr "Dhuhr"
 
 #. screen title
 #: src/navigation/types.ts:60
 msgid "display_settings"
-msgstr "Görünüm"
+msgstr "Onyesho"
 
 #: src/adhan/prayer.ts:40
 msgid "fajr.prayer"
-msgstr "Sabah"
+msgstr "Fajr"
 
 #. Title of the page where you add your favorite locations for faster switch
 #: src/navigation/types.ts:141
 msgid "favorite_location"
-msgstr "Favori Mekanlar"
+msgstr "Maeneo Unayopendelea"
 
 #: src/screens/settings_display/number_format_settings.tsx:21
 msgid "forces all numbers to be in the selected system"
-msgstr "tüm sayıları seçilen sistemde olmaya zorlar"
+msgstr "hulazimisha nambari zote kuwa katika mfumo uliochaguliwa"
 
 #: src/screens/qibla_finder_compass/index.tsx:150
 msgid "from North"
-msgstr "kuzey'den"
+msgstr "kutoka Kaskazini"
 
 #: src/screens/qibla_finder_compass/index.tsx:161
 msgid "from settings"
-msgstr "ayarlardan"
+msgstr "kutoka kwa mipangilio"
 
 #. screen title
 #: src/navigation/types.ts:50
 msgid "fullscreen_alarm"
-msgstr "Ezanı dinle"
+msgstr "Kucheza Adhana"
 
 #. shown under adjustment accordion in calculation settings
 #: src/screens/settings_calculation/adjustment_settings.tsx:45
 msgid "hijri.adjustment.hint"
-msgstr "Ay takvimine eklenecek gün sayısı"
+msgstr "Idadi ya siku ambazo zitaongezwa kwenye kalenda ya mwezi"
 
 #: src/navigation/types.ts:42
 msgid "home"
-msgstr "Anasayfa"
+msgstr "Nyumbani"
 
 #: src/screens/settings_notifications/dont_notify_upcoming_setting.tsx:29
 msgid "if enabled, a notification will be shown around one hour before any prayer time or reminder that has sound"
-msgstr "etkinleştirilirse, herhangi bir namaz vaktinden veya sesli hatırlatıcıdan yaklaşık bir saat önce bir bildirim gösterilecektir"
+msgstr "ikiwashwa, arifa itaonyeshwa karibu saa moja kabla ya wakati wowote wa maombi au ukumbusho ambao una sauti"
 
 #: src/navigation/types.ts:38
 msgid "intro"
-msgstr "gİRİŞ"
+msgstr "utangulizi"
 
 #: src/screens/settings_display/hide_prayer_settings.tsx:56
 #: src/screens/settings_widget/hide_widget_prayer_settings.tsx:89
 msgid "is prayer time hidden?"
-msgstr "namaz vakti gizlensin mi?"
+msgstr "muda wa maombi umefichwa?"
 
 #: src/adhan/prayer.ts:64
 msgid "isha.prayer"
-msgstr "Yatsı"
+msgstr "Isha"
 
 #: src/utils/date.ts:516
 msgid "later"
-msgstr "daha sonra"
+msgstr "baadae"
 
 #. screen title
 #: src/navigation/types.ts:65
 msgid "location_settings"
-msgstr "Konum"
+msgstr "Mahali"
 
 #: src/adhan/prayer.ts:60
 msgid "maghrib.prayer"
-msgstr "Akşam"
+msgstr "Magharibi"
 
 #: src/assets/adhan_entries.ts:18
 msgid "masjid_an_nabawi"
-msgstr "Mescid-i Nebevî"
+msgstr "Masjid An Nabawi"
 
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:196
 msgid "minutes"
@@ -1843,41 +1840,41 @@ msgstr "Moazen Zade"
 
 #: src/navigation/types.ts:147
 msgid "monthly_view"
-msgstr "Aylık Görünüm"
+msgstr "Mtazamo wa Kila Mwezi"
 
 #. screen title
 #: src/components/audio_picker.tsx:90
 #: src/components/prayer_adhan.tsx:45
 #: src/navigation/types.ts:80
 msgid "muezzin_settings"
-msgstr "Müezzin"
+msgstr "Muazini"
 
 #. screen title
 #: src/navigation/types.ts:75
 msgid "notification_advanced_settings"
-msgstr "Gelişmiş Ayarlar"
+msgstr "Mipangilio ya Kina"
 
 #. screen title
 #: src/navigation/types.ts:70
 msgid "notification_settings"
-msgstr "Bildirim & Ses"
+msgstr "Arifa na Sauti"
 
 #. Title of the page where you can count your Qada prayers and fast
 #: src/navigation/types.ts:136
 msgid "qada_counter"
-msgstr "Kaza sayacı"
+msgstr "Kaunta ya Qada"
 
 #: src/navigation/types.ts:132
 msgid "qibla_compass"
-msgstr "Kıble pusulası"
+msgstr "Dira ya Qibla"
 
 #: src/navigation/types.ts:124
 msgid "qibla_finder"
-msgstr "Kıble Bulucu"
+msgstr "Kipataji cha Qibla"
 
 #: src/navigation/types.ts:128
 msgid "qibla_map"
-msgstr "Kıble haritası"
+msgstr "Ramani ya Qibla"
 
 #: src/assets/adhan_entries.ts:26
 msgid "ragheb_mustafa_ghalwash"
@@ -1886,58 +1883,58 @@ msgstr "Ragheb Mustafa Ghalwash"
 #. screen title
 #: src/navigation/types.ts:109
 msgid "reminders_settings"
-msgstr "Hatırlatıcılar"
+msgstr "Vikumbusho"
 
 #: src/navigation/types.ts:46
 msgid "settings"
-msgstr "Ayarlar"
+msgstr "Mipangilio"
 
 #: src/screens/settings_widget/index.tsx:58
 msgid "should notification widget be shown?"
-msgstr "bildirim widget'ı gösterilmeli mi?"
+msgstr "wijeti ya arifa inapaswa kuonyeshwa?"
 
 #: src/screens/settings_display/hide_prayer_setting.tsx:34
 #: src/screens/settings_widget/hide_widget_prayer_settings.tsx:39
 msgid "should {prayerName} be hidden?"
-msgstr "{prayerName} gizlensin mi?"
+msgstr "{prayerName} inapaswa kufichwa?"
 
 #: src/utils/ramadan.ts:53
 msgid "since the app's calendar is pre-calculated and not based on moon sightings, it may show incorrect date for the start and the end of Ramadan."
-msgstr "uygulamanın takvimi önceden hesaplandığından ve ay gözlemlerine dayanmadığından, Ramazan'ın başlangıcı ve bitişi için yanlış tarih gösterebilir."
+msgstr "kwa kuwa kalenda ya programu huhesabiwa mapema na haitegemei kuonekana kwa mwezi, inaweza kuonyesha tarehe isiyo sahihi ya kuanza na mwisho wa Ramadhani."
 
 #: src/adhan/prayer.ts:68
 msgid "sunnah.midnight"
-msgstr "Gece yarısı"
+msgstr "Usiku wa manane"
 
 #: src/adhan/prayer.ts:72
 msgid "sunnah.tahajjud"
-msgstr "Teheccüd"
+msgstr "Tahajjud"
 
 #: src/adhan/prayer.ts:44
 msgid "sunrise"
-msgstr "Güneş"
+msgstr "Kuchomoza kwa jua"
 
 #: src/adhan/prayer.ts:56
 msgid "sunset"
-msgstr "Gün batımı"
+msgstr "Machweo"
 
 #. screen title
 #: src/navigation/types.ts:104
 msgid "widget_settings"
-msgstr "Widget ayarları"
+msgstr "Mipangilio ya Wijeti"
 
 #: src/screens/settings_reminders/reminder_item.tsx:35
 msgid "{durationInMinutes} min after {prayer}"
-msgstr "{prayer} vaktinden {durationInMinutes} dakika sonra"
+msgstr "{durationInMinutes} dakika baada ya {prayer}"
 
 #: src/screens/settings_reminders/reminder_item.tsx:34
 msgid "{durationInMinutes} min before {prayer}"
-msgstr "{prayer} vaktinden {durationInMinutes} dakika önce"
+msgstr "{durationInMinutes} dakika kabla ya {prayer}"
 
 #: src/screens/settings_notifications/notification_setting.tsx:186
 msgid "{prayerName} notification will be shown"
-msgstr "{prayerName} bildirimi gösterilecek"
+msgstr "Arifa ya {prayerName} itaonyeshwa"
 
 #: src/screens/settings_notifications/notification_setting.tsx:251
 msgid "{prayerName} sound will be played"
-msgstr "{prayerName} sesi çalınacak"
+msgstr "Sauti ya {prayerName} itachezwa"

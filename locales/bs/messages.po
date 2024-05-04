@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-01-29 07:58+0330\n"
+"POT-Creation-Date: 2024-05-02 12:43+0330\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -8,17 +8,17 @@ msgstr ""
 "Language: bs\n"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:34
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:158
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:159
 msgid "10 min"
 msgstr "10 min"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:35
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:162
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:163
 msgid "15 min"
 msgstr "15 min"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:36
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:166
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:167
 msgid "30 min"
 msgstr "Pola Sata"
 
@@ -27,17 +27,17 @@ msgid "30 minutes is added to Isha time during Ramadan in this method"
 msgstr "30 minuta se dodaje na Jaciju tokom Ramazana u ovoj metodi"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:33
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:154
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:155
 msgid "5 min"
 msgstr "5 min"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:37
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:170
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:171
 msgid "60 min"
 msgstr "Sat Vremena"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:38
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:174
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:175
 msgid "90 min"
 msgstr "Sat i Po"
 
@@ -77,7 +77,7 @@ msgstr "Dodajte Prilagođeni Ezan"
 msgid "Add Custom Audio"
 msgstr "Dodajte Prilagođeni Audio"
 
-#: src/screens/settings_reminders/index.tsx:82
+#: src/screens/settings_reminders/index.tsx:80
 msgid "Add Reminder"
 msgstr "Dodajte Podsjetnik"
 
@@ -174,7 +174,7 @@ msgstr "Jeste li sigurni da želite ovo izbrisati?"
 msgid "Asr Calculation"
 msgstr "Kalkulacija Ikindije"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:22
+#: src/screens/settings_display/hide_prayer_settings.tsx:31
 msgid "At least one prayer time must be shown"
 msgstr "Mora biti prikazano najmanje jedno vrijeme namaza"
 
@@ -217,8 +217,8 @@ msgstr "Kalendar"
 #: src/screens/qada_counter/edit_counter_modal.tsx:120
 #: src/screens/qada_counter/edit_counter_modal.tsx:167
 #: src/screens/settings_adhan/index.tsx:241
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:126
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:304
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:127
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:305
 msgid "Cancel"
 msgstr "Otkažite"
 
@@ -319,7 +319,7 @@ msgstr "Senzor kompasa je nedostupan"
 
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:144
 #: src/screens/qada_counter/edit_counter_modal.tsx:166
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:303
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:304
 msgid "Confirm"
 msgstr "Potvrdite"
 
@@ -331,7 +331,7 @@ msgstr "Kontinuirano"
 msgid "Coordinates updated"
 msgstr "Koordinati su ažurirani"
 
-#: src/screens/settings_reminders/index.tsx:46
+#: src/screens/settings_reminders/index.tsx:44
 msgid "Copy"
 msgstr "Kopiraj"
 
@@ -345,7 +345,7 @@ msgid "Country"
 msgstr "Zemlja"
 
 #: src/adhan/calculation_methods.ts:14
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:177
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:178
 msgid "Custom"
 msgstr "Prilagođeno"
 
@@ -470,7 +470,7 @@ msgstr "Uredite Brojač"
 msgid "Edit Location"
 msgstr "Uredi Lokaciju"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:121
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:122
 msgid "Edit Reminder"
 msgstr "Uredite Podsjetnik"
 
@@ -569,13 +569,13 @@ msgstr "Zaljevsko područje"
 msgid "Hanafi"
 msgstr "Hanefijski"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:41
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:63
+#: src/screens/settings_display/hide_prayer_settings.tsx:52
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:85
 msgid "Hidden?"
 msgstr "Skriveno?"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:37
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:59
+#: src/screens/settings_display/hide_prayer_settings.tsx:48
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:81
 msgid "Hide Prayer Times"
 msgstr "Sakrij Vremena Molitve"
 
@@ -737,7 +737,7 @@ msgstr "Kuvajt"
 
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:113
 #: src/screens/qada_counter/edit_counter_modal.tsx:127
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:132
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:133
 msgid "Label"
 msgstr "Oznaka"
 
@@ -883,7 +883,7 @@ msgstr "Novi Brojač"
 msgid "New Location"
 msgstr "Nova Lokacija"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:121
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:122
 msgid "New Reminder"
 msgstr "Novi Podsjetnik"
 
@@ -979,11 +979,11 @@ msgid "One-Seventh of the Night"
 msgstr "Jedna Sedmina Večeri"
 
 #. shown in add/edit reminder dialog
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:259
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:260
 msgid "Only once?"
 msgstr "Samo jednom?"
 
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:44
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:64
 msgid "Only six items can be shown at the same time"
 msgstr "Samo šest stvari može biti pokazano istovremeno"
 
@@ -1005,7 +1005,7 @@ msgstr "Otvoreno spremište"
 msgid "Open-source"
 msgstr "Otvorenog izvora"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:256
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:257
 msgid "Options"
 msgstr "Postavke"
 
@@ -1078,7 +1078,7 @@ msgstr "Napojni Menadžer"
 msgid "Prayer Times"
 msgstr "Vremena Molitve"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:219
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:220
 msgid "Prayer list"
 msgstr "Molitvena lista"
 
@@ -1160,8 +1160,8 @@ msgid "Remind me next year"
 msgstr "Podsjeti me tek sljedeće godine"
 
 #: src/screens/fullscreen_alarm/index.tsx:68
-#: src/tasks/set_reminder.ts:97
-#: src/tasks/set_reminder.ts:130
+#: src/tasks/set_reminder.ts:109
+#: src/tasks/set_reminder.ts:142
 #: src/utils/dialogs.ts:62
 msgid "Reminder"
 msgstr "Podsjetnik"
@@ -1365,8 +1365,8 @@ msgstr ""
 
 #: src/screens/settings_notifications/notification_setting.tsx:242
 #: src/screens/settings_notifications/notification_setting.tsx:282
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:243
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:245
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:244
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:246
 msgid "Sound"
 msgstr "Zvuk"
 
@@ -1443,13 +1443,13 @@ msgstr "Boja Teme"
 msgid "Thursday"
 msgstr "Četvrtak"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:40
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:142
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:62
+#: src/screens/settings_display/hide_prayer_settings.tsx:51
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:143
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:84
 msgid "Time"
 msgstr "Vrijeme"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:199
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:200
 msgid "Time condition"
 msgstr "Vremensko stanje"
 
@@ -1457,7 +1457,7 @@ msgstr "Vremensko stanje"
 msgid "Time format"
 msgstr "Vremenski format"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:147
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:148
 msgid "Time list"
 msgstr "Vremenski spisak"
 
@@ -1660,11 +1660,11 @@ msgstr "Možete promijeniti kada će nadolazeći alarm ko obavještenje se posla
 msgid "You can choose to replace one of calendars with your current location"
 msgstr "Možete odabrati da zamijenite jedan od kalendara svojom trenutnom lokacijom"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:38
+#: src/screens/settings_display/hide_prayer_settings.tsx:49
 msgid "You can hide prayer times you don't want to see in the main screen here:"
 msgstr "Možete ovdje sakriti molitvena vremena koja ne želite da vidite na glavnom ekranu:"
 
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:60
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:82
 msgid "You can hide prayer times you don't want to see in the widget here:"
 msgstr "Možete sakriti vremena molitve koja ne želite da vidite u vidžetu ovdje:"
 
@@ -1706,7 +1706,7 @@ msgstr "O Aplikaciji"
 msgid "adjustment.hint"
 msgstr "Broj minuta koji će se dodati izračunatim vremenima"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:215
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:216
 msgid "after"
 msgstr "nakon"
 
@@ -1723,7 +1723,7 @@ msgstr "Ikindija"
 msgid "backup_settings"
 msgstr "Rezerva"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:214
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:215
 msgid "before"
 msgstr "prije"
 
@@ -1820,8 +1820,8 @@ msgstr "ako je omogućeno, obavijest će se prikazati oko jedan sat prije vremen
 msgid "intro"
 msgstr "intro"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:46
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:68
+#: src/screens/settings_display/hide_prayer_settings.tsx:56
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:89
 msgid "is prayer time hidden?"
 msgstr "da li je vrijeme molitve skriveno?"
 
@@ -1846,7 +1846,7 @@ msgstr "Akšam"
 msgid "masjid_an_nabawi"
 msgstr "Poslanikova Džamija"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:195
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:196
 msgid "minutes"
 msgstr "minuta"
 
@@ -1909,8 +1909,8 @@ msgstr "Postavke"
 msgid "should notification widget be shown?"
 msgstr "bi li vidžet za obavještenje trebao biti prikazan?"
 
-#: src/screens/settings_display/hide_prayer_setting.tsx:16
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:29
+#: src/screens/settings_display/hide_prayer_setting.tsx:34
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:39
 msgid "should {prayerName} be hidden?"
 msgstr "bi li {prayerName} trebalo biti sakriveno?"
 

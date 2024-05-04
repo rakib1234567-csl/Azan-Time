@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-01-29 07:58+0330\n"
+"POT-Creation-Date: 2024-05-02 12:43+0330\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -8,17 +8,17 @@ msgstr ""
 "Language: bn\n"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:34
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:158
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:159
 msgid "10 min"
 msgstr "১০ মিনিট"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:35
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:162
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:163
 msgid "15 min"
 msgstr "১৫ মিনিট"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:36
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:166
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:167
 msgid "30 min"
 msgstr "৩০ মিনিট"
 
@@ -27,17 +27,17 @@ msgid "30 minutes is added to Isha time during Ramadan in this method"
 msgstr "এই পদ্ধতিতে রমজানে ইশার সময়ের সাথে ৩০ মিনিট যোগ করা হয়"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:33
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:154
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:155
 msgid "5 min"
 msgstr "৫ মিনিট"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:37
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:170
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:171
 msgid "60 min"
 msgstr "৬০ মিনিট"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:38
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:174
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:175
 msgid "90 min"
 msgstr "৯০ মিনিট"
 
@@ -77,7 +77,7 @@ msgstr "কাস্টম আযান যোগ করুন"
 msgid "Add Custom Audio"
 msgstr "কাস্টম অডিও যোগ করুন"
 
-#: src/screens/settings_reminders/index.tsx:82
+#: src/screens/settings_reminders/index.tsx:80
 msgid "Add Reminder"
 msgstr "রিমাইন্ডার যোগ করুন"
 
@@ -112,7 +112,7 @@ msgstr "আরও গণনার সেটিংস"
 
 #: src/screens/settings_notifications/index.tsx:80
 msgid "Advanced Settings"
-msgstr "উন্নত সেটিংস"
+msgstr "বিশেষ সেটিংস"
 
 #: src/screens/settings_calculation_advanced/index.tsx:138
 msgid "Ahmer"
@@ -174,7 +174,7 @@ msgstr "আপনি কি এটি মুছতে চান?"
 msgid "Asr Calculation"
 msgstr "আসরের হিসাব"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:22
+#: src/screens/settings_display/hide_prayer_settings.tsx:31
 msgid "At least one prayer time must be shown"
 msgstr "অন্তত একটি নামাজের সময় দেখাতে হবে"
 
@@ -217,8 +217,8 @@ msgstr "ক্যালেন্ডার"
 #: src/screens/qada_counter/edit_counter_modal.tsx:120
 #: src/screens/qada_counter/edit_counter_modal.tsx:167
 #: src/screens/settings_adhan/index.tsx:241
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:126
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:304
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:127
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:305
 msgid "Cancel"
 msgstr "বাতিল করুন"
 
@@ -266,11 +266,11 @@ msgstr "ক্যালেন্ডারের ধরন বেছে নিন
 
 #: src/screens/settings_display/calendar_lunar_settings.tsx:26
 msgid "Choose lunar calendar language"
-msgstr "চন্দ্র ক্যালেন্ডারের ভাষা চয়ন করুন"
+msgstr "চন্দ্র ক্যালেন্ডারের ভাষা নির্বাচন করুন"
 
 #: src/screens/settings_calculation_advanced/index.tsx:51
 msgid "Choose midnight calculation method"
-msgstr "মধ্যরাত গণনা পদ্ধতি চয়ন করুন"
+msgstr "মধ্যরাত গণনা পদ্ধতি নির্বাচন করুন"
 
 #: src/screens/settings_display/number_format_settings.tsx:24
 msgid "Choose numbering system"
@@ -287,11 +287,11 @@ msgstr "শহর/এলাকা"
 
 #: src/screens/settings_location/location_coordinates.tsx:122
 msgid "Clear the coordinates"
-msgstr "স্থানাঙ্ক সাফ করুন"
+msgstr "স্থানাঙ্ক মুছে ফেলুন"
 
 #: src/screens/settings_location/location_search.tsx:119
 msgid "Clear the location"
-msgstr "অবস্থান পরিষ্কার করুন"
+msgstr "অবস্থান মুছে ফেলুন"
 
 #: src/screens/settings_location/location_coordinates.tsx:69
 msgid "Clipboard data does not contain coordinates"
@@ -299,7 +299,7 @@ msgstr "ক্লিপবোর্ড ডেটায় স্থানাঙ্�
 
 #: src/screens/settings_calculation/calc_params_box.tsx:145
 msgid "Close"
-msgstr "বন্ধ"
+msgstr "বন্ধ করুন"
 
 #: src/screens/settings_calculation_advanced/index.tsx:115
 msgid "Closest City"
@@ -319,7 +319,7 @@ msgstr "কম্পাস সেন্সর নেই"
 
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:144
 #: src/screens/qada_counter/edit_counter_modal.tsx:166
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:303
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:304
 msgid "Confirm"
 msgstr "নিশ্চিত করুন"
 
@@ -331,9 +331,9 @@ msgstr "একটানা"
 msgid "Coordinates updated"
 msgstr "স্থানাঙ্ক আপডেট করা হয়েছে"
 
-#: src/screens/settings_reminders/index.tsx:46
+#: src/screens/settings_reminders/index.tsx:44
 msgid "Copy"
-msgstr "কপি"
+msgstr "কপি করুন"
 
 #: src/screens/qada_counter/edit_counter_modal.tsx:145
 msgid "Count"
@@ -345,7 +345,7 @@ msgid "Country"
 msgstr "দেশ"
 
 #: src/adhan/calculation_methods.ts:14
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:177
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:178
 msgid "Custom"
 msgstr "কাস্টম"
 
@@ -355,7 +355,7 @@ msgstr "কাস্টম শব্দ এবং মুয়াজ্জিন
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:26
 msgid "Custom upcoming alarm time"
-msgstr "কাস্টম আসন্ন অ্যালার্ম সময়"
+msgstr "কাস্টম আসন্ন অ্যালার্মের সময়"
 
 #: src/screens/settings_display/theme_settings.tsx:40
 msgid "Dark"
@@ -415,7 +415,7 @@ msgstr "খারিজ"
 
 #: src/screens/settings_calculation/index.tsx:114
 msgid "Diyanet method provided in Al-Azan is an approximation of the official times. Since there's not enough documentation available on how the times are exactly calculated, times may not align with the official website, especially out of Turkey."
-msgstr "আল-আজানে দেওয়া দিয়ানেট পদ্ধতিটি অফিসিয়াল সময়ের একটি আনুমানিক। যেহেতু সময়গুলি ঠিক কীভাবে গণনা করা হয় সে সম্পর্কে যথেষ্ট ডকুমেন্টেশন উপলব্ধ নেই, তাই সময়গুলি অফিসিয়াল ওয়েবসাইটের সাথে সারিবদ্ধ নাও হতে পারে, বিশেষ করে তুরস্কের বাইরে।"
+msgstr "দিয়ানেট থেকে আসা সময়সমূহ অফিসিয়াল সময়ের আনুমানিক। যেহেতু সময় ঠিক কীভাবে গণনা করা হয় সে সম্পর্কে যথেষ্ট ডকুমেন্টেশন নেই, তাই সময়গুলি অফিসিয়াল ওয়েবসাইটের সাথে নাও মিলতে পারে, বিশেষ করে তুরস্কের বাইরে।"
 
 #: src/adhan/calculation_methods.ts:104
 msgid "Diyanet İşleri Başkanlığı, Turkey"
@@ -468,9 +468,9 @@ msgstr "কাউন্টার এডিট করুন"
 
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:101
 msgid "Edit Location"
-msgstr "অবস্থান সম্পাদনা করুন"
+msgstr "স্থান সম্পাদনা করুন"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:121
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:122
 msgid "Edit Reminder"
 msgstr "রিমাইন্ডার এডিট করুন"
 
@@ -519,7 +519,7 @@ msgstr "ডেটা এক্সপোর্ট"
 #: src/screens/settings_calculation/calc_params_box.tsx:59
 #: src/screens/settings_calculation/calc_params_box.tsx:154
 msgid "Fajr Angle"
-msgstr "ফজর কোণ"
+msgstr "ফজরের কোণ"
 
 #: src/screens/settings_location/gps_button.tsx:48
 msgid "Find My Location"
@@ -569,13 +569,13 @@ msgstr "উপসাগরীয় অঞ্চল"
 msgid "Hanafi"
 msgstr "হানাফী"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:41
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:63
+#: src/screens/settings_display/hide_prayer_settings.tsx:52
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:85
 msgid "Hidden?"
 msgstr "লুকানো?"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:37
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:59
+#: src/screens/settings_display/hide_prayer_settings.tsx:48
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:81
 msgid "Hide Prayer Times"
 msgstr "নামাজের সময়সূচি লুকান"
 
@@ -608,7 +608,7 @@ msgstr "হোমস্ক্রিন এবং বিজ্ঞপ্তি উ
 
 #: website/src/_includes/privacy-policy.tsx:43
 msgid "However, When using online services, such as Qibla map, app may transmit minimum necessary data that may or may not uniquely identify you. Please keep this in mind while using the app."
-msgstr "যাইহোক, কিবলা মানচিত্রের মতো অনলাইন পরিষেবাগুলি ব্যবহার করার সময়, অ্যাপটি ন্যূনতম প্রয়োজনীয় ডেটা প্রেরণ করতে পারে যা আপনাকে অনন্যভাবে সনাক্ত করতে পারে বা নাও করতে পারে। অ্যাপটি ব্যবহার করার সময় দয়া করে এটি মনে রাখবেন।"
+msgstr "কিন্তু কিবলা মানচিত্রের মতো অনলাইন পরিষেবাগুলি ব্যবহার করার সময়, অ্যাপটি ন্যূনতম প্রয়োজনীয় ডেটা প্রেরণ করতে পারে যা আপনাকে অনন্যভাবে সনাক্ত করতে পারে বা নাও করতে পারে। অ্যাপটি ব্যবহার করার সময় দয়া করে এটি মনে রাখবেন।"
 
 #: src/screens/qibla_finder/index.tsx:106
 msgid "I Understand"
@@ -657,7 +657,7 @@ msgstr "দৈনিক পাঁচটি সালাত ছাড়াও �
 
 #: src/screens/qada_counter/counter_view.tsx:111
 msgid "Increment"
-msgstr "বৃদ্ধি"
+msgstr "বৃদ্ধি করুন"
 
 #: src/screens/qibla_finder/index.tsx:32
 msgid "Info"
@@ -679,12 +679,12 @@ msgstr "ইরান"
 #: fastlane/update/update.ts:69
 #: website/src/_includes/home.tsx:100
 msgid "Is localized in English, Persian, Arabic, Turkish, Indonesian, French, Urdu, Hindi, German, Bosnian, Vietnamese, Bangla"
-msgstr "ইংরেজি, ফার্সি, আরবি, তুর্কি, ইন্দোনেশিয়ান, ফরাসি, উর্দু, হিন্দি, জার্মান, বসনিয়ান, ভিয়েতনামী, বাংলা ভাষায় স্থানীয়করণ করা হয়েছে"
+msgstr "ইংরেজি, ফার্সি, আরবি, তুর্কি, ইন্দোনেশিয়ান, ফরাসি, উর্দু, হিন্দি, জার্মান, বসনিয়ান, ভিয়েতনামী, বাংলা ভাষায় ভাষান্তর করা হয়েছে"
 
 #: src/screens/settings_calculation/calc_params_box.tsx:72
 #: src/screens/settings_calculation/calc_params_box.tsx:161
 msgid "Isha Angle"
-msgstr "ইশা কোণ"
+msgstr "ইশার কোণ"
 
 #: src/screens/settings_calculation/calc_params_box.tsx:85
 #: src/screens/settings_calculation/calc_params_box.tsx:168
@@ -717,7 +717,7 @@ msgstr "ইসলামিক সোসাইটি অফ নর্থ আম�
 
 #: src/utils/dialogs.ts:63
 msgid "It seems that you have imported a backup, don't forget to disable battery optimizations for this app"
-msgstr "মনে হচ্ছে আপনি একটি ব্যাকআপ আমদানি করেছেন, এই অ্যাপের জন্য ব্যাটারি অপ্টিমাইজেশন অক্ষম করতে ভুলবেন না"
+msgstr "মনে হচ্ছে আপনি একটি ব্যাকআপ ইম্পোর্ট করেছেন, এই অ্যাপের জন্য ব্যাটারি অপ্টিমাইজেশন বন্ধ করতে ভুলবেন না"
 
 #: src/utils/date.ts:511
 msgid "Just now"
@@ -737,7 +737,7 @@ msgstr "কুয়েত"
 
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:113
 #: src/screens/qada_counter/edit_counter_modal.tsx:127
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:132
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:133
 msgid "Label"
 msgstr "লেবেল"
 
@@ -772,7 +772,7 @@ msgstr "আলো/অন্ধকার থিম"
 
 #: src/screens/favorite_locations/index.tsx:113
 msgid "List is empty"
-msgstr "তালিকা খালি"
+msgstr "খালি তালিকা"
 
 #: src/components/AutocompleteInput.tsx:204
 msgid "Loading"
@@ -804,7 +804,7 @@ msgstr "কম"
 
 #: src/screens/settings_widget/city_name_pos_settings.tsx:27
 msgid "Lunar Calendar"
-msgstr "চন্দ্র পঞ্জিকা"
+msgstr "চন্দ ক্যালেন্ডার"
 
 #: src/screens/settings_display/calendar_lunar_settings.tsx:21
 msgid "Lunar Calendar Language"
@@ -813,11 +813,11 @@ msgstr "চন্দ্র ক্যালেন্ডারের ভাষা"
 #: src/screens/settings_calculation/calc_params_box.tsx:98
 #: src/screens/settings_calculation/calc_params_box.tsx:175
 msgid "Maghrib Angle"
-msgstr "মাগরিব কোণ"
+msgstr "মাগরিবের কোণ"
 
 #: src/screens/settings_reminders/reminder_item.tsx:131
 msgid "Make a Copy"
-msgstr "একটি কপি করো"
+msgstr "কপি করুন"
 
 #: fastlane/update/update.ts:55
 #: website/src/_includes/home.tsx:92
@@ -834,7 +834,7 @@ msgstr "রাতের মাঝখানে"
 
 #: src/screens/settings_calculation_advanced/index.tsx:49
 msgid "Midnight Method"
-msgstr "মধ্যরাতের পদ্ধতি"
+msgstr "মধ্যরাত হিসাবের পদ্ধতি"
 
 #: src/adhan/calculation_methods.ts:135
 msgid "Ministry of Religious Affairs and Wakfs, Algeria"
@@ -883,7 +883,7 @@ msgstr "নতুন কাউন্টার"
 msgid "New Location"
 msgstr "নতুন অবস্থান"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:121
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:122
 msgid "New Reminder"
 msgstr "রিমাইন্ডার যোগ করুন"
 
@@ -955,7 +955,7 @@ msgstr "সংখ্যা পদ্ধতি"
 
 #: src/screens/settings_notifications/vibration_setting.tsx:27
 msgid "Off"
-msgstr "বন্ধ"
+msgstr "বন্ধ করুন"
 
 #: src/screens/qibla_finder/index.tsx:36
 #: src/screens/qibla_finder/index.tsx:53
@@ -979,11 +979,11 @@ msgid "One-Seventh of the Night"
 msgstr "রাতের এক-সপ্তমাংশ"
 
 #. shown in add/edit reminder dialog
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:259
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:260
 msgid "Only once?"
 msgstr "শুধুমাত্র একবার?"
 
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:44
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:64
 msgid "Only six items can be shown at the same time"
 msgstr "একই সময়ে মাত্র ছয়টি আইটেম দেখানো যাবে"
 
@@ -1005,13 +1005,13 @@ msgstr "ওপেন সোর্স রিপোজিটরি"
 msgid "Open-source"
 msgstr "ওপেন সোর্স"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:256
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:257
 msgid "Options"
 msgstr "অপশনসমূহ"
 
 #: src/screens/intro/slides/welcome.tsx:16
 msgid "Or if you have a backup, you can import it"
-msgstr "অথবা আপনার যদি ব্যাকআপ থাকে তবে আপনি এটি আমদানি করতে পারেন"
+msgstr "অথবা আপনার যদি ব্যাকআপ থাকে তবে আপনি এটি ইম্পোর্ট করতে পারেন"
 
 #: src/components/orientation_lock.tsx:55
 msgid "Orientation Lock: Landscape"
@@ -1027,7 +1027,7 @@ msgstr "ওরিয়েন্টেশন: আনলক করা হয়�
 
 #: src/screens/qibla_finder/index.tsx:93
 msgid "Other magnetic devices may interfere with your phone's compass and your compass may need calibration."
-msgstr "অন্যান্য চৌম্বকীয় ডিভাইসগুলি আপনার ফোনের কম্পাসে হস্তক্ষেপ করতে পারে এবং আপনার কম্পাসের ক্রমাঙ্কনের প্রয়োজন হতে পারে।"
+msgstr "অন্যান্য চৌম্বকীয় ডিভাইসগুলি আপনার ফোনের কম্পাসে সমস্যা সৃষ্টি করতে পারে এবং আপনার কম্পাসের ক্যালিব্রেশন প্রয়োজন হতে পারে।"
 
 #: src/constants/notification.ts:29
 msgid "PRE_ADHAN_CHANNEL_NAME"
@@ -1056,7 +1056,7 @@ msgstr "ফোন স্টেট অনুমতি"
 #: src/components/audio_picker.tsx:380
 #: src/screens/settings_adhan/adhan_list_item.tsx:223
 msgid "Play"
-msgstr "খেলা"
+msgstr "শুনুন"
 
 #: src/utils/dialogs.ts:37
 msgid "Please enable location service"
@@ -1078,9 +1078,9 @@ msgstr "পাওয়ার ম্যানেজার"
 msgid "Prayer Times"
 msgstr "সালাতের সময়"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:219
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:220
 msgid "Prayer list"
-msgstr "প্রার্থনা তালিকা"
+msgstr "সালাতের তালিকা"
 
 #: src/components/audio_picker.tsx:366
 #: src/screens/settings_location/location_search.tsx:89
@@ -1109,7 +1109,7 @@ msgstr "গোপনীয়তা পলিসি"
 #. Max. 80 characters
 #: fastlane/update/update.ts:16
 msgid "Privacy focused open-source muslim Adhan (islamic prayer times) and qibla app"
-msgstr "গোপনীয়তা-প্রথম ওপেন সোর্স মুসলিম আযান (ইসলামিক নামাজের সময়) এবং কিবলা অ্যাপ"
+msgstr "প্রাইভেসি-কেন্দ্রিক ওপেন সোর্স মুসলিম আযান (ইসলামিক নামাজের সময়) এবং কিবলা অ্যাপ"
 
 #: fastlane/update/update.ts:67
 #: website/src/_includes/home.tsx:98
@@ -1160,8 +1160,8 @@ msgid "Remind me next year"
 msgstr "পরের বছর আমাকে মনে করিয়ে দিন"
 
 #: src/screens/fullscreen_alarm/index.tsx:68
-#: src/tasks/set_reminder.ts:97
-#: src/tasks/set_reminder.ts:130
+#: src/tasks/set_reminder.ts:109
+#: src/tasks/set_reminder.ts:142
 #: src/utils/dialogs.ts:62
 msgid "Reminder"
 msgstr "রিমাইন্ডার"
@@ -1207,7 +1207,7 @@ msgstr "দ্বিতীয় ক্যালেন্ডার"
 
 #: src/screens/home/index.tsx:239
 msgid "See favorite locations"
-msgstr "প্রিয় অবস্থান দেখুন"
+msgstr "প্রিয় অবস্থানসমূহ দেখুন"
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:205
 msgid "Select as Fajr Adhan"
@@ -1274,7 +1274,7 @@ msgstr "অ্যাপটি কি পরবর্তী সালাতের
 
 #: src/screens/settings_notifications/bypass_dnd_setting.tsx:30
 msgid "Should app still play adhan when \"Do Not Disturb\" is active?"
-msgstr "\"ডু নট ডিস্টার্ব\" সক্রিয় থাকা অবস্থায়ও কি অ্যাপকে আজান বাজানো উচিত?"
+msgstr "\"ডু নট ডিস্টার্ব\" সক্রিয় থাকা অবস্থায়ও কি আজান হবে?"
 
 #: src/screens/settings_notifications_advanced/volume_button_setting.tsx:30
 msgid "Should app stop playing adhan when the volume button is pressed?"
@@ -1282,7 +1282,7 @@ msgstr "ভলিউম চাপলে অ্যাপের কি আজা�
 
 #: src/screens/settings_notifications/vibration_setting.tsx:21
 msgid "Should phone vibrate when adhan or reminder starts playing?"
-msgstr "আযান বা রিমাইন্ডার বাজানো শুরু হলে ফোন কি ভাইব্রেট করা উচিত?"
+msgstr "আযান বা রিমাইন্ডার বাজানো শুরু হলে ফোন কি ভাইব্রেট করবে?"
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:195
 msgid "Show Adhan Options"
@@ -1299,7 +1299,7 @@ msgstr "কাউন্টডাউন দেখবেন?"
 
 #: src/screens/monthly_view/index.tsx:197
 msgid "Show current"
-msgstr "বর্তমান দেখান"
+msgstr "বর্তমান দেখুন"
 
 #: src/utils/dialogs.ts:66
 msgid "Show me"
@@ -1355,8 +1355,8 @@ msgstr "ব্যাকগ্রাউন্ডে অ্যাপটিকে �
 
 #: src/screens/settings_notifications/notification_setting.tsx:242
 #: src/screens/settings_notifications/notification_setting.tsx:282
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:243
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:245
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:244
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:246
 msgid "Sound"
 msgstr "শব্দ"
 
@@ -1430,13 +1430,13 @@ msgstr "থিমের রঙ"
 msgid "Thursday"
 msgstr "বৃহস্পতিবার"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:40
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:142
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:62
+#: src/screens/settings_display/hide_prayer_settings.tsx:51
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:143
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:84
 msgid "Time"
 msgstr "সময়"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:199
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:200
 msgid "Time condition"
 msgstr "সময়ের শর্ত"
 
@@ -1444,7 +1444,7 @@ msgstr "সময়ের শর্ত"
 msgid "Time format"
 msgstr "সময় ফর্ম্যাট"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:147
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:148
 msgid "Time list"
 msgstr "সময়ের তালিকা"
 
@@ -1474,15 +1474,15 @@ msgstr "বাম দিকে ঘুরুন"
 
 #: src/screens/qibla_finder_map/index.tsx:117
 msgid "Turn Right"
-msgstr "ডানে ঘোরা"
+msgstr "ডানে দিকে ঘুরুন"
 
 #: src/components/qada_history_toggle.tsx:27
 msgid "Turn history off"
-msgstr "ইতিহাস বন্ধ করুন"
+msgstr "হিস্টরি বন্ধ করুন"
 
 #: src/components/qada_history_toggle.tsx:27
 msgid "Turn history on"
-msgstr "ইতিহাস চালু করুন"
+msgstr "হিস্টরি চালু করুন"
 
 #: src/screens/settings_calculation_advanced/index.tsx:82
 msgid "Twilight Angle"
@@ -1625,7 +1625,7 @@ msgstr "আপনি কাবার দিকে মুখ করে আছে�
 
 #: src/screens/qibla_finder_map/index.tsx:277
 msgid "You are not facing Kaaba"
-msgstr "আপনি কাবার দিকে মুখ করছেন না"
+msgstr "আপনি কাবার দিকে মুখ করে নেই"
 
 #: src/screens/settings_fix_common_problems/index.tsx:87
 msgid "You can access your device Power Manager using the button below."
@@ -1647,11 +1647,11 @@ msgstr "আযান বা রিমাইন্ডারের আগে আ�
 msgid "You can choose to replace one of calendars with your current location"
 msgstr "আপনি আপনার বর্তমান অবস্থানের সাথে একটি ক্যালেন্ডার প্রতিস্থাপন করতে পারেন৷"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:38
+#: src/screens/settings_display/hide_prayer_settings.tsx:49
 msgid "You can hide prayer times you don't want to see in the main screen here:"
 msgstr "আপনি এখানে প্রধান পর্দায় যে সমস্ত সালাতের সময় দেখতে চান না তা লুকাতে পারেন:"
 
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:60
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:82
 msgid "You can hide prayer times you don't want to see in the widget here:"
 msgstr "আপনি এখানে যে সমস্ত সালাতের সময়গুলি উইজেটে দেখতে চান না তা লুকিয়ে রাখতে পারেন:"
 
@@ -1690,7 +1690,7 @@ msgstr "সম্পর্কিত"
 msgid "adjustment.hint"
 msgstr "গণনা করা সময়ের সাথে যোগ করা হবে এমন মিনিটের সংখ্যা"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:215
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:216
 msgid "after"
 msgstr "পরে"
 
@@ -1707,7 +1707,7 @@ msgstr "আসর"
 msgid "backup_settings"
 msgstr "ব্যাকআপ"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:214
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:215
 msgid "before"
 msgstr "আগে"
 
@@ -1768,7 +1768,7 @@ msgstr "ফজর"
 #. Title of the page where you add your favorite locations for faster switch
 #: src/navigation/types.ts:141
 msgid "favorite_location"
-msgstr "প্রিয় অবস্থান"
+msgstr "প্রিয় স্থানসমূহ"
 
 #: src/screens/settings_display/number_format_settings.tsx:21
 msgid "forces all numbers to be in the selected system"
@@ -1804,8 +1804,8 @@ msgstr "যদি সক্রিয় করা হয়, তাহলে য
 msgid "intro"
 msgstr "ভূমিকা"
 
-#: src/screens/settings_display/hide_prayer_settings.tsx:46
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:68
+#: src/screens/settings_display/hide_prayer_settings.tsx:56
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:89
 msgid "is prayer time hidden?"
 msgstr "নামাজের সময় কি লুকানো আছে?"
 
@@ -1830,7 +1830,7 @@ msgstr "মাগরিব"
 msgid "masjid_an_nabawi"
 msgstr "মসজিদে নববী"
 
-#: src/screens/settings_reminders/edit_reminder_modal.tsx:195
+#: src/screens/settings_reminders/edit_reminder_modal.tsx:196
 msgid "minutes"
 msgstr "মিনিট"
 
@@ -1852,7 +1852,7 @@ msgstr "মুয়াজ্জিন"
 #. screen title
 #: src/navigation/types.ts:75
 msgid "notification_advanced_settings"
-msgstr "উন্নত সেটিংস"
+msgstr "বিশেষ সেটিংস"
 
 #. screen title
 #: src/navigation/types.ts:70
@@ -1893,8 +1893,8 @@ msgstr "সেটিংস"
 msgid "should notification widget be shown?"
 msgstr "নোটিফিকেশন উইজেট দেখানো উচিত?"
 
-#: src/screens/settings_display/hide_prayer_setting.tsx:16
-#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:29
+#: src/screens/settings_display/hide_prayer_setting.tsx:34
+#: src/screens/settings_widget/hide_widget_prayer_settings.tsx:39
 msgid "should {prayerName} be hidden?"
 msgstr "{prayerName} লুকানো উচিত?"
 
