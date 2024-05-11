@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-05-02 12:43+0330\n"
+"POT-Creation-Date: 2024-05-11 12:49+0330\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,7 +29,7 @@ msgstr "Dakika 30 huongezwa kwa wakati wa Isha wakati wa Ramadhani kwa njia hii"
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:33
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:155
 msgid "5 min"
-msgstr "5 dakika"
+msgstr "Dakika 5"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:37
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:171
@@ -60,7 +60,7 @@ msgstr "Bila Matangazo"
 
 #: src/screens/settings_fix_common_problems/adaptive_charging_toggle.tsx:15
 msgid "Adaptive Charging"
-msgstr "Kuchaji Adaptive"
+msgstr "Uingizo wa Moto kwa Betri Inajirekebisha"
 
 #: src/components/audio_picker.tsx:408
 #: src/components/new_audio_dialog.tsx:60
@@ -104,15 +104,15 @@ msgstr "Marekebisho"
 #: src/components/advanced_custom_adhan_toggle.tsx:16
 #: src/screens/settings_fix_common_problems/index.tsx:119
 msgid "Advanced"
-msgstr "Advanced"
+msgstr "Endelevu"
 
 #: src/screens/settings_calculation/index.tsx:126
 msgid "Advanced Calculation Settings"
-msgstr "Mipangilio ya Kina ya Kukokotoa"
+msgstr "Mipangilio ya Hesabu Endelevu"
 
 #: src/screens/settings_notifications/index.tsx:80
 msgid "Advanced Settings"
-msgstr "Mipangilio ya Kina"
+msgstr "Mipangilio Endelevu"
 
 #: src/screens/settings_calculation_advanced/index.tsx:138
 msgid "Ahmer"
@@ -127,7 +127,7 @@ msgstr "Al-Azan"
 #. Max. 30 characters
 #: fastlane/update/update.ts:27
 msgid "Al-Azan - Prayer Times"
-msgstr "Al-Azan - Nyakati za Maombi"
+msgstr "Al-Azan - Nyakati za Salaa"
 
 #: website/src/_includes/privacy-policy.tsx:61
 msgid "Al-Azan is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details."
@@ -176,7 +176,7 @@ msgstr "Hesabu ya Asr"
 
 #: src/screens/settings_display/hide_prayer_settings.tsx:31
 msgid "At least one prayer time must be shown"
-msgstr "Angalau wakati mmoja wa maombi lazima uonyeshwe"
+msgstr "Lazima wakati mmoja wa salaa uonyeshwe"
 
 #: src/screens/intro/intro.tsx:118
 #: src/screens/settings_calculation/calendar_settings.tsx:44
@@ -192,7 +192,7 @@ msgstr "Otomatiki (Chaguomsingi)"
 
 #: src/screens/settings_notifications/bypass_dnd_setting.tsx:26
 msgid "Bypass \"Do Not Disturb\"?"
-msgstr "Bypass \"Usisumbue\"?"
+msgstr "Ruka \"Usisumbue\"?"
 
 #: src/screens/settings_calculation/index.tsx:96
 msgid "Calculating Adhan has many different methods. Each method provides different results. It is your responsibility to search and use the right method."
@@ -249,7 +249,7 @@ msgstr "Chagua Lugha"
 
 #: src/screens/settings_calculation_advanced/index.tsx:104
 msgid "Choose Polar Resolution"
-msgstr "Chagua Azimio la Polar"
+msgstr "Chagua Mgawo ya Polar"
 
 #: src/screens/settings_calculation_advanced/index.tsx:133
 msgid "Choose Shafaq method"
@@ -257,7 +257,7 @@ msgstr "Chagua njia ya Shafaq"
 
 #: src/screens/settings_calculation_advanced/index.tsx:38
 msgid "Choose calculation rounding method"
-msgstr "Chagua njia ya kuhesabu kuzunguka"
+msgstr "Chagua mwenendo wa hesabu karibia"
 
 #: src/screens/settings_calculation/calendar_settings.tsx:26
 #: src/screens/settings_display/calendar_secondary_settings.tsx:26
@@ -270,15 +270,15 @@ msgstr "Chagua lugha ya kalenda ya mwezi"
 
 #: src/screens/settings_calculation_advanced/index.tsx:51
 msgid "Choose midnight calculation method"
-msgstr "Chagua njia ya kuhesabu usiku wa manane"
+msgstr "Chagua njia ya kuhesabu katikati ya usiku (usiku wa manane)"
 
 #: src/screens/settings_display/number_format_settings.tsx:24
 msgid "Choose numbering system"
-msgstr "Chagua mfumo wa nambari"
+msgstr "Chagua mwenendo wa unambarishaji"
 
 #: src/screens/settings_widget/city_name_pos_settings.tsx:22
 msgid "Choose which calendar to replace"
-msgstr "Chagua kalenda ya kubadilisha"
+msgstr "Chagua ni kalenda ipi ya kubadilisha"
 
 #: src/screens/settings_location/location_search.tsx:97
 #: src/screens/settings_location/location_search.tsx:100
@@ -287,7 +287,7 @@ msgstr "Jiji/Eneo"
 
 #: src/screens/settings_location/location_coordinates.tsx:122
 msgid "Clear the coordinates"
-msgstr "Futa kuratibu"
+msgstr "Futa majiranukta ya kijiografia"
 
 #: src/screens/settings_location/location_search.tsx:119
 msgid "Clear the location"
@@ -295,7 +295,7 @@ msgstr "Futa eneo"
 
 #: src/screens/settings_location/location_coordinates.tsx:69
 msgid "Clipboard data does not contain coordinates"
-msgstr "Data ya Ubao wa kunakili haina viwianishi"
+msgstr "Tundiko la maandishi haina majiranukta ya kijiografia"
 
 #: src/screens/settings_calculation/calc_params_box.tsx:145
 msgid "Close"
@@ -303,19 +303,19 @@ msgstr "Funga"
 
 #: src/screens/settings_calculation_advanced/index.tsx:115
 msgid "Closest City"
-msgstr "Jiji la karibu zaidi"
+msgstr "Mji Uliokaribu"
 
 #: src/screens/settings_calculation_advanced/index.tsx:119
 msgid "Closest Date"
-msgstr "Tarehe ya Karibu zaidi"
+msgstr "Tarehe Ilioyokaribu"
 
 #: src/screens/qibla_finder_map/index.tsx:242
 msgid "Compass Lock"
-msgstr "Kufuli ya Dira"
+msgstr "Funga Kielekezi"
 
 #: src/screens/qibla_finder_compass/accuracy_indicator.tsx:14
 msgid "Compass sensor unavailable"
-msgstr "Kihisi cha dira hakipatikani"
+msgstr "Kihisi cha mwelekeo hakipatikani"
 
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:144
 #: src/screens/qada_counter/edit_counter_modal.tsx:166
@@ -325,11 +325,11 @@ msgstr "Thibitisha"
 
 #: src/screens/settings_notifications/vibration_setting.tsx:30
 msgid "Continuous"
-msgstr "Kuendelea"
+msgstr "Endelea"
 
 #: src/screens/settings_location/gps_button.tsx:30
 msgid "Coordinates updated"
-msgstr "Viratibu vimesasishwa"
+msgstr "Majiranukta ya kijiografia zimesasishwa"
 
 #: src/screens/settings_reminders/index.tsx:44
 msgid "Copy"
@@ -347,15 +347,15 @@ msgstr "Nchi"
 #: src/adhan/calculation_methods.ts:14
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:178
 msgid "Custom"
-msgstr "Desturi"
+msgstr "Maalum"
 
 #: src/screens/settings_backup/export_settings.tsx:27
 msgid "Custom sounds and muezzins will not be exported"
-msgstr "Sauti maalum na muezzini hazitasafirishwa"
+msgstr "Sauti maalum na mwadhini hazitatowa nje"
 
 #: src/screens/settings_notifications_advanced/custom_upcoming_time_setting.tsx:26
 msgid "Custom upcoming alarm time"
-msgstr "Saa maalum ya kengele inayokuja"
+msgstr "Saa maalum ya kengele yajayo"
 
 #: src/screens/settings_display/theme_settings.tsx:40
 msgid "Dark"
@@ -367,7 +367,7 @@ msgstr "Tarehe"
 
 #: src/screens/qada_counter/counter_view.tsx:57
 msgid "Decrement"
-msgstr "Kupungua"
+msgstr "Punguza"
 
 #: src/components/audio_picker.tsx:73
 #: src/components/audio_picker.tsx:108
@@ -389,42 +389,42 @@ msgstr "Futa"
 
 #: src/screens/settings_fix_common_problems/index.tsx:57
 msgid "Depending on your device and android version, Sometimes your device may kill the app in the background to save battery. This can prevent alarms/notifications from being delivered."
-msgstr "Kulingana na kifaa chako na toleo la android, Wakati mwingine kifaa chako kinaweza kuua programu chinichini ili kuokoa betri. Hii inaweza kuzuia kengele/arifa ziwasilishwe."
+msgstr "Kutegemea chombo chako na toleo la Android, muda mwingine, chombo chako kinaweza kuua programu kuokoa moto wa betri.  Hii inaweza kuzuia kengele na vijulishi kuwasilishiana."
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:204
 msgid "Deselect as Fajr Adhan"
-msgstr "Acha kuchagua kama Fajr Adhan"
+msgstr "Kanusha Adhana ya Alfajiri"
 
 #: src/components/audio_picker.tsx:98
 msgid "Device sounds"
-msgstr "Sauti za kifaa"
+msgstr "Sauti za chombo"
 
 #: src/screens/settings_fix_common_problems/index.tsx:65
 msgid "Disabled"
-msgstr "Imezimwa"
+msgstr "Imelemazwa"
 
 #: src/screens/qibla_finder/index.tsx:89
 msgid "Disclaimer"
-msgstr "Kanusho"
+msgstr "Uhalali"
 
 #: src/screens/fullscreen_alarm/index.tsx:153
 #: src/tasks/set_alarm.ts:106
 #: src/utils/dialogs.ts:73
 msgid "Dismiss"
-msgstr "Ondoa"
+msgstr "Puuzilia"
 
 #: src/screens/settings_calculation/index.tsx:114
 msgid "Diyanet method provided in Al-Azan is an approximation of the official times. Since there's not enough documentation available on how the times are exactly calculated, times may not align with the official website, especially out of Turkey."
-msgstr "Mbinu ya Diyanet iliyotolewa katika Al-Azan ni makadirio ya nyakati rasmi. Kwa kuwa hakuna hati za kutosha kuhusu jinsi nyakati zinavyokokotolewa, nyakati huenda zisilandane na tovuti rasmi, hasa nje ya Uturuki."
+msgstr "Diyaneti ilio kwenye Al-Azan ni kadirio wa mda halali. Kwa sababu uandikaji wa hati ya jinsi gani mida inavyo piga hesabu ni chache, mida haitatukia kabisa na tovuti halisi, sana nje ya Uturuki."
 
 #: src/adhan/calculation_methods.ts:104
 msgid "Diyanet İşleri Başkanlığı, Turkey"
-msgstr "Diyanet İşleri Başkanlığı, Uturuki"
+msgstr "Diyaneti İşleri Başkanlığı, Uturuki"
 
 #: fastlane/update/update.ts:43
 #: website/src/_includes/home.tsx:80
 msgid "Doesn't use any kind of trackers"
-msgstr "Haitumii aina yoyote ya vifuatiliaji"
+msgstr "Haitumi aina yeyote ya ufuatiliaji"
 
 #: src/utils/permission.ts:45
 #: src/utils/permission.ts:181
@@ -439,11 +439,11 @@ msgstr "Usionyeshe tena"
 
 #: src/screens/settings_notifications_advanced/dont_turn_on_screen.tsx:12
 msgid "Don't show alarm screen?"
-msgstr "Huonyeshi skrini ya kengele?"
+msgstr "Usionyeshe kionyeshi cha kengele?"
 
 #: src/screens/intro/intro.tsx:101
 msgid "Done"
-msgstr "Imekamilika"
+msgstr "Kamilifu"
 
 #: src/screens/settings_adhan/adhan_list_item.tsx:186
 msgid "Download"
@@ -460,7 +460,7 @@ msgstr "Hariri"
 
 #: src/screens/settings_calculation/calc_params_box.tsx:140
 msgid "Edit Calculation Parameters"
-msgstr "Hariri Vigezo vya Kuhesabu"
+msgstr "Hariri Hiari za Kuhesabu"
 
 #: src/screens/qada_counter/edit_counter_modal.tsx:109
 msgid "Edit Counter"
@@ -468,15 +468,15 @@ msgstr "Hariri Kaunta"
 
 #: src/screens/favorite_locations/edit_favorite_location_modal.tsx:101
 msgid "Edit Location"
-msgstr "Badilisha Mahali"
+msgstr "Hariri Eneo"
 
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:122
 msgid "Edit Reminder"
-msgstr "Badilisha Kikumbusho"
+msgstr "Hariri Ukumbusho"
 
 #: src/adhan/calculation_methods.ts:32
 msgid "Egyptian General Survey Authority"
-msgstr "Mamlaka ya Utafiti Mkuu wa Misri"
+msgstr "Mamlaka ya Kijumla Mkuu wa Misri"
 
 #: src/screens/settings_fix_common_problems/index.tsx:65
 msgid "Enabled"
@@ -498,7 +498,7 @@ msgstr "Hitilafu wakati wa kupakua sauti"
 #: src/screens/qibla_finder_compass/index.tsx:83
 #: src/screens/settings_location/gps_button.tsx:34
 msgid "Error while getting coordinates"
-msgstr "Hitilafu wakati wa kupata viwianishi"
+msgstr "Hitilafu wakati wa kupata majiranukta ya kijiografia"
 
 #: src/screens/settings_backup/import_settings.tsx:78
 msgid "Error: failed to open file"
@@ -545,13 +545,13 @@ msgstr "Ijumaa"
 
 #: src/screens/settings_calculation_advanced/index.tsx:137
 msgid "General (default)"
-msgstr "Jumla (chaguo-msingi)"
+msgstr "Jumla (chaguomsingi)"
 
 #: src/screens/qibla_finder_compass/index.tsx:108
 #: src/screens/qibla_finder_compass/index.tsx:170
 #: src/screens/settings_location/gps_button.tsx:52
 msgid "Getting coordinates"
-msgstr "Kupata kuratibu"
+msgstr "Kupata majiraukta ya kijiografia"
 
 #: src/screens/intro/intro.tsx:124
 msgid "Got it"
@@ -604,15 +604,15 @@ msgstr "Nyumbani"
 #: fastlane/update/update.ts:63
 #: website/src/_includes/home.tsx:96
 msgid "Homescreen and notification Widgets"
-msgstr "Skrini ya nyumbani na Wijeti za arifa"
+msgstr "Kiomyesho cha nyumbani na vipande vya ujulisho"
 
 #: website/src/_includes/privacy-policy.tsx:43
 msgid "However, When using online services, such as Qibla map, app may transmit minimum necessary data that may or may not uniquely identify you. Please keep this in mind while using the app."
-msgstr "Hata hivyo, Unapotumia huduma za mtandaoni, kama vile ramani ya Qibla, programu inaweza kusambaza data inayohitajika ambayo inaweza kukutambulisha au isikutambue kwa njia ya kipekee. Tafadhali kumbuka hili unapotumia programu."
+msgstr "Hata hivyo, wakati uatumia huduma za mtandao, kama ramani ya Kibla, programu inaweza kutuma habari chache inayohitaji zinaweza kukutambia. Tafadhali tilia mlaamani wakati unapotumia programu."
 
 #: src/screens/qibla_finder/index.tsx:106
 msgid "I Understand"
-msgstr "Naelewa"
+msgstr "Na Elewa"
 
 #: src/constants/notification.ts:49
 msgid "IMPORTANT_CHANNEL_ID"
@@ -620,23 +620,23 @@ msgstr "Muhimu"
 
 #: src/screens/settings_notifications_advanced/notify_next_adhan_setting.tsx:22
 msgid "If enabled, when a notification is shown, it will contain info for the next prayer time"
-msgstr "Ikiwashwa, arifa inapoonyeshwa, itakuwa na maelezo ya wakati unaofuata wa maombi"
+msgstr "Kama kimewezeshwa, wakati ujulisho unaonyeshwa, itahusisha habari ya mda wa salaa ufuatao"
 
 #: website/src/_includes/privacy-policy.tsx:49
 msgid "If you have activated “Backup & Reset” in your phone settings (Settings / Backup & Reset / Back up my data), you should be aware that Android itself (not Al-Azan) will periodically save a copy of your phone’s data in Google’s servers. This allows Android to recover your data in case your device gets damaged, or you purchase a new device. The developers of Al-Azan do not have access to this data."
-msgstr "Ikiwa umewasha \"Hifadhi na Urejeshe\" katika mipangilio ya simu yako (Mipangilio / Hifadhi nakala na Rudisha / Hifadhi nakala ya data yangu), unapaswa kufahamu kuwa Android yenyewe (si Al-Azan) itahifadhi nakala ya data ya simu yako mara kwa mara kwenye Google. seva. Hii huruhusu Android kurejesha data yako endapo kifaa chako kitaharibika, au ukinunua kifaa kipya. Wasanidi programu wa Al-Azan hawana ufikiaji wa data hii."
+msgstr "Kama umewezesha \"Hifadhi na Rejesha\" kwenye marekebisho ya simu (Mipngilio / Hifadhi na Rudish Upya / Hifadhi data), lazima ujue kwamba Android yenyewe (si Al-Azan) itahifadhi data kutoka simu yako kwa seva za Google. Simu inaharibiwa au ununue simu nyingine, Android inaweza kupakua data yako.  Waandishi wa Al-Azan hawana uwexo wa kupata data hilo."
 
 #: src/screens/settings_fix_common_problems/index.tsx:114
 msgid "If you still had problem with app stopping after some time, please visit dontkillmyapp.com for more solutions."
-msgstr "Ikiwa bado ulikuwa na tatizo la kusimamisha programu baada ya muda fulani, tafadhali tembelea dontkillmyapp.com kwa masuluhisho zaidi."
+msgstr "Kama bado ulikuwa na tatizo ya programu hii kusimama baada ya mda, tafadhali tembelea mtandao dontkillmyap.com kwa marekebisho zaidi."
 
 #: src/screens/settings_fix_common_problems/index.tsx:60
 msgid "If you want to make sure the app can work reliably, You have to disable power optimization for this app. You can open related settings using the button below."
-msgstr "Iwapo ungependa kuhakikisha kuwa programu inaweza kufanya kazi kwa uhakika, unapaswa kuzima uboreshaji wa nishati kwa programu hii. Unaweza kufungua mipangilio inayohusiana kwa kutumia kitufe kilicho hapa chini."
+msgstr "Kama unataka kuhakikisha programu inaweza kufanya kwa utegemezi lazima uzime sehemu inayosimamia moto ya programu hii. Unaweza kufungua mipangilio hizo na kibonye kilicho hapo chini."
 
 #: src/screens/settings_fix_common_problems/adaptive_charging_toggle.tsx:19
 msgid "If your device has adaptive charging, like Google Pixel, and you don't want adhan or reminders to be recognized as an alarm, you can enable this option."
-msgstr "Ikiwa kifaa chako kina chaji inayoweza kubadilika, kama vile Google Pixel, na hutaki adhana au vikumbusho vitambuliwe kama kengele, unaweza kuwasha chaguo hili."
+msgstr "Kama chombo chako kina utiaji moto llevu kama Google Pixek na hutaki adhan au vikumbushi kutambulika kama kengele, wezesha chaguo huu."
 
 #: src/screens/settings_backup/import_settings.tsx:87
 msgid "Import"
@@ -648,20 +648,20 @@ msgstr "Ingiza data ya programu"
 
 #: src/screens/settings_backup/import_settings.tsx:73
 msgid "Import successful"
-msgstr "Imefaulu kuleta"
+msgstr "Ingizo ya data imefaulu"
 
 #: fastlane/update/update.ts:53
 #: website/src/_includes/home.tsx:88
 msgid "In addition to five daily prayers, it has settings for Sunrise, Sunset, Midnight and Night Prayer (Tahajjud)"
-msgstr "Mbali na Sala tano za kila siku, ina mipangilio ya Kuchomoza Jua, Kuzama kwa Jua, Usiku wa manane na Sala ya Usiku (Tahajjud)"
+msgstr "Ina sala tano za kila siku, na pia ina mipangilio ya Kuchomoza Jua, Kuzama kwa Jua, Usiku wa manane na Sala ya Usiku (Tahajjud)"
 
 #: src/screens/qada_counter/counter_view.tsx:111
 msgid "Increment"
-msgstr "Ongezeko"
+msgstr "Ongeza"
 
 #: src/screens/qibla_finder/index.tsx:32
 msgid "Info"
-msgstr "Habari"
+msgstr "Taarifa"
 
 #: src/screens/qibla_finder/index.tsx:49
 msgid "Internet connection"
@@ -669,7 +669,7 @@ msgstr "Muunganisho wa mtandao"
 
 #: src/screens/qibla_finder/index.tsx:50
 msgid "Internet connection is necessary for qibla map to work. Please enable your wifi or mobile data and try again."
-msgstr "Muunganisho wa mtandao ni muhimu ili ramani ya qibla ifanye kazi. Tafadhali washa wifi yako au data ya simu na ujaribu tena."
+msgstr "Muunganisho wa mtandao ni muhimu ili ramani ya kibla ifanye kazi. Tafadhali washa wifi yako au data ya simu na ujaribu tena."
 
 #: src/adhan/calculation_methods.ts:116
 #: src/adhan/calculation_methods.ts:123
@@ -684,7 +684,7 @@ msgstr "Imejanibishwa katika Kiingereza, Kiajemi, Kiarabu, Kituruki, Kiindonesia
 #: src/screens/settings_calculation/calc_params_box.tsx:72
 #: src/screens/settings_calculation/calc_params_box.tsx:161
 msgid "Isha Angle"
-msgstr "Isha Angle"
+msgstr "Pembe ya Isha"
 
 #: src/screens/settings_calculation/calc_params_box.tsx:85
 #: src/screens/settings_calculation/calc_params_box.tsx:168
@@ -709,7 +709,7 @@ msgstr "Kiislamu (kiraia)"
 
 #: src/screens/settings_calculation/calendar_settings.tsx:36
 msgid "Islamic (tabular)"
-msgstr "Kiislamu (tabular)"
+msgstr "Kiislamu (lioorodheshwa)"
 
 #: src/adhan/calculation_methods.ts:50
 msgid "Islamic Society of North America (ISNA)"
@@ -764,11 +764,11 @@ msgstr "Mwanga"
 
 #: fastlane/update/update.ts:57
 msgid "Light and Dark theme"
-msgstr "Mandhari nyepesi na giza"
+msgstr "Mandhari isiyoiva na giza"
 
 #: website/src/_includes/home.tsx:93
 msgid "Light/Dark theme"
-msgstr "Mandhari nyepesi/giza"
+msgstr "Mandhari isiyoiva/giza"
 
 #: src/screens/favorite_locations/index.tsx:113
 msgid "List is empty"
@@ -783,7 +783,7 @@ msgstr "Inapakia"
 #: src/screens/settings_widget/city_name_pos_settings.tsx:17
 #: src/utils/dialogs.ts:36
 msgid "Location"
-msgstr "Mahali"
+msgstr "Eneo"
 
 #: src/utils/dialogs.ts:45
 msgid "Location settings"
@@ -792,7 +792,7 @@ msgstr "Mipangilio ya eneo"
 #: src/screens/settings_location/location_coordinates.tsx:100
 #: src/screens/settings_location/location_coordinates.tsx:106
 msgid "Longitude"
-msgstr "Longitude"
+msgstr "Longitudo"
 
 #: src/screens/settings_location/location_coordinates.tsx:113
 msgid "Longitude is invalid"
@@ -919,19 +919,19 @@ msgstr "Hakuna Matokeo"
 #: src/screens/settings_calculation_advanced/index.tsx:44
 #: src/screens/settings_widget/city_name_pos_settings.tsx:26
 msgid "None"
-msgstr "Hakuna"
+msgstr "Tupu"
 
 #: src/screens/settings_calculation_advanced/index.tsx:72
 msgid "None (Automatic)"
-msgstr "Hakuna (Otomatiki)"
+msgstr "Tupu (Inayojiendesha)"
 
 #: src/utils/permission.ts:189
 msgid "Not now"
-msgstr "Sio kwa sasa"
+msgstr "Si sasa"
 
 #: src/screens/qibla_finder/index.tsx:92
 msgid "Note that due to software and hardware errors, Qibla direction shown by this app, particularly in compass mode, can be wrong."
-msgstr "Kumbuka kwamba kutokana na hitilafu za programu na maunzi, mwelekeo wa Qibla unaoonyeshwa na programu hii, hasa katika hali ya dira, unaweza kuwa mbaya."
+msgstr "Tilia maanani, kwamba wa hitilafu za programmu na simu, mwelekeo wa Kibla unaoonyeshwa unaweza sio sahihi, hasa katika hali ya kielekezi."
 
 #: src/components/audio_picker.tsx:73
 #: src/components/audio_picker.tsx:108
@@ -939,23 +939,23 @@ msgstr "Kumbuka kwamba kutokana na hitilafu za programu na maunzi, mwelekeo wa Q
 #: src/screens/settings_notifications/notification_setting.tsx:178
 #: src/screens/settings_notifications/notification_setting.tsx:278
 msgid "Notification"
-msgstr "Taarifa"
+msgstr "Ujulisho"
 
 #: src/screens/intro/intro.tsx:36
 msgid "Notification & Sound"
-msgstr "Arifa na Sauti"
+msgstr "Ujulisho na Sauti"
 
 #: src/utils/permission.ts:41
 msgid "Notifications Permission"
-msgstr "Ruhusa ya Arifa"
+msgstr "Ruhusa ya Ujulisho"
 
 #: src/screens/settings_display/number_format_settings.tsx:19
 msgid "Numbering system"
-msgstr "Mfumo wa nambari"
+msgstr "Mwenendo wa unambarishaji"
 
 #: src/screens/settings_notifications/vibration_setting.tsx:27
 msgid "Off"
-msgstr "Imezimwa"
+msgstr "Zime"
 
 #: src/screens/qibla_finder/index.tsx:36
 #: src/screens/qibla_finder/index.tsx:53
@@ -967,7 +967,7 @@ msgstr "Sawa"
 
 #: src/utils/permission.ts:178
 msgid "On Android 12 and newer, the app also needs alarms permission to work properly, so you must allow this as well."
-msgstr "Kwenye Android 12 na mpya zaidi, programu pia inahitaji ruhusa ya kengele ili kufanya kazi vizuri, kwa hivyo ni lazima uiruhusu pia."
+msgstr "Kwenye Android 12 na mpya muundo huu, pia programmu inahitaji ruhusu ya kengele kufanya kazi, kwa hio lazima uruhusu pia."
 
 #: src/screens/settings_notifications/vibration_setting.tsx:28
 #: src/screens/settings_reminders/reminder_item.tsx:38
@@ -976,7 +976,7 @@ msgstr "Mara moja"
 
 #: src/screens/settings_calculation_advanced/index.tsx:78
 msgid "One-Seventh of the Night"
-msgstr "Moja ya Saba ya Usiku"
+msgstr "Moja kwa Saba (1/7) ya Usiku Huo"
 
 #. shown in add/edit reminder dialog
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:260
@@ -985,25 +985,25 @@ msgstr "Mara moja tu?"
 
 #: src/screens/settings_widget/hide_widget_prayer_settings.tsx:64
 msgid "Only six items can be shown at the same time"
-msgstr "Vipengee sita pekee vinaweza kuonyeshwa kwa wakati mmoja"
+msgstr "Sehemu sita zinaweza onyeshwa kwa wakati mmoja"
 
 #: src/screens/settings_fix_common_problems/index.tsx:73
 msgid "Open Battery Optimization Settings"
-msgstr "Fungua Mipangilio ya Uboreshaji wa Betri"
+msgstr "Fungua Mipangilio ya Kuzidisha Nguvu ya Betri"
 
 #: src/screens/settings_fix_common_problems/index.tsx:104
 msgid "Open Power Manager Settings"
-msgstr "Fungua Mipangilio ya Kidhibiti cha Nguvu"
+msgstr "Fungua Meneja wa Utumiaji wa Stima"
 
 #: fastlane/update/update.ts:71
 #: website/src/_includes/home.tsx:105
 msgid "Open source repository"
-msgstr "Hifadhi ya chanzo wazi"
+msgstr "Hifadhi ya programmu wazi"
 
 #: fastlane/update/update.ts:45
 #: website/src/_includes/home.tsx:81
 msgid "Open-source"
-msgstr "Chanzo-wazi"
+msgstr "Programmu-wazi"
 
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:257
 msgid "Options"
@@ -1011,31 +1011,31 @@ msgstr "Chaguo"
 
 #: src/screens/intro/slides/welcome.tsx:16
 msgid "Or if you have a backup, you can import it"
-msgstr "Au ikiwa una nakala rudufu, unaweza kuiingiza"
+msgstr "Ama kama unahifadhi, unaweza agiza kutoka nje"
 
 #: src/components/orientation_lock.tsx:55
 msgid "Orientation Lock: Landscape"
-msgstr "Kufuli ya Mwelekeo: Mandhari"
+msgstr "Funga Utambulisho: Ulazi"
 
 #: src/components/orientation_lock.tsx:50
 msgid "Orientation Lock: Portrait"
-msgstr "Kufuli la Mwelekeo: Picha"
+msgstr "Kufuli la Mwelekeo: Simami"
 
 #: src/components/orientation_lock.tsx:61
 msgid "Orientation: Unlocked"
-msgstr "Mwelekeo: Imefunguliwa"
+msgstr "Pembe ya Utambulisho: Imefunguliwa"
 
 #: src/screens/qibla_finder/index.tsx:93
 msgid "Other magnetic devices may interfere with your phone's compass and your compass may need calibration."
-msgstr "Huenda vifaa vingine vya sumaku vikaingilia dira ya simu yako na dira yako inaweza kuhitaji kurekebishwa."
+msgstr "Vifaa vingine vyenye sumaku vinaweza kuhitalafiana na kielekezi kwenye simu yako na kielekzi chako kitahitaji urekebishaji."
 
 #: src/constants/notification.ts:29
 msgid "PRE_ADHAN_CHANNEL_NAME"
-msgstr "Adhana inayokuja"
+msgstr "Adhan ijayu"
 
 #: src/constants/notification.ts:45
 msgid "PRE_REMINDER_CHANNEL_NAME"
-msgstr "Kikumbusho kinachokuja"
+msgstr "Ukumbusho ujao"
 
 #: src/adhan/calculation_methods.ts:38
 msgid "Pakistan"
@@ -1068,19 +1068,19 @@ msgstr "Tafadhali kumbuka kuwa kuwezesha chaguo hili kunaweza kusababisha adhana
 
 #: src/screens/settings_calculation_advanced/index.tsx:102
 msgid "Polar Resolution"
-msgstr "Azimio la Polar"
+msgstr "Mgawo ya Polar"
 
 #: src/screens/settings_fix_common_problems/index.tsx:78
 msgid "Power Manager"
-msgstr "Meneja wa Nguvu"
+msgstr "Meneja wa Utumiaji wa Betri"
 
 #: website/src/_includes/home.tsx:38
 msgid "Prayer Times"
-msgstr "Nyakati za Maombi"
+msgstr "Nyakati za Salaa"
 
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:220
 msgid "Prayer list"
-msgstr "Orodha ya maombi"
+msgstr "Orodha ya salaa"
 
 #: src/components/audio_picker.tsx:366
 #: src/screens/settings_location/location_search.tsx:89
@@ -1109,7 +1109,7 @@ msgstr "Sera ya Faragha"
 #. Max. 80 characters
 #: fastlane/update/update.ts:16
 msgid "Privacy focused open-source muslim Adhan (islamic prayer times) and qibla app"
-msgstr "Faragha iliyolenga chanzo huria ya Adhan ya Kiislamu (nyakati za maombi ya Kiislamu) na programu ya qibla"
+msgstr "Faragha iliyolenga chanzo huria ya Adhan ya Kiislamu (nyakati za maombi ya Kiislamu) na programu ya kibla"
 
 #: fastlane/update/update.ts:67
 #: website/src/_includes/home.tsx:98
@@ -1128,15 +1128,15 @@ msgstr "Kibla"
 #: fastlane/update/update.ts:65
 #: website/src/_includes/home.tsx:97
 msgid "Qibla finder"
-msgstr "Kitafuta cha Qibla"
+msgstr "Kitafuta cha Kibla"
 
 #: src/screens/qibla_finder/index.tsx:25
 msgid "Qibla finder needs location service. If not enabled, location from app settings will be used."
-msgstr "Kitafutaji cha Qibla kinahitaji huduma ya eneo. Ikiwa haijawashwa, eneo kutoka kwa mipangilio ya programu litatumika."
+msgstr "Kitafutaji cha Kibla kinahitaji huduma ya eneo. Ikiwa haijawashwa, eneo kutoka kwa mipangilio ya programu litatumika."
 
 #: src/screens/qibla_finder/index.tsx:33
 msgid "Qibla map is currently unavailable in F-Droid builds. It may become available in future updates."
-msgstr "Ramani ya Qibla haipatikani kwa sasa katika miundo ya F-Droid. Inaweza kupatikana katika masasisho yajayo."
+msgstr "Ramani ya Kibla haipatikani kwa sasa katika miundo ya F-Droid. Inaweza kupatikana katika masasisho yajayo."
 
 #: src/constants/notification.ts:41
 msgid "REMINDER_CHANNEL_NAME"
@@ -1144,11 +1144,11 @@ msgstr "Kikumbusho"
 
 #: src/utils/ramadan.ts:61
 msgid "Ramadan is ending,"
-msgstr "Ramadhani inaisha,"
+msgstr "Ramadhan inaisha,"
 
 #: src/utils/ramadan.ts:57
 msgid "Ramadan is near,"
-msgstr "Ramadhani iko karibu,"
+msgstr "Ramadhan iko karibu,"
 
 #: src/tasks/update_widgets.ts:23
 msgid "Remaining till"
@@ -1258,7 +1258,7 @@ msgstr "Shafaq hutumiwa na njia ya Kamati ya Kutazama Mwezi ili kubainisha ni ai
 
 #: src/screens/settings_calculation_advanced/index.tsx:95
 msgid "Shafi, Maliki, Hanbali (Default)"
-msgstr "Shafi, Maliki, Hanbali (Chaguo-msingi)"
+msgstr "Shafi, Maliki, Hanbali (Chaguomsingi)"
 
 #: src/adhan/calculation_methods.ts:116
 msgid "Shia Ithna Ashari, Leva Institute, Qum"
@@ -1311,7 +1311,7 @@ msgstr "Ungependa kuonyesha kinachofuata katika arifa?"
 
 #: src/screens/settings_widget/index.tsx:43
 msgid "Show notification widget?"
-msgstr "Ungependa kuonyesha wijeti ya arifa?"
+msgstr "Ungependa kuonyesha kipande kia ukumbushu?"
 
 #: src/utils/permission.ts:194
 msgid "Show settings"
@@ -1407,7 +1407,9 @@ msgstr "Mkoa wa Ghuba (Dubai)"
 
 #: src/screens/settings_calculation/calendar_settings.tsx:45
 msgid "The app's lunar calendar is pre-calculated and may not be accurate because it isn't based on moon sightings. This is especially important to note for the start and end of Ramadan."
-msgstr "Kalenda ya mwandamo ya programu huhesabiwa mapema na huenda isiwe sahihi kwa sababu haitegemei mwonekano wa mwezi. Hili ni muhimu sana kuzingatiwa kwa mwanzo na mwisho wa Ramadhani."
+msgstr ""
+"\n"
+"Kalenda ya mwandamo ya programu huhesabiwa mapema na huenda isiwe sahihi kwa sababu haitegemei mwonekano wa mwezi. Hili ni muhimu sana kuzingatiwa kwa mwanzo na mwisho wa Ramadhan."
 
 #: website/src/_includes/privacy-policy.tsx:71
 msgid "The text found in this website and in the app may not be accurate in other languages, so in any case, only English version should be considered."
@@ -1450,7 +1452,7 @@ msgstr "Orodha ya wakati"
 
 #: src/screens/settings_location/index.tsx:19
 msgid "To calculate Adhan, We need your location. You can use the \"Find My Location\" button, or use the country and city/area search, or enter your coordinates manually."
-msgstr "Ili kukokotoa Adhana, Tunahitaji eneo lako. Unaweza kutumia kitufe cha \"Pata Mahali Pangu\", au utumie utafutaji wa nchi na jiji/eneo, au uweke viwianishi vyako wewe mwenyewe."
+msgstr "Ili kukokotoa Adhana, Tunahitaji eneo lako. Unaweza kutumia kitufe cha \"Pata Mahali Pangu\", au utumie utafutaji wa nchi na jiji/eneo, au uweke majiranukta ya kijiografia vyako wewe mwenyewe."
 
 #: src/utils/permission.ts:42
 msgid "To see notifications about adhan, we need your permission."
@@ -1486,7 +1488,7 @@ msgstr "Washa historia"
 
 #: src/screens/settings_calculation_advanced/index.tsx:82
 msgid "Twilight Angle"
-msgstr "Pembe ya Twilight"
+msgstr "Pembe ya Utusiutusi wa asubuhi au Jioni"
 
 #: src/adhan/calculation_methods.ts:44
 msgid "Umm al-Qura University, Makkah"
@@ -1510,7 +1512,7 @@ msgstr "Isiyotegemewa"
 
 #: src/screens/settings_calculation_advanced/index.tsx:111
 msgid "Unresolved (default)"
-msgstr "Haijatatuliwa (chaguo-msingi)"
+msgstr "Haijatatuliwa (chaguomsingi)"
 
 #: src/screens/settings_display/language_settings.tsx:83
 msgid "Unsupported"
@@ -1535,7 +1537,7 @@ msgstr "Tumia umbizo la Saa 24"
 
 #: src/screens/qibla_finder/index.tsx:103
 msgid "Use Compass"
-msgstr "Tumia Compass"
+msgstr "Tumia Kielekezi"
 
 #: src/screens/qibla_finder/index.tsx:100
 msgid "Use Map"
@@ -1556,7 +1558,7 @@ msgstr "Je, ungependa kutumia vipokea sauti vinavyobanwa kichwani vinapopatikana
 
 #: src/screens/settings_location/location_stack.tsx:32
 msgid "Using Coordinates"
-msgstr "Kutumia Viratibu"
+msgstr "Kutumia Majiranukta ya Kijiografia"
 
 #: src/screens/settings_location/location_stack.tsx:20
 msgid "Using GPS"
@@ -1580,11 +1582,11 @@ msgstr "Kitufe cha sauti kinasimamisha adhana"
 
 #: src/constants/notification.ts:33
 msgid "WIDGET_CHANNEL_NAME"
-msgstr "Wijeti"
+msgstr "Kipande"
 
 #: src/constants/notification.ts:37
 msgid "WIDGET_UPDATE_CHANNEL_NAME"
-msgstr "Sasisho la Wijeti"
+msgstr "Sasisho la Vipande"
 
 #: src/screens/intro/slides/welcome.tsx:12
 msgid "We'll help you do them quickly."
@@ -1633,7 +1635,7 @@ msgstr "Unaweza kufikia Kidhibiti Nishati cha kifaa chako kwa kutumia kitufe kil
 
 #: src/screens/settings_location/location_coordinates.tsx:137
 msgid "You can also paste coords from clipboard"
-msgstr "Unaweza pia kubandika misimbo kutoka kwenye ubao wa kunakili"
+msgstr "Unaweza pia kubandika majiranukta ya kijiografia kutoka kwenye ubao wa kunakili"
 
 #: src/screens/settings_display/calendar_lunar_settings.tsx:23
 msgid "You can change the language used for lunar calendar"
@@ -1658,7 +1660,7 @@ msgstr "Unaweza kuficha nyakati za maombi ambazo hutaki kuona kwenye wijeti hapa
 #: fastlane/update/update.ts:47
 #: website/src/_includes/home.tsx:83
 msgid "You can search for your location offline Or use GPS"
-msgstr "Unaweza kutafuta eneo lako nje ya mtandao Au kutumia GPS"
+msgstr "Unaweza kutafuta eneo lako nje ya mtandao au kutumia GPS"
 
 #: website/src/_includes/privacy-policy.tsx:66
 msgid "You should have received a copy of the GNU Affero General Public License along with this program. If not, see https://www.gnu.org/licenses/."
@@ -1719,7 +1721,7 @@ msgstr "Marekebisho"
 #. screen title
 #: src/navigation/types.ts:95
 msgid "calculation_advanced_settings"
-msgstr "Mipangilio ya Kina ya Kukokotoa"
+msgstr "Mipangilio ya Hesabu Endelevu"
 
 #. screen title
 #: src/navigation/types.ts:85
@@ -1798,7 +1800,7 @@ msgstr "Nyumbani"
 
 #: src/screens/settings_notifications/dont_notify_upcoming_setting.tsx:29
 msgid "if enabled, a notification will be shown around one hour before any prayer time or reminder that has sound"
-msgstr "ikiwashwa, arifa itaonyeshwa karibu saa moja kabla ya wakati wowote wa maombi au ukumbusho ambao una sauti"
+msgstr "ikiwashwa, ujulisho itaonyeshwa karibu saa moja kabla ya wakati wowote wa salaa au ukumbusho ambao una sauti"
 
 #: src/navigation/types.ts:38
 msgid "intro"
@@ -1807,7 +1809,7 @@ msgstr "utangulizi"
 #: src/screens/settings_display/hide_prayer_settings.tsx:56
 #: src/screens/settings_widget/hide_widget_prayer_settings.tsx:89
 msgid "is prayer time hidden?"
-msgstr "muda wa maombi umefichwa?"
+msgstr "muda wa salaa umefichwa?"
 
 #: src/adhan/prayer.ts:64
 msgid "isha.prayer"
@@ -1815,7 +1817,7 @@ msgstr "Isha"
 
 #: src/utils/date.ts:516
 msgid "later"
-msgstr "baadae"
+msgstr "baadaye"
 
 #. screen title
 #: src/navigation/types.ts:65
@@ -1832,32 +1834,32 @@ msgstr "Masjid An Nabawi"
 
 #: src/screens/settings_reminders/edit_reminder_modal.tsx:196
 msgid "minutes"
-msgstr "dakika"
+msgstr "madakika"
 
 #: src/assets/adhan_entries.ts:30
 msgid "moazen_zade"
-msgstr "Moazen Zade"
+msgstr "Mwadhini Zade"
 
 #: src/navigation/types.ts:147
 msgid "monthly_view"
-msgstr "Mtazamo wa Kila Mwezi"
+msgstr "Mwangalio wa Kila Mwezi"
 
 #. screen title
 #: src/components/audio_picker.tsx:90
 #: src/components/prayer_adhan.tsx:45
 #: src/navigation/types.ts:80
 msgid "muezzin_settings"
-msgstr "Muazini"
+msgstr "Mwadhini"
 
 #. screen title
 #: src/navigation/types.ts:75
 msgid "notification_advanced_settings"
-msgstr "Mipangilio ya Kina"
+msgstr "Mipangilio Endelevu"
 
 #. screen title
 #: src/navigation/types.ts:70
 msgid "notification_settings"
-msgstr "Arifa na Sauti"
+msgstr "Ujulisho na Sauti"
 
 #. Title of the page where you can count your Qada prayers and fast
 #: src/navigation/types.ts:136
@@ -1866,15 +1868,15 @@ msgstr "Kaunta ya Qada"
 
 #: src/navigation/types.ts:132
 msgid "qibla_compass"
-msgstr "Dira ya Qibla"
+msgstr "Kilekezi cha Kibla"
 
 #: src/navigation/types.ts:124
 msgid "qibla_finder"
-msgstr "Kipataji cha Qibla"
+msgstr "Kitafuti cha Kibla"
 
 #: src/navigation/types.ts:128
 msgid "qibla_map"
-msgstr "Ramani ya Qibla"
+msgstr "Ramani ya Kibla"
 
 #: src/assets/adhan_entries.ts:26
 msgid "ragheb_mustafa_ghalwash"
@@ -1891,20 +1893,20 @@ msgstr "Mipangilio"
 
 #: src/screens/settings_widget/index.tsx:58
 msgid "should notification widget be shown?"
-msgstr "wijeti ya arifa inapaswa kuonyeshwa?"
+msgstr "vipande vya ukumbushu vionyeshwe?"
 
 #: src/screens/settings_display/hide_prayer_setting.tsx:34
 #: src/screens/settings_widget/hide_widget_prayer_settings.tsx:39
 msgid "should {prayerName} be hidden?"
-msgstr "{prayerName} inapaswa kufichwa?"
+msgstr "Je? Ficha {prayerName}?"
 
 #: src/utils/ramadan.ts:53
 msgid "since the app's calendar is pre-calculated and not based on moon sightings, it may show incorrect date for the start and the end of Ramadan."
-msgstr "kwa kuwa kalenda ya programu huhesabiwa mapema na haitegemei kuonekana kwa mwezi, inaweza kuonyesha tarehe isiyo sahihi ya kuanza na mwisho wa Ramadhani."
+msgstr "Kwa kua kalenda ya programu kimefanyia mahesabu kabla na haijahusishwa na muonekano wa mwezi, inaweza kudanganya mwanzo na mwisho wa mwezi mtukufu wa Ramadhan."
 
 #: src/adhan/prayer.ts:68
 msgid "sunnah.midnight"
-msgstr "Usiku wa manane"
+msgstr "Katikati ya usiku"
 
 #: src/adhan/prayer.ts:72
 msgid "sunnah.tahajjud"
@@ -1912,7 +1914,7 @@ msgstr "Tahajjud"
 
 #: src/adhan/prayer.ts:44
 msgid "sunrise"
-msgstr "Kuchomoza kwa jua"
+msgstr "Macheo"
 
 #: src/adhan/prayer.ts:56
 msgid "sunset"
@@ -1921,7 +1923,7 @@ msgstr "Machweo"
 #. screen title
 #: src/navigation/types.ts:104
 msgid "widget_settings"
-msgstr "Mipangilio ya Wijeti"
+msgstr "Mipangilio ya Vipande"
 
 #: src/screens/settings_reminders/reminder_item.tsx:35
 msgid "{durationInMinutes} min after {prayer}"
@@ -1933,8 +1935,8 @@ msgstr "{durationInMinutes} dakika kabla ya {prayer}"
 
 #: src/screens/settings_notifications/notification_setting.tsx:186
 msgid "{prayerName} notification will be shown"
-msgstr "Arifa ya {prayerName} itaonyeshwa"
+msgstr "{prayerName} ujulisho utaonyeshwa"
 
 #: src/screens/settings_notifications/notification_setting.tsx:251
 msgid "{prayerName} sound will be played"
-msgstr "Sauti ya {prayerName} itachezwa"
+msgstr "{prayerName} sauti utachezwa"
