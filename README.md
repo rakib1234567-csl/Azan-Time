@@ -169,6 +169,11 @@ Translation to other languages has been done by these awesome people:
 
 * [Samin Yaser](https://github.com/SaminYaser-work)
 
+#### Kiswahili
+
+* Issa
+* Second Contributor has chosen to stay anonymous
+
 ## Thanks to
 
 All of people who have helped this project grow.
