@@ -62,6 +62,10 @@ export function LanguageSettings(props: IStackProps) {
       label: `বাংলা`,
       value: 'bn',
     },
+    {
+      label: `Kiswahili`,
+      value: 'sw',
+    },
   ];
 
   if (
@@ -77,6 +81,8 @@ export function LanguageSettings(props: IStackProps) {
       'de',
       'bs',
       'vi',
+      'bn',
+      'sw',
     ].includes(lang)
   ) {
     languageEntries.push({

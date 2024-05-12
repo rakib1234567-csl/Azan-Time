@@ -12,6 +12,7 @@ import {
   bs,
   vi,
   bn,
+  sw,
 } from 'make-plural/plurals';
 
 import {messages as arMessages} from '../locales/ar/messages';
@@ -23,6 +24,7 @@ import {messages as faMessages} from '../locales/fa/messages';
 import {messages as frMessages} from '../locales/fr/messages';
 import {messages as hiMessages} from '../locales/hi/messages';
 import {messages as idMessages} from '../locales/id/messages';
+import {messages as swMessages} from '../locales/sw/messages';
 import {messages as trMessages} from '../locales/tr/messages';
 import {messages as urMessages} from '../locales/ur/messages';
 import {messages as viMessages} from '../locales/vi/messages';
@@ -40,6 +42,7 @@ i18n.loadLocaleData({
   bs: {plurals: bs},
   vi: {plurals: vi},
   bn: {plurals: bn},
+  sw: {plurals: sw},
 });
 
 export const localeFallbacks = [
@@ -102,6 +105,11 @@ export const localeFallbacks = [
     base: 'bn',
     fallback: 'bn',
     messages: bnMessages,
+  },
+  {
+    base: 'sw',
+    fallback: 'sw',
+    messages: swMessages,
   },
 ];
 

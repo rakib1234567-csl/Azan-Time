@@ -14,6 +14,7 @@ const cmp = new Intl.Collator([
   'bs',
   'vi',
   'bn',
+  'sw',
 ]).compare;
 
 // some of this code is taken from uFuzzy (https://github.com/leeoniya/uFuzzy/blob/main/src/uFuzzy.js)

@@ -81,7 +81,7 @@ function save_screenshot {
 
  rm -f ./screen-tmp.png
 
-locales=('en-US' 'ar' 'bs' 'de' 'fa' 'fr' 'hi' 'id' 'tr' 'ur' 'vi' 'bn')
+locales=('en-US' 'ar' 'bs' 'de' 'fa' 'fr' 'hi' 'id' 'tr' 'ur' 'vi' 'bn' 'sw')
 
 start_clean_status_bar
 
