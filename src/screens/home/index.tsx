@@ -7,6 +7,7 @@ import {
   Directions,
   GestureHandlerRootView,
 } from 'react-native-gesture-handler';
+import {runOnJS} from 'react-native-reanimated';
 import {useStore} from 'zustand';
 import {shallow} from 'zustand/shallow';
 import {getPrayerTimes} from '@/adhan';
@@ -113,10 +114,14 @@ export function Home() {
 
   const flingLeft = Gesture.Fling()
     .direction(Directions.LEFT)
-    .onEnd(increaseCurrentDateByOne);
+    .onEnd(() => {
+      runOnJS(increaseCurrentDateByOne)();
+    });
   const flingRight = Gesture.Fling()
     .direction(Directions.RIGHT)
-    .onEnd(decreaseCurrentDateByOne);
+    .onEnd(() => {
+      runOnJS(decreaseCurrentDateByOne)();
+    });
 
   return (
     <SafeArea>
