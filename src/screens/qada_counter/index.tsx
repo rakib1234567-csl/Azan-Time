@@ -1,7 +1,9 @@
 import {t} from '@lingui/macro';
 import {Stack, Button} from 'native-base';
 import {useCallback, useState} from 'react';
-import DraggableFlatList, {RenderItem} from 'react-native-draggable-flatlist';
+import DraggableFlatList, {
+  type RenderItem,
+} from 'react-native-draggable-flatlist';
 import {GestureHandlerRootView} from 'react-native-gesture-handler';
 import {useStore} from 'zustand';
 import {shallow} from 'zustand/shallow';

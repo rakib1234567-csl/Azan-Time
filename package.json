@@ -101,7 +101,8 @@
     "react-native": "*"
   },
   "resolutions": {
-    "@types/react": "^18"
+    "@types/react": "^18",
+    "react-native-draggable-flatlist@^4.0.1": "patch:react-native-draggable-flatlist@npm%3A4.0.1#./.yarn/patches/react-native-draggable-flatlist-npm-4.0.1-4a95e98e27.patch"
   },
   "repository": {
     "type": "git",
@@ -111,5 +112,5 @@
   "engines": {
     "node": ">=18"
   },
-  "packageManager": "yarn@3.6.4"
+  "packageManager": "yarn@4.4.0"
 }

@@ -15,6 +15,7 @@ if (__DEV__) {
     'UNSAFE_componentWillMount',
     'If you do not provide children, you must specify an aria-label for accessibility',
     'In React 18, SSRProvider is not necessary and is a noop. You can remove it from your app',
+    '[Reanimated] Tried to modify key `current` of an object which has been already passed to a worklet',
   ];
 
   const warn = console.warn;
