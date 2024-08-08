@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-05-11 12:49+0330\n"
+"POT-Creation-Date: 2024-08-08 17:07+0330\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -81,7 +81,7 @@ msgstr "Ongeza Sauti Maalum"
 msgid "Add Reminder"
 msgstr "Ongeza Kikumbusho"
 
-#: src/screens/qada_counter/index.tsx:87
+#: src/screens/qada_counter/index.tsx:89
 msgid "Add new counter"
 msgstr "Ongeza kihesabu kipya"
 
@@ -243,7 +243,7 @@ msgstr "Chagua Njia ya Kuhesabu"
 msgid "Choose High Latitude Setting"
 msgstr "Chagua Mpangilio wa Latitudo ya Juu"
 
-#: src/screens/settings_display/language_settings.tsx:106
+#: src/screens/settings_display/language_settings.tsx:112
 msgid "Choose Language"
 msgstr "Chagua Lugha"
 
@@ -741,7 +741,7 @@ msgstr "Kuwait"
 msgid "Label"
 msgstr "Lebo"
 
-#: src/screens/settings_display/language_settings.tsx:103
+#: src/screens/settings_display/language_settings.tsx:109
 msgid "Language"
 msgstr "Lugha"
 
@@ -894,7 +894,7 @@ msgstr "Kikumbusho Kipya"
 msgid "Next"
 msgstr "Inayofuata"
 
-#: src/screens/home/index.tsx:217
+#: src/screens/home/index.tsx:222
 msgid "Next Day"
 msgstr "Kesho yake"
 
@@ -1092,7 +1092,7 @@ msgstr "Bonyeza ili kutafuta"
 msgid "Press to select a method"
 msgstr "Bonyeza ili kuchagua mbinu"
 
-#: src/screens/home/index.tsx:185
+#: src/screens/home/index.tsx:190
 msgid "Prev Day"
 msgstr "Siku Iliyotangulia"
 
@@ -1205,7 +1205,7 @@ msgstr "Tafuta"
 msgid "Secondary Calendar"
 msgstr "Kalenda ya Sekondari"
 
-#: src/screens/home/index.tsx:239
+#: src/screens/home/index.tsx:244
 msgid "See favorite locations"
 msgstr "Angalia maeneo unayopenda"
 
@@ -1288,7 +1288,7 @@ msgstr "Je, simu inapaswa kutetema adhana au kikumbusho kinapoanza kucheza?"
 msgid "Show Adhan Options"
 msgstr "Onyesha Chaguzi za Adhana"
 
-#: src/screens/home/index.tsx:209
+#: src/screens/home/index.tsx:214
 msgid "Show Today"
 msgstr "Onyesha Leo"
 
@@ -1514,7 +1514,7 @@ msgstr "Isiyotegemewa"
 msgid "Unresolved (default)"
 msgstr "Haijatatuliwa (chaguomsingi)"
 
-#: src/screens/settings_display/language_settings.tsx:83
+#: src/screens/settings_display/language_settings.tsx:89
 msgid "Unsupported"
 msgstr "Haitumiki"
 

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-05-11 12:49+0330\n"
+"POT-Creation-Date: 2024-08-08 17:07+0330\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -81,7 +81,7 @@ msgstr "কাস্টম অডিও যোগ করুন"
 msgid "Add Reminder"
 msgstr "রিমাইন্ডার যোগ করুন"
 
-#: src/screens/qada_counter/index.tsx:87
+#: src/screens/qada_counter/index.tsx:89
 msgid "Add new counter"
 msgstr "নতুন কাউন্টার যোগ করুন"
 
@@ -243,7 +243,7 @@ msgstr "গণনা পদ্ধতি নির্বাচন করুন"
 msgid "Choose High Latitude Setting"
 msgstr "উচ্চ অক্ষাংশের সেটিং নির্বাচন করুন"
 
-#: src/screens/settings_display/language_settings.tsx:106
+#: src/screens/settings_display/language_settings.tsx:112
 msgid "Choose Language"
 msgstr "ভাষা নির্বাচন করুন"
 
@@ -741,7 +741,7 @@ msgstr "কুয়েত"
 msgid "Label"
 msgstr "লেবেল"
 
-#: src/screens/settings_display/language_settings.tsx:103
+#: src/screens/settings_display/language_settings.tsx:109
 msgid "Language"
 msgstr "ভাষা"
 
@@ -894,7 +894,7 @@ msgstr "রিমাইন্ডার যোগ করুন"
 msgid "Next"
 msgstr "পরবর্তী"
 
-#: src/screens/home/index.tsx:217
+#: src/screens/home/index.tsx:222
 msgid "Next Day"
 msgstr "পরবর্তী দিন"
 
@@ -1092,7 +1092,7 @@ msgstr "অনুসন্ধান করতে টিপুন"
 msgid "Press to select a method"
 msgstr "একটি পদ্ধতি নির্বাচন করতে টিপুন"
 
-#: src/screens/home/index.tsx:185
+#: src/screens/home/index.tsx:190
 msgid "Prev Day"
 msgstr "আগের দিন"
 
@@ -1205,7 +1205,7 @@ msgstr "অনুসন্ধান করুন"
 msgid "Secondary Calendar"
 msgstr "দ্বিতীয় ক্যালেন্ডার"
 
-#: src/screens/home/index.tsx:239
+#: src/screens/home/index.tsx:244
 msgid "See favorite locations"
 msgstr "প্রিয় অবস্থানসমূহ দেখুন"
 
@@ -1288,7 +1288,7 @@ msgstr "আযান বা রিমাইন্ডার বাজানো �
 msgid "Show Adhan Options"
 msgstr "আযান অপশন দেখুন"
 
-#: src/screens/home/index.tsx:209
+#: src/screens/home/index.tsx:214
 msgid "Show Today"
 msgstr "আজ দেখুন"
 
@@ -1512,7 +1512,7 @@ msgstr "অবিশ্বস্ত"
 msgid "Unresolved (default)"
 msgstr "অমীমাংসিত (ডিফল্ট)"
 
-#: src/screens/settings_display/language_settings.tsx:83
+#: src/screens/settings_display/language_settings.tsx:89
 msgid "Unsupported"
 msgstr "অসমর্থিত"
 

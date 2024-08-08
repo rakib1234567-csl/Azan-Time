@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-05-11 12:49+0330\n"
+"POT-Creation-Date: 2024-08-08 17:07+0330\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -81,7 +81,7 @@ msgstr "कस्टम ऑडियो जोड़ें"
 msgid "Add Reminder"
 msgstr "अनुस्मारक जोड़ें"
 
-#: src/screens/qada_counter/index.tsx:87
+#: src/screens/qada_counter/index.tsx:89
 msgid "Add new counter"
 msgstr "नया काउंटर जोड़ें"
 
@@ -243,7 +243,7 @@ msgstr "गणना विधि चुनें"
 msgid "Choose High Latitude Setting"
 msgstr "उच्च अक्षांश सेटिंग चुनें"
 
-#: src/screens/settings_display/language_settings.tsx:106
+#: src/screens/settings_display/language_settings.tsx:112
 msgid "Choose Language"
 msgstr "भाषा चुनें"
 
@@ -741,7 +741,7 @@ msgstr "कुवैट"
 msgid "Label"
 msgstr "लेबल"
 
-#: src/screens/settings_display/language_settings.tsx:103
+#: src/screens/settings_display/language_settings.tsx:109
 msgid "Language"
 msgstr "भाषा"
 
@@ -894,7 +894,7 @@ msgstr "नया अनुस्मारक"
 msgid "Next"
 msgstr "अगला"
 
-#: src/screens/home/index.tsx:217
+#: src/screens/home/index.tsx:222
 msgid "Next Day"
 msgstr "अगले दिन"
 
@@ -1092,7 +1092,7 @@ msgstr "खोजने के लिए दबाएँ"
 msgid "Press to select a method"
 msgstr "कोई विधि चुनने के लिए दबाएँ"
 
-#: src/screens/home/index.tsx:185
+#: src/screens/home/index.tsx:190
 msgid "Prev Day"
 msgstr "पिछला दिन"
 
@@ -1205,7 +1205,7 @@ msgstr "खोज"
 msgid "Secondary Calendar"
 msgstr "माध्यमिक कैलेंडर"
 
-#: src/screens/home/index.tsx:239
+#: src/screens/home/index.tsx:244
 msgid "See favorite locations"
 msgstr "पसंदीदा स्थान देखें"
 
@@ -1288,7 +1288,7 @@ msgstr "क्या अज़ान या रिमाइंडर बजन�
 msgid "Show Adhan Options"
 msgstr "अज़ान के विकल्प दिखाएं"
 
-#: src/screens/home/index.tsx:209
+#: src/screens/home/index.tsx:214
 msgid "Show Today"
 msgstr "आज दिखाएँ"
 
@@ -1512,7 +1512,7 @@ msgstr "अविश्वसनीय"
 msgid "Unresolved (default)"
 msgstr "अनसुलझा (डिफ़ॉल्ट)"
 
-#: src/screens/settings_display/language_settings.tsx:83
+#: src/screens/settings_display/language_settings.tsx:89
 msgid "Unsupported"
 msgstr "असमर्थित"
 

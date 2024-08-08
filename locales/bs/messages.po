@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-05-11 12:49+0330\n"
+"POT-Creation-Date: 2024-08-08 17:07+0330\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -81,7 +81,7 @@ msgstr "Dodajte Prilagođeni Audio"
 msgid "Add Reminder"
 msgstr "Dodajte Podsjetnik"
 
-#: src/screens/qada_counter/index.tsx:87
+#: src/screens/qada_counter/index.tsx:89
 msgid "Add new counter"
 msgstr "Dodajte novi brojač"
 
@@ -243,7 +243,7 @@ msgstr "Odaberite Metodu Kalkulacije"
 msgid "Choose High Latitude Setting"
 msgstr "Odaberite Postavku Velike Geografske Širine"
 
-#: src/screens/settings_display/language_settings.tsx:106
+#: src/screens/settings_display/language_settings.tsx:112
 msgid "Choose Language"
 msgstr "Odaberite Jezik"
 
@@ -741,7 +741,7 @@ msgstr "Kuvajt"
 msgid "Label"
 msgstr "Oznaka"
 
-#: src/screens/settings_display/language_settings.tsx:103
+#: src/screens/settings_display/language_settings.tsx:109
 msgid "Language"
 msgstr "Jezik"
 
@@ -894,7 +894,7 @@ msgstr "Novi Podsjetnik"
 msgid "Next"
 msgstr "Sljedeći"
 
-#: src/screens/home/index.tsx:217
+#: src/screens/home/index.tsx:222
 msgid "Next Day"
 msgstr "Sljedeći Dan"
 
@@ -1092,7 +1092,7 @@ msgstr "Pritisnite za pretragu"
 msgid "Press to select a method"
 msgstr "Pritisnite za odabir metode"
 
-#: src/screens/home/index.tsx:185
+#: src/screens/home/index.tsx:190
 msgid "Prev Day"
 msgstr "Prošli Dan"
 
@@ -1209,7 +1209,7 @@ msgstr "Tražite"
 msgid "Secondary Calendar"
 msgstr "Sekundarni Kalendar"
 
-#: src/screens/home/index.tsx:239
+#: src/screens/home/index.tsx:244
 msgid "See favorite locations"
 msgstr "Pogledajte omiljene lokacije"
 
@@ -1295,7 +1295,7 @@ msgstr "Da li telefon treba da se trese i zuji kada ezan ili podsjetnik počne s
 msgid "Show Adhan Options"
 msgstr "Prikažite Postavke za Ezan"
 
-#: src/screens/home/index.tsx:209
+#: src/screens/home/index.tsx:214
 msgid "Show Today"
 msgstr "Prikažite Danas"
 
@@ -1525,7 +1525,7 @@ msgstr "Nepouzdano"
 msgid "Unresolved (default)"
 msgstr "Neriješeno (zadano)"
 
-#: src/screens/settings_display/language_settings.tsx:83
+#: src/screens/settings_display/language_settings.tsx:89
 msgid "Unsupported"
 msgstr "Nepodržano"
 

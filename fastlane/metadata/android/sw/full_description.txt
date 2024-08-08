@@ -1,0 +1,39 @@
+Faragha iliyolenga chanzo huria ya Adhan ya Kiislamu (nyakati za maombi ya Kiislamu) na programu ya kibla
+
+Vipengele vya programu:
+
+* Bila Matangazo
+
+* Haitumi aina yeyote ya ufuatiliaji
+
+* Programmu-wazi
+
+* Unaweza kutafuta eneo lako nje ya mtandao au kutumia GPS
+
+* Weka sauti maalum ya Adhana
+
+* Chagua sauti tofauti za Adhan kwa Fajr namaz
+
+* Ina sala tano za kila siku, na pia ina mipangilio ya Kuchomoza Jua, Kuzama kwa Jua, Usiku wa manane na Sala ya Usiku (Tahajjud)
+
+* Chaguo nyingi za hesabu ya Adhan (اذان).
+
+* Mandhari isiyoiva na giza
+
+* Ficha nyakati ambazo hauitaji
+
+* Weka vikumbusho kabla au baada ya muda wa maombi
+
+* Kiomyesho cha nyumbani na vipande vya ujulisho
+
+* Kitafuta cha Kibla
+
+* Kaunta ya Qada
+
+* Imejanibishwa katika Kiingereza, Kiajemi, Kiarabu, Kituruki, Kiindonesia, Kifaransa, Kiurdu, Kihindi, Kijerumani, Kibosnia, Kivietinamu, Bangla
+
+Hifadhi ya programmu wazi:
+https://github.com/meypod/al-azan
+
+Kwa kuwa hatutumii aina yoyote ya kifuatiliaji au uchanganuzi wa ajali, tafadhali ripoti tatizo au pendekezo lolote ulilonalo kwenye github repo yetu.:
+https://github.com/meypod/al-azan/issues

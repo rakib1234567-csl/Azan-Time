@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2024-05-11 12:49+0330\n"
+"POT-Creation-Date: 2024-08-08 17:07+0330\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -81,7 +81,7 @@ msgstr "Thêm Âm báo Tùy chỉnh"
 msgid "Add Reminder"
 msgstr "Thêm Lời nhắc"
 
-#: src/screens/qada_counter/index.tsx:87
+#: src/screens/qada_counter/index.tsx:89
 msgid "Add new counter"
 msgstr "Thêm bộ đếm mới"
 
@@ -243,7 +243,7 @@ msgstr "Chọn phương pháp tính"
 msgid "Choose High Latitude Setting"
 msgstr "Chọn Cài đặt Vĩ độ Cao"
 
-#: src/screens/settings_display/language_settings.tsx:106
+#: src/screens/settings_display/language_settings.tsx:112
 msgid "Choose Language"
 msgstr "Chọn ngôn ngữ"
 
@@ -741,7 +741,7 @@ msgstr "Cô-oét"
 msgid "Label"
 msgstr "Tên"
 
-#: src/screens/settings_display/language_settings.tsx:103
+#: src/screens/settings_display/language_settings.tsx:109
 msgid "Language"
 msgstr "Ngôn ngữ"
 
@@ -894,7 +894,7 @@ msgstr "Lời nhắc Mới"
 msgid "Next"
 msgstr "Tiếp"
 
-#: src/screens/home/index.tsx:217
+#: src/screens/home/index.tsx:222
 msgid "Next Day"
 msgstr "Ngày Sau"
 
@@ -1092,7 +1092,7 @@ msgstr "Nhấn để tìm"
 msgid "Press to select a method"
 msgstr "Nhấn để chọn một phương pháp"
 
-#: src/screens/home/index.tsx:185
+#: src/screens/home/index.tsx:190
 msgid "Prev Day"
 msgstr "Ngày Trước"
 
@@ -1205,7 +1205,7 @@ msgstr "Tìm kiếm"
 msgid "Secondary Calendar"
 msgstr "Lịch phụ"
 
-#: src/screens/home/index.tsx:239
+#: src/screens/home/index.tsx:244
 msgid "See favorite locations"
 msgstr "Xem các địa điểm yêu thích"
 
@@ -1291,7 +1291,7 @@ msgstr "Điện thoại có nên rung khi azan hoặc lời nhắc bắt đầu 
 msgid "Show Adhan Options"
 msgstr "Tùy chọn Hiển thị Azan"
 
-#: src/screens/home/index.tsx:209
+#: src/screens/home/index.tsx:214
 msgid "Show Today"
 msgstr "Hôm nay"
 
@@ -1518,7 +1518,7 @@ msgstr "Không tin cậy"
 msgid "Unresolved (default)"
 msgstr "Không dùng (mặc định)"
 
-#: src/screens/settings_display/language_settings.tsx:83
+#: src/screens/settings_display/language_settings.tsx:89
 msgid "Unsupported"
 msgstr "Không hỗ trợ"
 
