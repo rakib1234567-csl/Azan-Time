@@ -26,7 +26,7 @@ function AudioPickerItem({
   item,
   index,
   isSelected,
-}: AudioPickerItemOptions): JSX.Element {
+}: AudioPickerItemOptions): React.JSX.Element {
   return (
     <Pressable
       _light={{backgroundColor: isSelected ? 'gray.200' : undefined}}

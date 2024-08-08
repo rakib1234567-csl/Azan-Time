@@ -84,7 +84,7 @@ const SettingsAdhanHeaderRight = function SettingsAdhanHeaderRight() {
   );
 };
 
-export function App(): JSX.Element {
+export function App(): React.JSX.Element {
   const appIntroDone = useStore(settings, s => s.APP_INTRO_DONE);
   const isPlayingAudio = useStore(settings, s => s.IS_PLAYING_AUDIO);
   const themeColor = useStore(settings, s => s.computed.themeColor);

@@ -12,7 +12,7 @@ type SettingsListItemOptions = {
   item: ScreenListItem;
 };
 
-function SettingsListItem({item}: SettingsListItemOptions): JSX.Element {
+function SettingsListItem({item}: SettingsListItemOptions): React.JSX.Element {
   return (
     <Pressable onPress={() => push(item.name)}>
       {({isPressed}) => {
