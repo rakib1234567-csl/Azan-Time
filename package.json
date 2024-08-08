@@ -15,7 +15,7 @@
     "sync_metadata": "node --require ./fastlane/update/babel-register.js ./fastlane/update/update.ts",
     "lingui": "lingui",
     "np": "np --no-publish",
-    "postversion": "react-native-version",
+    "postversion": "react-native-version  --amend",
     "postinstall": "patch-package"
   },
   "dependencies": {
