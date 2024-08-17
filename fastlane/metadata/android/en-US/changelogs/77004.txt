@@ -1,0 +1,1 @@
+- Updated app to make all versions foss (this update adds qibla map to the f-droid version)
